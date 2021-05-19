@@ -19,7 +19,7 @@ subtitle: Ecología Microbiana de Sistemas Extremos <br><br>
 design:
   columns: "2"
   background:
-    image: home-wide.jpg
+    image: assets/media/home-wide.jpg
     image_darken: 0.6
     image_parallax: true
     image_position: center

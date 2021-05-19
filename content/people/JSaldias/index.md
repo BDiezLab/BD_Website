@@ -11,7 +11,7 @@ interests:
 - Experimental Lab
 - Molecular Biology
 - Microscopy
-user_groups: ["Former Lab Members"]
+user_groups: ["Current Members", "Staff"]
 organizations:
 - name: P. Universidad Católica de Chile
   url: "https://www.uc.cl"
@@ -24,7 +24,7 @@ superuser: false
 authors:
 - JSaldias
 title: Johanna Saldias
-tags: ["Former Lab Members"]
+tags: ["Current Members", "Staff"]
 summary: Lab Manager
 ---
 <p style="color:grey; font-size:20px; text-align:center;"> Lab Manager </p>

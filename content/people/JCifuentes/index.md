@@ -4,8 +4,8 @@ date: "2021-05-17"
 title: Jerónimo Cifuentes-Anticevic
 superuser: false
 authors: ["JCifuentes"]
-tags: ["Current Members", "Former Lab Members"]
-user_groups: ["Former Lab Members"]
+tags: ["Grad Students", "Current Members"]
+user_groups: ["Grad Students", "Current Members"]
 
 summary: Scientific Collaborator
 

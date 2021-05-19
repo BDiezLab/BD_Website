@@ -14,7 +14,7 @@ interests:
 - Microbial Ecology
 - Bioinformatics
 - Molecular Biology
-user_groups: ["Current Members", "Staff"]
+user_groups: ["Grad Students", "Current Members"]
 organizations:
 - name: P. Universidad Católica de Chile
   url: "https://www.uc.cl"
@@ -33,7 +33,7 @@ superuser: false
 authors:
 - DSegura
 title: Diego Segura
-tags: ["Staff", "Current Members"]
+tags: ["Grad Students", "Current Members"]
 summary: Scientific Collaborator
 date: "2021-04-16"
 ---

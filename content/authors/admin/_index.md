@@ -47,7 +47,7 @@ tags:
 ---
 <div style="text-align:justify;">
 
-Mi grupo de investigación trabaja en la resolución de preguntas fundamentales en Ecología Microbiana y Microbiología Ambiental usando los organismos “diazótrofos”, con capacidad de fijar N atmosférico, y en particular las cianobacterias como modelo. Su ocurrencia, (micro-) diversidad, e importancia ecológica mediante el estudio de sus tasas y estrategias de fijación de nitrógeno in situ en el medio natural y en aislados, así como sus respuestas (metabólica y genética) a las alteraciones en sistemas marinos y ambientes extremos, son el centro de mi investigación. <br>
+Mi grupo de investigación trabaja en la resolución de preguntas fundamentales en Ecología Microbiana y Microbiología Ambiental de Sistemas Extremos usando metodologías “ómicas” y los organismos extremófilos, en particular cianobacterias como modelo. Estudiamos diversidad, función, biogeografía, evolución y rol ecológico de microorganismos y virus, impactando en los ciclos biogeoquímicos, así como sus respuestas a cambios y perturbaciones ambientales y adaptaciones (metabólicas, genéticas y genómicas). <br>
 
 </div>
 

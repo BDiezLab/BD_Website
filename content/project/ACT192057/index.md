@@ -6,20 +6,20 @@ image:
   focal_point: Smart
 
 author_notes:
-- Co-IP
-- Co-IP
-- Co-IP
-- Co-IP
-- Co-IP
 - Principal Investigator
+- Co-IP
+- Co-IP
+- Co-IP
+- Co-IP
+- Co-IP
 
 authors:
-- admin
+- Eduardo Castro Nallar
 - Cristobal Gálban
 - Nicolas Heneeus
 - Ignacio Poblete
 - Marco Molina
-- Eduardo Castro Nallar
+- admin
 
 links:
 - icon: twitter
@@ -29,7 +29,7 @@ links:
 slides: 
 summary: Antarctic Peninsula
 tags: ["Current Project", "Extreme Systems", "Antarctic", "Microbiology", "Virology"]
-title: Long-range transport of xenobiotics and microorganisms
+title: ANILLO Antártico-Long-range transport of xenobiotics and microorganisms
 url_code: ""
 url_pdf: ""
 url_slides: ""

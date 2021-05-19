@@ -6,18 +6,18 @@ image:
   focal_point: Smart
 
 author_notes:
-- Co-IP
 - Principal Investigator
+- Co-IP
 
 authors:
-- Fabrice Lambert 
 - admin
+- Fabrice Lambert 
 
 links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: 
+  url: https://twitter.com/BDiezLab
 slides: 
 summary: Comunidades microbianas y virales del permafrost
 tags: ["Current Project", "Microbiology", "Virology", "Other"]

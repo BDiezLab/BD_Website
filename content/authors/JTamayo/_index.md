@@ -5,7 +5,7 @@ education:
   - course: PhD Genética Molecular y Microbiología 
     institution:  P. Universidad Católica de Chile
     year: 2016
-  - course: MSc. en Biotcnología
+  - course: MSc. en Biotecnología
     institution: Universidad Andrés Bello
     year: 2016
   - course: Ingeniería en Biotecnología

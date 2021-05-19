@@ -6,7 +6,7 @@ education:
   - course: PhD Genética Molecular y Microbiología 
     institution:  P. Universidad Católica de Chile
     year: 2016
-  - course: MSc. en Biotcnología
+  - course: MSc. en Biotecnología
     institution: Universidad Andrés Bello
     year: 2016
   - course: Ingeniería en Biotecnología
@@ -96,7 +96,7 @@ Los microorganismos han adquirido diversos mecanismos adaptativos a nuevos ambie
 <div class="column-right">
 
 <h3> Education </h3>
-{{< icon name="graduation-cap" pack="fas" >}} MSc. en Biotcnología, 2016
+{{< icon name="graduation-cap" pack="fas" >}} MSc. en Biotecnología, 2016
 <p style="color:grey; font-size:15px; padding-left:32px;"> Universidad Andrés Bello, Chile  </p>
 {{< icon name="graduation-cap" pack="fas" >}} Ingeniería en Biotecnología, 2014
 <p style="color:grey; font-size:15px; padding-left:32px;"> Universidad Andrés Bello, Chile </p>

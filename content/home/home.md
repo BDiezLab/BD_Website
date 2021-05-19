@@ -21,7 +21,7 @@ design:
   background:
     image: home-wide.jpg
     image_darken: 0.6
-    image_parallax: true
+    image_parallax: false
     image_position: center
     image_size: cover
     max-width: 100%

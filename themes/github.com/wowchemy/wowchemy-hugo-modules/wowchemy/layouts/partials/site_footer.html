@@ -1,0 +1,74 @@
+<footer class="site-footer" style="background-color:#03122E; width:100%; position:absolute; text-align:center; padding: 10px; padding-top: 15px; left:0;">
+   <style>
+       .column {
+    float: left;
+    }
+
+    /* Set width length for the left, right and middle columns */
+    .left {
+    width: 25%;
+    padding-top: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom:15px; 
+    }
+
+    .middle {
+    width: 50%;
+    padding-top: 30px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom:30px; 
+    }
+    
+    .right {
+    width: 25%;
+    }
+
+    .row:after {
+    content: "";
+    display: table;
+    clear: both;
+    }
+   
+   </style>
+    <div class="row">
+      <div class="column left">
+          <img src="https://kit-digital-uc-prod.s3.amazonaws.com/assets/logo-uc-blanco.svg" alt="Logo UC" class="img-fluid" style="max-width: 200px;">
+      </div>
+      <div class="column middle">
+  {{ if or (site.GetPage "terms.md") (site.GetPage "privacy.md") }}
+  <p class="powered-by">
+    {{ with site.GetPage "privacy.md" }}
+      {{ printf "<a href=\"%s\">%s</a>" .RelPermalink .Title | safeHTML }}
+    {{ end }}
+    {{ with site.GetPage "terms.md" }}
+      {{ if site.GetPage "privacy.md" }} &middot; {{ end }}
+      {{ printf "<a href=\"%s\">%s</a>" .RelPermalink .Title | safeHTML }}
+    {{ end }}
+  </p>
+  {{ end }}
+
+  <p class="powered-by" style="color:#fff;">
+    {{ with site.Copyright }}{{ replace . "{year}" now.Year | markdownify}}{{ end }}
+  </p>
+
+  {{/* Display copyright license. */}}
+  {{ partial "site_footer_license" . }}
+
+  <p class="powered-by" style="color:#fff;">
+    {{ $is_sponsor := site.Params.i_am_a_sponsor | default false }}
+    {{ $hide_published_with_footer := site.Params.power_ups.hide_published_with | default true }}
+    {{ if not (and $is_sponsor $hide_published_with_footer) }}
+    Powered by the <a href="https://wowchemy.com" target="_blank" rel="noopener" style="color:#F2CB05">Academic theme</a> for <a href="https://gohugo.io" target="_blank" rel="noopener"style="color:#F2CB05">Hugo</a>. <br> Web developer <a href="https://github.com/TamayoLeivaJ" target="_blank" rel="noopener" style="color:#F2CB05"> <i class="fab fa-github"></i> TamayoLeivaJ</a>
+    {{ end }}
+  </p>
+      </div>
+          <div class="column right">
+      </div>
+  </div>
+</footer>
+
+
+
+

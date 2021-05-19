@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jaime Alcorta | Beatriz Díez Lab</title>
+    <link>https://bdiezlab.com/people/jalcorta/</link>
+      <atom:link href="https://bdiezlab.com/people/jalcorta/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jaime Alcorta</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Javier Tamayo-Leiva</copyright>
+    <image>
+      <url>https://bdiezlab.com/people/jalcorta/featured.jpg</url>
+      <title>Jaime Alcorta</title>
+      <link>https://bdiezlab.com/people/jalcorta/</link>
+    </image>
+    
+  </channel>
+</rss>

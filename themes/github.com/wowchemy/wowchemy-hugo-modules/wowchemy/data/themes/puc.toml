@@ -1,0 +1,18 @@
+# Theme metadata
+name = "Puc"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#173F8A"    # Original "#2962ff"
+
+# Menu
+menu_primary = "#03122E"       # Original "#fff"
+menu_text = "#FFFFFF"          # Original "#34495e"
+menu_text_active = "#88A0BF"   # Original "#2962ff"
+menu_title = "#FFFFFF"         # Original "#2b2b2b"
+
+# Home sections
+home_section_odd = "rgb(255, 255, 255)"
+home_section_even = "rgb(247, 247, 247)"

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Diazospring | Beatriz Díez Lab</title>
+    <link>https://bdiezlab.com/tag/diazospring/</link>
+      <atom:link href="https://bdiezlab.com/tag/diazospring/index.xml" rel="self" type="application/rss+xml" />
+    <description>Diazospring</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Beatriz Díez Lab</copyright><lastBuildDate>Mon, 17 May 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://bdiezlab.com/media/icon.png</url>
+      <title>Diazospring</title>
+      <link>https://bdiezlab.com/tag/diazospring/</link>
+    </image>
+    
+    <item>
+      <title>Diazospring</title>
+      <link>https://bdiezlab.com/project/diazospring-project/</link>
+      <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://bdiezlab.com/project/diazospring-project/</guid>
+      <description>&lt;p&gt;Ecology of diazotrophic cyanobacteria in hot springs along a latitudinal gradient from Atacama to Antarctica&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

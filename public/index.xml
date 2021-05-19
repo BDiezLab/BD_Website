@@ -1,0 +1,1961 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Beatriz Díez Lab</title>
+    <link>https://bdiezlab.com/</link>
+      <atom:link href="https://bdiezlab.com/index.xml" rel="self" type="application/rss+xml" />
+    <description>Beatriz Díez Lab</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Beatriz Díez Lab</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://bdiezlab.com/media/icon.png</url>
+      <title>Beatriz Díez Lab</title>
+      <link>https://bdiezlab.com/</link>
+    </image>
+    
+    <item>
+      <title>Example Talk</title>
+      <link>https://bdiezlab.com/talk/example-talk/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <guid>https://bdiezlab.com/talk/example-talk/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further event details, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Beatriz Díez Moreno</title>
+      <link>https://bdiezlab.com/people/admin/</link>
+      <pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://bdiezlab.com/people/admin/</guid>
+      <description>&lt;p style=&#34;color:grey; font-size:20px; text-align:center;&#34;&gt;Principal Investigator&lt;br&gt;
+Associate Professor &lt;br&gt; P. Universidad Católica de Chile.&lt;/p&gt;
+&lt;div style=&#34;text-align:justify;&#34;&gt;
+&lt;h3&gt; About &lt;/h3&gt;
+&lt;p&gt;Spanish biologist Beatriz Díez, a specialist in microbial ecology who studies microorganisms in extremophilic environments, decided to work in Chile for two reasons: first, the country itself offers an amalgam of extreme climatic, geographic, and biochemical conditions; and second, because for her, the scant knowledge of how microbiota ecosystems adapt and survive here needs to be expanded and considered part of the World Heritage. &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Her research focuses on environmental microbiology that arises in polar systems and in cold and/or very warm thermal alpine systems, such as those located in the Atacama, the world’s most arid desert, in some of the country’s 80 active volcanoes, and in the ancient glaciers of Antarctica and the subantarctic. Because of this, Díez and her team have devoted themselves to obtaining new information about microorganisms that live under extreme conditions, recording their adaptations, diversity, function, biogeography, and relations with their environment, including with other organisms in the same place, as well as their potential applications. &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;While the discovery and study of extremophiles contributes to the investigation of extraterrestrial life, this kind of research can also be used to improve processes in the mining, wine, food, cosmetics, and other industries that use cold or heat chains in their processes or involve exposure to extreme climatic conditions. &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;“Any microorganism capable of living in an extremophile system has enzymes and adaptive survival strategies that are different from those that can be found in less adverse environments, so this kind of knowledge should be highly valued for assessing and improving industrial processes conducted at high or low temperatures or in very acidic or alkaline contexts,” affirms the microbial ecologist. &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;This research could also be applied to studies linked to climate change, given that extremophilic organisms have already developed adaptations to extreme temperatures. Today, Beatriz Díez is convinced that understanding how survival is possible under these kinds of conditions will help to characterize the biochemistry that defines the limits of cellular life, and in turn illuminate what could happen in an environment that may not be extremophilic today, but with the effects of climate change, could become so tomorrow. &lt;br&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;
+  &lt;i class=&#34;fas fa-download  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Download my &lt;a href=&#34;https://bdiezlab.com/docs/cv-bd.pdf&#34; target=&#34;_blank&#34;&gt;resumé&lt;/a&gt;.&lt;/p&gt;
+&lt;br&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://player.vimeo.com/video/76079854&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+ 
+&lt;br&gt;
+&lt;style&gt;
+.column-left{
+  float: left;
+  width: 50%;
+  text-align: justify;
+}
+.column-right{
+  float: right;
+  width: 50%;
+  text-align: justify;
+}
+&lt;/style&gt;
+&lt;div class=&#34;column-left&#34;&gt;
+&lt;h3&gt; Interests &lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Microbial Ecology&lt;/li&gt;
+&lt;li&gt;Microbial Evolution&lt;/li&gt;
+&lt;li&gt;Environmental Virology&lt;/li&gt;
+&lt;li&gt;Global Scientific Networks&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;column-right&#34;&gt;
+&lt;h3&gt; Education &lt;/h3&gt;
+
+  &lt;i class=&#34;fas fa-graduation-cap  pr-1 fa-fw&#34;&gt;&lt;/i&gt; PhD Ciéncias Biológicas, 2001
+&lt;p style=&#34;color:grey; font-size:15px; padding-left:32px;&#34;&gt; Universidad Autónoma de Barcelona, España &lt;/p&gt;
+
+  &lt;i class=&#34;fas fa-graduation-cap  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Licenciada en Biología, 1994
+&lt;p style=&#34;color:grey; font-size:15px; padding-left:32px;&#34;&gt; Universidad de Alicante, España &lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;h3&gt; Contact &lt;/h3&gt;
+&lt;p&gt;
+  &lt;i class=&#34;fas fa-envelope  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;a href=&#34;mailto:bdiez@bio.puc.cl&#34;&gt;bdiez@bio.puc.cl&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;mailto: bdiez@bio.puc.cl&#34;&gt;&lt;i class=&#34;fas fa-envelope&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+&lt;a href=&#34;https://orcid.org/0000-0002-9371-8083&#34;&gt;&lt;i class=&#34;fab fa-orcid&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+&lt;a href=&#34;https://scholar.google.es/citations?user=NXrEAO4AAAAJ&amp;hl=es&#34;&gt;&lt;i class=&#34;ai ai-google-scholar-square ai&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+&lt;a href=&#34;https://www.researchgate.net/profile/Beatriz-Diez&#34;&gt;&lt;i class=&#34;fab fa-researchgate&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+&lt;a href=&#34;https://postgrado.bio.uc.cl/facultad/profesores/beatriz-diez/&#34;&gt;&lt;i class=&#34;fas fa-link&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Caracterización de comunidades de virus gigantes</title>
+      <link>https://bdiezlab.com/project/dg_06_20/</link>
+      <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://bdiezlab.com/project/dg_06_20/</guid>
+      <description>&lt;p&gt;Caracterización de comunidades de virus gigantes y su asociación a fitoplancton  en aguas marinas Antárticas y Subantárticas &lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Proyecto INACH; DG_06_20 (2021-2023)&lt;/p&gt;
+&lt;div style=&#34;text-align:justify;&#34;&gt;
+&lt;p&gt;&lt;strong&gt;About&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Las aguas marinas Antárticas y Subantárticas son cuerpos de agua con características fisicoquímicas diferentes, separados naturalmente por la Corriente Circumpolar Antártica. Durante la primavera-verano austral, en aguas marinas Antárticas y Subantárticas ocurren florecimientos de fitoplancton principalmente en las zonas costeras, los que tienen una gran importancia a nivel local y global. Es relevante conocer el conjunto de factores que controlan y afectan estos florecimientos en aguas marinas de la Península Antártica Occidental, así como también en las Subantárticas de la Patagonia Chilena, ya que ambas regiones se encuentran altamente expuestas a los efectos del cambio climático global. Proyecciones principalmente basadas en factores abióticos indican que existirán cambios en la estructura de dichas comunidades fitoplanctónicas, sin embargo, no han considerado factores bióticos como los virus y sus asociaciones con hospederos fitoplanctónicos. En este sentido, la evidencia sugiere que las comunidades de virus gigantes podrían ser importantes agentes de infección del fitoplancton, no obstante, hasta la fecha existe poca información acerca de dichas comunidades virales de aguas marinas de la Península Antártica Occidental, y ninguna información en aguas Subantárticas de la Patagonia Chilena. Este proyecto tiene por tanto como objetivo caracterizar y determinar si los virus gigantes son importantes agentes de infección del fitoplancton tanto en aguas marinas de la Península Antártica Occidental como en las Subantárticas de la Patagonia Chilena. Además, considerando la barrera geográfica que impondría la Corriente Circumpolar Antártica, se estudiará si la estructura y posibles adaptaciones de las comunidades de virus gigantes de aguas marinas de la Península Antártica Occidental se diferencian de las Subantárticas de la Patagonia Chilena, determinándose si estas estructuras se explican por el ambiente (temperatura, salinidad, nutrientes), la geografía (latitud) o por una mezcla de ambos. Dichos objetivos se lograrán mediante aproximaciones metagenómicas, afiliaciones filogéneticas, análisis de co-ocurrencia, análisis dependientes e independientes de bases de datos, y análisis de diversidad. Este proyecto permitirá por primera vez describir y comparar comunidades virales marinas de la Península Antártica Occidental y Subantárticas de la Patagonia Chilena, y aportará información valiosa al Programa Nacional de Ciencia Antártica (PROCIEN) en su línea de investigación “Estado del ecosistema antártico”, entregando evidencia sobre los patrones de diversidad de especies virales y de sus genes y, además, permitirá explorar posibles adaptaciones y comprender los factores espacio-temporales determinantes de la distribución de las especies virales en ambas regiones geográficas.&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>Carla Barbosa</title>
+      <link>https://bdiezlab.com/people/cbarbosa/</link>
+      <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://bdiezlab.com/people/cbarbosa/</guid>
+      <description>&lt;p style=&#34;color:grey; font-size:20px; text-align:center;&#34;&gt; MSc. Students &lt;/p&gt;
+&lt;div style=&#34;text-align:justify;&#34;&gt;
+&lt;p&gt;&lt;strong&gt;About&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;La circulación de fluidos en la corteza terrestre facilita la transferencia del calor interno de la Tierra hacia la superficie. Existen regiones particulares en las que este fenómeno se ve favorecido, como es el caso del margen tectónico andino en el cual las zonas geotermales estás principalmente asociadas a su arco volcánico activo. Una de las herramientas que nos permiten comprender los procesos de subsuperficie que tienen lugar en un sistema geotermal es la geoquímica de sus manifestaciones superficiales. Dichas aguas termales, albergan microorganismos capaces de sobrellevar condiciones ambientales extremas, como podrían ser altas temperaturas, valores extremos de pH, altos niveles de salinidad y altas concentraciones de metales. Lo que buscamos a través de mi investigación es entender cómo se ven afectadas las comunidades microbianas de diversas fuentes termales por la hidrogeoquímica de las aguas en las que habitan. Por lo mismo, actualmente estudiamos la biodiversidad y la geoquímica de las fuentes termales de El Tatio (Chile), uno de los campos geotermales más grandes del mundo. El objetivo es comparar dichos resultados, a través de herramientas estadísticas, con lo que ocurre en termas ubicadas en otros contextos geodinámicos y bajo diferentes condiciones locales, lo cual estaría generando también una heterogeneidad en la fisicoquímica de los fluidos termales. &lt;br&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;style&gt;
+.column-left{
+  float: left;
+  width: 50%;
+  text-align: left;
+}
+.column-right{
+  float: right;
+  width: 50%;
+  text-align: left;
+}
+&lt;/style&gt;
+&lt;div class=&#34;column-left&#34;&gt;
+&lt;h3&gt; Interests &lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Geothermal exploration&lt;/li&gt;
+&lt;li&gt;Hidrogeochemistry&lt;/li&gt;
+&lt;li&gt;Geomicrobiology&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;column-right&#34;&gt;
+&lt;h3&gt; Education &lt;/h3&gt;
+
+  &lt;i class=&#34;fas fa-graduation-cap  pr-1 fa-fw&#34;&gt;&lt;/i&gt; MSc. Geology, 2021
+&lt;p style=&#34;color:grey; font-size:15px; padding-left:32px;&#34;&gt; Universidad de Chile, Chile &lt;/p&gt;
+
+  &lt;i class=&#34;fas fa-graduation-cap  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Geology, 2018
+&lt;p style=&#34;color:grey; font-size:15px; padding-left:32px;&#34;&gt; Universidad de Chile, Chile &lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;h3&gt; Contact &lt;/h3&gt;
+&lt;p&gt;
+  &lt;i class=&#34;fas fa-envelope  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;a href=&#34;mailto:carla.barbosa.tr@gmail.com&#34;&gt;carla.barbosa.tr@gmail.com&lt;/a&gt; &lt;br&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Center for Climate and Resilience Research (CR)2</title>
+      <link>https://bdiezlab.com/project/15110009/</link>
+      <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://bdiezlab.com/project/15110009/</guid>
+      <description>&lt;p&gt;Center for Climate and Resilience Research (CR)2 &lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Proyecto: CONICYT, FONDAP 15110009 (2018-2022)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Center for Genome Regulation</title>
+      <link>https://bdiezlab.com/project/15200002/</link>
+      <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://bdiezlab.com/project/15200002/</guid>
+      <description>&lt;p&gt;Center for Genome Regulation &lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Proyecto: ANID, FONDAP 15200002 (2021-2022)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CH4 cycling in the seasonal upwelling system</title>
+      <link>https://bdiezlab.com/project/p3190749/</link>
+      <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://bdiezlab.com/project/p3190749/</guid>
+      <description>&lt;p&gt;Identity and activity of microbes involved in CH4 cycling in the seasonal upwelling system off the coast of Chile&lt;/p&gt;
+&lt;p&gt;Proyecto CONICYT; FONDECYT Postdoctoral nº3190749 (2019-2022)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Christina Ridley</title>
+      <link>https://bdiezlab.com/people/cridley/</link>
+      <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://bdiezlab.com/people/cridley/</guid>
+      <description>&lt;p style=&#34;color:grey; font-size:20px; text-align:center;&#34;&gt; Postdoctoral fellow &lt;/p&gt;
+&lt;div style=&#34;text-align:justify;&#34;&gt;
+&lt;h3&gt; About &lt;/h3&gt;
+&lt;p&gt;With climate change expected to intensify, the frequency of marine upwelling events off the coast of Chile, and globally, are predicted to increase. This will result in substantial biogeochemical changes throughout the local system that could be reflected on a global scale. Interestingly, microbiological processes are largely ignored in climate change modeling, even though they are extremely important to the ecological balance. For instance, methane supersaturation of surface waters is now hypothesized to be caused by microbial metabolism. To that end, my project seeks to characterize the coupling of methylotrophy, methanogenesis and methanotrophy throughout the water column in this coastal upwelling system, and in other systems of interest in the future. This work integrates 16S rRNA gene sequencing, metagenomics, qPCR and metatranscriptomics with complementary biogeochemical and oceanographic data. Importantly, identification of key genes involved in the elusive aerobic methane production (methylotrophy) pathway will allow for a better understanding of the previously unexplainable methane supersaturation of surface waters. This information will ultimately help to quantify microbial methane flux to the atmosphere under dynamic conditions, which will improve the accuracy of climate change modeling.  &lt;br&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;style&gt;
+.column-left{
+  float: left;
+  width: 50%;
+  text-align: left;
+}
+.column-right{
+  float: right;
+  width: 50%;
+  text-align: left;
+}
+&lt;/style&gt;
+&lt;div class=&#34;column-left&#34;&gt;
+&lt;h3&gt; Interests &lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Microbial genomics &lt;br&gt;&lt;/li&gt;
+&lt;li&gt;Marine microbiology &lt;br&gt;&lt;/li&gt;
+&lt;li&gt;Microbial methane cycling &lt;br&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&#34;column-right&#34;&gt;
+&lt;h3&gt; Education &lt;/h3&gt;
+
+  &lt;i class=&#34;fas fa-graduation-cap  pr-1 fa-fw&#34;&gt;&lt;/i&gt; PhD. Environmental Microbiology
+&lt;p style=&#34;color:grey; font-size:15px;&#34;&gt; University of Calgary, Canada &lt;/p&gt;
+
+  &lt;i class=&#34;fas fa-graduation-cap  pr-1 fa-fw&#34;&gt;&lt;/i&gt; MASc. Biological Engineering
+&lt;p style=&#34;color:grey; font-size:15px;&#34;&gt; Dalhousie University, Halifax, Canada &lt;/p&gt;
+
+  &lt;i class=&#34;fas fa-graduation-cap  pr-1 fa-fw&#34;&gt;&lt;/i&gt; BSc. Microbiology &amp; Immunology
+&lt;p style=&#34;color:grey; font-size:15px;&#34;&gt; Dalhousie University, Halifax, Canada &lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h3&gt; Contact &lt;/h3&gt;
+&lt;p&gt;
+  &lt;i class=&#34;fas fa-envelope  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;a href=&#34;mailto:christina.m.ridley@gmail.com&#34;&gt;christina.m.ridley@gmail.com&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Comunidades microbianas y virales del permafrost en la cuenca del Rio Aconcagua</title>
+      <link>https://bdiezlab.com/project/ii190086/</link>
+      <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://bdiezlab.com/project/ii190086/</guid>
+      <description>&lt;p&gt;Descubriendo la identidad de las comunidades microbianas y virales del permafrost y su impacto sobre los recursos hídricos en la cuenca del Rio Aconcagua.&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Proyecto: Concurso Investigación Interdisciplinaria UC; II190086 (2020-2022)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>COV-SARS-2 in atmospheric aerosols</title>
+      <link>https://bdiezlab.com/project/covid0184/</link>
+      <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://bdiezlab.com/project/covid0184/</guid>
+      <description>&lt;p&gt;Relationship between atmospheric conditions and presence of COV-SARS-2 in atmospheric aerosols from different cities in Chile and its incidence in infectivity and lethality of COVID-19 disease&lt;/p&gt;
+&lt;p&gt;Proyecto ANID Coronavirus (covid-19); COVID0184 (2021-2022)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Diazospring</title>
+      <link>https://bdiezlab.com/project/diazospring-project/</link>
+      <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://bdiezlab.com/project/diazospring-project/</guid>
+      <description>&lt;p&gt;Ecology of diazotrophic cyanobacteria in hot springs along a latitudinal gradient from Atacama to Antarctica&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dinámica temporal costera de gases en Antártica Occidental (PAO)</title>
+      <link>https://bdiezlab.com/project/rt_05-18/</link>
+      <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://bdiezlab.com/project/rt_05-18/</guid>
+      <description>&lt;p&gt;Dinámica temporal de óxido nitroso y metano en una bahía costera de la Península Antártica Occidental (PAO): desde la variabilidad diaria a la interanual.&lt;/p&gt;
+&lt;p&gt;Proyecto INACH; RT_05_18 (2019-2022)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dominique Jara</title>
+      <link>https://bdiezlab.com/people/djara/</link>
+      <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://bdiezlab.com/people/djara/</guid>
+      <description>&lt;p style=&#34;color:grey; font-size:20px; text-align:center;&#34;&gt; Undergraduate Student &lt;/p&gt;
+&lt;div style=&#34;text-align:justify;&#34;&gt;
+&lt;p&gt;&lt;strong&gt;About&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Los datos compartidos por la Fundación Tara Oceans han permitido investigar y conocer mejor que antes el mundo marino. Entre esos datos de acceso libre, se encuentran los MAGs (Metagenome Assembled Genomes) obtenidos de las muestras tomadas de océanos de todo el mundo. El análisis de estos datos hace posible investigar sobre microorganismos que no han podido ser aislados en el laboratorio, permitiendo una visión más acertada de la diversidad de microorganismos que habitan el océano. Entre ellos, se encuentran aquellos que utilizan la luz como fuente de energía que puede ser capturada con sistemas basados en clorofila, o bien sistemas basados en retinol. Este último se relaciona con las rhodopsinas, una familia de proteínas dependiente de retinol que se ha descubierto recientemente que cumplen una variedad de funciones en los microorganismos. &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Con el objetivo de conocer qué tan importantes y el rol que cumplen las rhodopsinas en los sistemas marinos de todo el mundo, es que se analizan los MAGs de bacterias y arqueas obtenidos de la base de datos de Tara Oceans en busca de rhodopsinas.  &lt;br&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;style&gt;
+.column-left{
+  float: left;
+  width: 50%;
+  text-align: left;
+}
+.column-right{
+  float: right;
+  width: 50%;
+  text-align: left;
+}
+&lt;/style&gt;
+&lt;div class=&#34;column-left&#34;&gt;
+&lt;h3&gt; Interests &lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Computational Biology&lt;/li&gt;
+&lt;li&gt;Data Sciences&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;column-right&#34;&gt;
+&lt;h3&gt; Education &lt;/h3&gt;
+
+  &lt;i class=&#34;fas fa-graduation-cap  pr-1 fa-fw&#34;&gt;&lt;/i&gt; MSc. en Bioquímica, 2021
+&lt;p style=&#34;color:grey; font-size:15px; padding-left:32px;&#34;&gt; Universidad de Chile, Chile  &lt;/p&gt;
+
+  &lt;i class=&#34;fas fa-graduation-cap  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Bioquímica, 2020
+&lt;p style=&#34;color:grey; font-size:15px; padding-left:32px;&#34;&gt; Universidad de Chile, Chile &lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;h3&gt; Contact &lt;/h3&gt;
+&lt;p&gt;
+  &lt;i class=&#34;fas fa-envelope  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;a href=&#34;mailto:dominique.jaras@ug.uchile.cl&#34;&gt;dominique.jaras@ug.uchile.cl&lt;/a&gt; &lt;br&gt;
+&lt;a href=&#34;mailto:dominique.jaras@ug.uchile.cl&#34;&gt;&lt;i class=&#34;fas fa-envelope&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Efecto viral sobre bacterio- y fitoplancton</title>
+      <link>https://bdiezlab.com/project/rt_04-19/</link>
+      <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://bdiezlab.com/project/rt_04-19/</guid>
+      <description>&lt;p&gt;Identidad y efecto de los virus de ARN y ADN sobre la dinámica del bacterio- y fitoplancton en la Bahía Chile (Antártica).&lt;/p&gt;
+&lt;p&gt;Proyecto INACH; RT_04_19 (2020-2023)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Felipe Loyola</title>
+      <link>https://bdiezlab.com/people/floyola/</link>
+      <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://bdiezlab.com/people/floyola/</guid>
+      <description>&lt;p style=&#34;color:grey; font-size:20px; text-align:center;&#34;&gt; MSc. Student &lt;/p&gt;
+&lt;div style=&#34;text-align:justify;&#34;&gt;
+&lt;h3&gt; About &lt;/h3&gt;
+&lt;p&gt;(Tesista de) Magíster en Bioquímica Ambiental. Trabajamos en la búsqueda de nueva información sobre la estructura, diversidad y actividad de las comunidades virales presentes en ambientes termales, utilizando como modelo de estudio los tapetes microbianos presentes en los géiseres de El Tatio, Chile. Para esto, se analizan metagenomas y metatranscriptomas de muestras obtenidas en distintas expediciones a las termas de El Tatio, donde se escogen distintos puntos estratégicos para representar los cambios que pueden sufrir estas comunidades a lo largo de gradientes de temperatura y distancia geográfica.&lt;br&gt;
+De esta manera, podemos obtener mayor información respecto de la manera en la que factores bióticos (en este caso, fagos) pueden estar modulando estos microambientes.
+Además, se trabaja también con muestras de distintas termas del mundo (Estados unidos, China, Canadá, entre otros) que presenten condiciones abióticas similares y así comparar la abundancia y diversidad que presentan estas comunidades de microorganismos a lo largo del mundo.&lt;br&gt;
+El objetivo de este proyecto es dilucidar las comunidades de fagos presentes en los géiseres de El Tatio y sus interacciones virus-hospedador, esperando comprender sus patrones de ocurrencia e interacción, así como el efecto que generan factores como la temperatura y geografía en ellos, vislumbrando su posible endemismo. &lt;br&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;style&gt;
+.column-left{
+  float: left;
+  width: 50%;
+  text-align: left;
+}
+.column-right{
+  float: right;
+  width: 50%;
+  text-align: left;
+}
+&lt;/style&gt;
+&lt;div class=&#34;column-left&#34;&gt;
+&lt;h3&gt; Interests &lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Bioinformatics&lt;/li&gt;
+&lt;li&gt;Environmental Microbiology&lt;/li&gt;
+&lt;li&gt;Microbial Ecology&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;column-right&#34;&gt;
+&lt;h3&gt; Education &lt;/h3&gt;
+
+  &lt;i class=&#34;fas fa-graduation-cap  pr-1 fa-fw&#34;&gt;&lt;/i&gt; MSc. Bioquímica, 2022
+&lt;p style=&#34;color:grey; font-size:15px; padding-left:32px;&#34;&gt; Universidad de Chile, Chile  &lt;/p&gt;
+
+  &lt;i class=&#34;fas fa-graduation-cap  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Bioquímica, 2020
+&lt;p style=&#34;color:grey; font-size:15px; padding-left:32px;&#34;&gt; Universidad de Chile, Chile &lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;h3&gt; Contact &lt;/h3&gt;
+&lt;p&gt;
+  &lt;i class=&#34;fas fa-envelope  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;a href=&#34;mailto:felipe.loyola@ug.uchile.cl&#34;&gt;felipe.loyola@ug.uchile.cl&lt;/a&gt; &lt;br&gt;
+&lt;a href=&#34;mailto:felipe.loyola@ug.uchile.cl&#34;&gt;&lt;i class=&#34;fas fa-envelope&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+&lt;a href=&#34;https://www.linkedin.com/in/peteete&#34;&gt;&lt;i class=&#34;fab fa-linkedin&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Jaime Alcorta</title>
+      <link>https://bdiezlab.com/people/jalcorta/</link>
+      <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://bdiezlab.com/people/jalcorta/</guid>
+      <description>&lt;p style=&#34;color:grey; font-size:20px; text-align:center;&#34;&gt; PhD. Student &lt;/p&gt;
+&lt;div style=&#34;text-align:justify;&#34;&gt;
+&lt;h3&gt; About &lt;/h3&gt;
+&lt;p&gt;El estudio de los genomas microbianos ha revelado aspectos fundamentales sobre la evolución de la vida. Las nuevas metodologías de secuenciación de DNA han permitido mayor análisis de estos genomas desde muestras ambientales sin necesidad de aislarlos, y nuestra búsqueda en este momento se enfoca en el estudio de los miembros de los tapetes microbianos que se desarrollan en fuentes hidrotermales a lo largo de todo el mundo. Nuestra línea de investigación abarca dos ejes centrales:&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;El estudio de los genes relacionados a varios ciclos biogeoquímicos (carbono, nitrógeno, azufre, entre otros) en metagenomas de termas de todo el mundo y los genomas ensamblados desde metagenomas (MAGs por sus siglas en inglés) de los miembros que podrían estar involucrados en ellos, a partir de más de 80 metagenomas desde 32 a 98 °C. &lt;br&gt;&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;El estudio de la genómica comparativa de las cianobacterias, que corresponden a un grupo importante en el ambiente termal (y de importancia global en muchos ecosistemas como el océano), para la búsqueda genes que pudieran estar relacionados con la adaptación a las altas temperaturas, junto a un enfoque en la evolución del género Fischerella donde encontramos cianobacterias filamentosas, ramificadas y formadoras de heterocistos.&lt;br&gt;&lt;br&gt;
+Estos genomas nos ayudarán a comprender el funcionamiento y la composición de las comunidades microbianas en sistemas extremos, y ayudarán a entender cómo los genes relacionados con los ciclos biogeoquímicos o las adaptaciones a las altas temperaturas se han diseminado a lo largo del árbol de la vida.&lt;br&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+&lt;style&gt;
+.column-left{
+  float: left;
+  width: 50%;
+  text-align: left;
+}
+.column-right{
+  float: right;
+  width: 50%;
+  text-align: left;
+}
+&lt;/style&gt;
+&lt;div class=&#34;column-left&#34;&gt;
+&lt;h3&gt; Interests &lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Cyanobacteria&lt;/li&gt;
+&lt;li&gt;Hot Springs&lt;/li&gt;
+&lt;li&gt;Metagenomes&lt;/li&gt;
+&lt;li&gt;Comparative Genomics&lt;/li&gt;
+&lt;li&gt;Microbial Taxonomy&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;column-right&#34;&gt;
+&lt;h3&gt; Education &lt;/h3&gt;
+
+  &lt;i class=&#34;fas fa-graduation-cap  pr-1 fa-fw&#34;&gt;&lt;/i&gt; MSc. Bioquímica, 2018
+&lt;p style=&#34;color:grey; font-size:15px; padding-left:32px;&#34;&gt; Pontificia Universidad Católica de Chile, Chile  &lt;/p&gt;
+
+  &lt;i class=&#34;fas fa-graduation-cap  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Bioquímica, 2015
+&lt;p style=&#34;color:grey; font-size:15px; padding-left:32px;&#34;&gt; Pontificia Universidad Católica de Chile, Chile &lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;h3&gt; Contact &lt;/h3&gt;
+
+  &lt;i class=&#34;fas fa-envelope  pr-1 fa-fw&#34;&gt;&lt;/i&gt; alcorta.jaime@gmail.com&lt;br&gt;
+&lt;a href=&#34;mailto:alcorta.jaime@gmail.com&#34;&gt;&lt;i class=&#34;fas fa-envelope&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+&lt;a href=&#34;https://scholar.google.es/citations?user=4pTKG00AAAAJ&amp;hl=es&#34;&gt;&lt;i class=&#34;ai ai-google-scholar-square ai&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+&lt;a href=&#34;https://www.researchgate.net/profile/Jaime-Alcorta&#34;&gt;&lt;i class=&#34;fab fa-researchgate&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+&lt;a href=&#34;https://orcid.org/0000-0001-7662-239X&#34;&gt;&lt;i class=&#34;fab fa-orcid&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+&lt;a href=&#34;https://github.com/jaalcort&#34;&gt;&lt;i class=&#34;fab fa-github&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;</description>
+    </item>
+    
+    <item>
+      <title>Javier Tamayo-Leiva</title>
+      <link>https://bdiezlab.com/people/jtamayo/</link>
+      <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://bdiezlab.com/people/jtamayo/</guid>
+      <description>&lt;p style=&#34;color:grey; font-size:20px; text-align:center;&#34;&gt; PhD. Student &lt;/p&gt;
+&lt;div style=&#34;text-align:justify;&#34;&gt;
+&lt;h3&gt; About &lt;/h3&gt;
+&lt;p&gt;Mi línea de investigación se enfoca en la ecología de los elementos genéticos móviles en comunidades microbianas marinas. Particularmente el estudio de plásmidos y elementos integrativos. El estudio de las secuencias genéticas móviles y sus características aporta comprender patrones de estas secuencias en ambientes con altas dispersión, como lo son los sistemas marinos. &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;En el sistema marino las comunidades bacterianas se enfrentan a un sistema altamente dinámico donde existe una interacción activa entre los microorganismos que la componen y el entorno. Las variaciones del sistema marino pueden por ejemplo producirse por cambios en la climatología de cada región geográfica donde hay cambios periódicos asociados a variaciones estacionales, o al efecto de la contaminación asociada a la actividad humana. Frente a estos cambios, los microorganismos de la comunidad marina pueden experimenta cambios a nivel genómico, para adaptarse a nuevas condiciones ambientales. &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Los microorganismos han adquirido diversos mecanismos adaptativos a nuevos ambientes, siendo estos procesos un foco importante de estudio en la actualidad. Una posible explicación a la obtención de estos mecanismos que favorecen la adaptación y/o especiación, es la transferencia horizontal de genes o HGT por su sigla en inglés, los cuales se ven favorecidos por todo el conjunto de elementos genéticos móviles o MGE por su sigla en inglés, dentro de los que se encuentran, por ejemplo, plásmidos, Islas Genómicas y transposones.  La importancia del estudio de estos procesos en ambientes marinos radica en alta dispersión a los cuales los microorganismos están expuestos en estos ambientes, favoreciendo eventos de transferencia génica que ven favorecidos por una gran dispersión geográfica en ambientes marinos. Todo el conjunto de MGE y en particular las secuencias de DNA plasmidial, han ido tomando relevancia en los últimos años, tanto como para hablar de “Metamoviloma”, “Moviloma” o “Plasmidoma”, debido a la importancia que estos elementos tienen en procesos adaptativos de las comunidades microbianas, como también en la dispersión de genes relacionados con resistencias a antibióticos, metales pesados y otros compuestos tóxicos, generando también impacto directo sobre la salud humana. &lt;br&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;style&gt;
+.column-left{
+  float: left;
+  width: 50%;
+  text-align: left;
+}
+.column-right{
+  float: right;
+  width: 50%;
+  text-align: left;
+}
+&lt;/style&gt;
+&lt;div class=&#34;column-left&#34;&gt;
+&lt;h3&gt; Interests &lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Microbial Ecology&lt;/li&gt;
+&lt;li&gt;Computational Biology&lt;/li&gt;
+&lt;li&gt;Data Analytics&lt;/li&gt;
+&lt;li&gt;Data Sciences&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;column-right&#34;&gt;
+&lt;h3&gt; Education &lt;/h3&gt;
+
+  &lt;i class=&#34;fas fa-graduation-cap  pr-1 fa-fw&#34;&gt;&lt;/i&gt; MSc. en Biotcnología, 2016
+&lt;p style=&#34;color:grey; font-size:15px; padding-left:32px;&#34;&gt; Universidad Andrés Bello, Chile  &lt;/p&gt;
+
+  &lt;i class=&#34;fas fa-graduation-cap  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Ingeniería en Biotecnología, 2014
+&lt;p style=&#34;color:grey; font-size:15px; padding-left:32px;&#34;&gt; Universidad Andrés Bello, Chile &lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;h3&gt; Contact &lt;/h3&gt;
+&lt;p&gt;
+  &lt;i class=&#34;fas fa-envelope  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;a href=&#34;mailto:jatamayo@uc.cl&#34;&gt;jatamayo@uc.cl&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;mailto:jatamayo@uc.cl&#34;&gt;&lt;i class=&#34;fas fa-envelope&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+&lt;a href=&#34;https://orcid.org/0000-0003-2610-6957&#34;&gt;&lt;i class=&#34;fab fa-orcid&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+&lt;a href=&#34;https://scholar.google.com/citations?user=Rr-4cmQwXX4C&amp;hl=es&#34;&gt;&lt;i class=&#34;ai ai-google-scholar-square ai&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+&lt;a href=&#34;https://www.researchgate.net/profile/Javier-Tamayo&#34;&gt;&lt;i class=&#34;fab fa-researchgate&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+&lt;a href=&#34;https://www.linkedin.com/in/javier-ignacio-tamayo-leiva-94613267&#34;&gt;&lt;i class=&#34;fab fa-linkedin&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+&lt;a href=&#34;https://twitter.com/TamayoLeiva_J&#34;&gt;&lt;i class=&#34;fab fa-twitter&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+&lt;a href=&#34;https://www.kaggle.com/jtamayo&#34;&gt;&lt;i class=&#34;fab fa-kaggle&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+&lt;a href=&#34;https://github.com/JTamayo-Leiva&#34;&gt;&lt;i class=&#34;fab fa-github&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Jerónimo Cifuentes-Anticevic</title>
+      <link>https://bdiezlab.com/people/jcifuentes/</link>
+      <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://bdiezlab.com/people/jcifuentes/</guid>
+      <description>&lt;p style=&#34;color:grey; font-size:20px; text-align:center;&#34;&gt; Scientific Collaborator &lt;/p&gt;
+&lt;div style=&#34;text-align:justify;&#34;&gt;
+&lt;h3&gt; About &lt;/h3&gt;
+&lt;p&gt;I&amp;rsquo;m a Biochemist working in Marine Microbiology.  &lt;br&gt;
+I describe myself as a self-taught Bioinformatician with experience in Molecular Biology, that also enjoys going out sampling. My main scientific interest is to combine bioinformatic sequence analysis to determine novel microbial capabilities, with a wet lab approach to test these hypotheses. During my MSc thesis, I worked on the description of proteorhodopsins-bearing bacteria in Antarctic coastal waters, and now I&amp;rsquo;m interested in the diversity and distribution of type-1 rhodopsins in polar marine environments. I&amp;rsquo;m also working on the discovery of novel enzymes that degrade PET, a widely used plastic that accumulates as waste at similar rates to its production. The nitrogen cycle in Antarctic coastal waters is still an understudied area, and together with María E. Alcamán-Arias, we are evaluating the nitrification and nitrogen fixation processes, combining molecular biology, meta-omics and stable isotope techniques. &lt;br&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;style&gt;
+.column-left{
+  float: left;
+  width: 50%;
+  text-align: left;
+}
+.column-right{
+  float: right;
+  width: 50%;
+  text-align: left;
+}
+&lt;/style&gt;
+&lt;div class=&#34;column-left&#34;&gt;
+&lt;h3&gt; Interests &lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Photoheterotrophy&lt;/li&gt;
+&lt;li&gt;Nitrogen cycle&lt;/li&gt;
+&lt;li&gt;Protein annotation&lt;/li&gt;
+&lt;li&gt;Phylogenetics&lt;/li&gt;
+&lt;li&gt;Chemosynthetic symbioses
+&lt;br&gt;&lt;br&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&#34;column-right&#34;&gt;
+&lt;h3&gt; Education &lt;/h3&gt;
+
+  &lt;i class=&#34;fas fa-graduation-cap  pr-1 fa-fw&#34;&gt;&lt;/i&gt; MSc. Biochemistry, 2019
+&lt;p style=&#34;color:grey; font-size:15px; padding-left:32px;&#34;&gt; Universidad de Chile, Chile &lt;/p&gt;
+
+  &lt;i class=&#34;fas fa-graduation-cap  pr-1 fa-fw&#34;&gt;&lt;/i&gt; BSc. Biochemistry, 2016
+&lt;p style=&#34;color:grey; font-size:15px; padding-left:32px;&#34;&gt; Universidad de Chile, Chile &lt;/p&gt;
+&lt;br&gt;&lt;br&gt;
+&lt;/div&gt;
+&lt;h3&gt; Contact &lt;/h3&gt;
+&lt;p&gt;
+  &lt;i class=&#34;fas fa-envelope  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;a href=&#34;mailto:jeronimo.cifuentes@ug.uchile.cl&#34;&gt;jeronimo.cifuentes@ug.uchile.cl&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;mailto:jeronimo.cifuentes@ug.uchile.cl&#34;&gt;&lt;i class=&#34;fas fa-envelope&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+&lt;a href=&#34;https://orcid.org/0000-0002-8099-4994&#34;&gt;&lt;i class=&#34;fab fa-orcid&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+&lt;a href=&#34;https://scholar.google.com/citations?user=Rr1RVHEAAAAJ&amp;hl=en&#34;&gt;&lt;i class=&#34;ai ai-google-scholar-square ai&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+&lt;a href=&#34;https://twitter.com/cifuentesjero&#34;&gt;&lt;i class=&#34;fab fa-twitter&#34;&gt;&lt;/i&gt;&lt;/a&gt; &lt;br&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Johanna Saldias</title>
+      <link>https://bdiezlab.com/people/jsaldias/</link>
+      <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://bdiezlab.com/people/jsaldias/</guid>
+      <description>&lt;p style=&#34;color:grey; font-size:20px; text-align:center;&#34;&gt; Lab Manager &lt;/p&gt;
+&lt;div style=&#34;text-align:justify;&#34;&gt;
+&lt;h3&gt; About &lt;/h3&gt;
+&lt;p&gt;Profesional con 8 años de experiencia en investigación científica en las áreas de virología, neurociencias, ecología y toxicología ambiental. Gran capacidad para trabajar en ambientes colaborativos de alto desempeño. Predisposición y capacidades para la implementación de nuevas técnicas requeridas para la obtención de resultados a través del auto-aprendizaje. Durante su carrera ha trabajado de manera estrecha con alumnos de pregrado, posgrado y profesionales del área científica implementando técnicas y resolviendo problemas diversos. &lt;br&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;style&gt;
+.column-left{
+  float: left;
+  width: 50%;
+  text-align: left;
+}
+.column-right{
+  float: right;
+  width: 50%;
+  text-align: left;
+}
+&lt;/style&gt;
+&lt;div class=&#34;column-left&#34;&gt;
+&lt;h3&gt; Interests &lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Microbiology&lt;/li&gt;
+&lt;li&gt;Virology&lt;/li&gt;
+&lt;li&gt;Experimental Lab&lt;/li&gt;
+&lt;li&gt;Molecular Biology&lt;/li&gt;
+&lt;li&gt;Biotechnology&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;column-right&#34;&gt;
+&lt;h3&gt; Education &lt;/h3&gt;
+
+  &lt;i class=&#34;fas fa-graduation-cap  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Biotecnología Industrial, 2012
+&lt;p style=&#34;color:grey; font-size:15px; padding-left:32px;&#34;&gt; INACAP, Chile &lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;h3&gt; Contact &lt;/h3&gt;
+&lt;p&gt;
+  &lt;i class=&#34;fas fa-paper-plane  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;a href=&#34;mailto:johanna.saldiasr@gmail.com&#34;&gt;johanna.saldiasr@gmail.com&lt;/a&gt; &lt;br&gt;
+&lt;a href=&#34;https://www.linkedin.com/in/johanna-saldías-ríos-8b9b75149/&#34;&gt;&lt;i class=&#34;fab fa-linkedin&#34;&gt;&lt;/i&gt; Johanna Saldias&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>José Ignacio Arroyo</title>
+      <link>https://bdiezlab.com/people/jarroyo/</link>
+      <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://bdiezlab.com/people/jarroyo/</guid>
+      <description>&lt;p style=&#34;color:grey; font-size:20px; text-align:center;&#34;&gt; Scientific Collaborator &lt;br&gt; Former Member &lt;/p&gt;
+&lt;h3&gt; Contact &lt;/h3&gt;
+&lt;p&gt;
+  &lt;i class=&#34;fas fa-envelope  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;a href=&#34;mailto:jonachoarroyo@gmail.com&#34;&gt;jonachoarroyo@gmail.com&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;mailto:jonachoarroyo@gmail.com&#34;&gt;&lt;i class=&#34;fas fa-envelope&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+&lt;a href=&#34;https://scholar.google.com/citations?user=vbgJPgkAAAAJ&amp;hl=en&#34;&gt;&lt;i class=&#34;ai ai-google-scholar-square ai&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+&lt;a href=&#34;https://www.researchgate.net/profile/Jose-Arroyo-22&#34;&gt;&lt;i class=&#34;fab fa-researchgate&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+&lt;a href=&#34;https://www.santafe.edu/people/profile/jose-ignacio-arroyo&#34;&gt;&lt;i class=&#34;fas fa-link&#34;&gt;&lt;/i&gt; Santa Fe Institute, USA&lt;/a&gt;
+&lt;a href=&#34;http://www.cmm.uchile.cl/?cmm_people=jose-ignacio-arroyo&#34;&gt;&lt;i class=&#34;fas fa-link&#34;&gt;&lt;/i&gt; CMM, Universidad de Chile, Chile&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Karen Jordaan</title>
+      <link>https://bdiezlab.com/people/kjordaan/</link>
+      <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://bdiezlab.com/people/kjordaan/</guid>
+      <description>&lt;p style=&#34;color:grey; font-size:20px; text-align:center;&#34;&gt; Postdoctoral fellow &lt;/p&gt;
+&lt;div style=&#34;text-align:justify;&#34;&gt;
+&lt;h3&gt; About &lt;/h3&gt;
+&lt;p&gt;&amp;ldquo;&lt;b&gt;I don&amp;rsquo;t see the desert as barren at all; I see it as full and ripe. It doesn&amp;rsquo;t need to be flattered with rain. It certainly needs rain, but it does with what it has, and creates amazing beauty.&lt;/b&gt;&amp;rdquo; - &lt;em&gt;Joy Harjo&lt;/em&gt; &lt;br&gt;&lt;br&gt;
+Deserts are magical, yet harsh, environments that flourish with all kinds of life: humans, plants, animals, and microorganisms (bacteria, fungi, archaea, viruses). Desert microbes have special adaptive mechanisms to survive these extreme environments. The focus of my research is to better understand the mechanisms by which microbial communities adapt to and/or are influenced by extreme environments using a suite of omics techniques. I’m also interested in: (i) the interactions/co-occurrences between microorganism, especially with drying-wetting events; (ii) how drying-wetting events impact biogeochemical cycles; (iii) the presence and ecology of viruses in deserts; and (iv) the effect of viruses on the succession and function of bacterial communities. &lt;br&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;style&gt;
+.column-left{
+  float: left;
+  width: 50%;
+  text-align: left;
+}
+.column-right{
+  float: right;
+  width: 50%;
+  text-align: left;
+}
+&lt;/style&gt;
+&lt;div class=&#34;column-left&#34;&gt;
+&lt;h3&gt; Interests &lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Microbial Ecology&lt;/li&gt;
+&lt;li&gt;Extreme Environments&lt;/li&gt;
+&lt;li&gt;Sequencing&lt;/li&gt;
+&lt;li&gt;Bioinformatics&lt;/li&gt;
+&lt;li&gt;Data Analysis
+&lt;br&gt;&lt;br&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&#34;column-right&#34;&gt;
+&lt;h3&gt; Education &lt;/h3&gt;
+
+  &lt;i class=&#34;fas fa-graduation-cap  pr-1 fa-fw&#34;&gt;&lt;/i&gt; PhD. Environmental Sciences, 2015
+&lt;p style=&#34;color:grey; font-size:15px; padding-left:32px;&#34;&gt; North-West University, South Africa  &lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;h3&gt; Contact &lt;/h3&gt;
+&lt;p&gt;
+  &lt;i class=&#34;fas fa-envelope  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;a href=&#34;mailto:karen.jordaan20@gmail.com&#34;&gt;karen.jordaan20@gmail.com&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Long-range transport of xenobiotics and microorganisms</title>
+      <link>https://bdiezlab.com/project/act192057/</link>
+      <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://bdiezlab.com/project/act192057/</guid>
+      <description>&lt;p&gt;Long-range transport of xenobiotics and microorganisms: Teleconnections and influence on terrestrial ecosystems.&lt;/p&gt;
+&lt;p&gt;Proyecto CONICYT PIA- Anillo de investigación en Ciencia Antártica; ACT192057 (2020-2023)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Marianne Buscaglia</title>
+      <link>https://bdiezlab.com/people/mbuscaglia/</link>
+      <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://bdiezlab.com/people/mbuscaglia/</guid>
+      <description>&lt;p style=&#34;color:grey; font-size:20px; text-align:center;&#34;&gt; PhD. Student &lt;/p&gt;
+&lt;div style=&#34;text-align:justify;&#34;&gt;
+&lt;p&gt;&lt;strong&gt;About&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Marianne en el marco de su tesis doctoral está estudiando las comunidades virales de aguas marinas Antárticas (Península Antártica Occidental) y Subantárticas (Patagonia Chilena), con especial enfásis en aquellos virus que infectan al fitoplancton. Esto, debido a que es relevante conocer el conjunto de factores que controlan la abundancia del fitoplancton en estas aguas australes, siendo los factores bióticos como los virus y sus asociaciones con hospederos fitoplanctónicos muy poco explorados. La evidencia sugiere que los virus gigantes podrían ser potenciales agentes de infección del fitoplancton, no obstante, existe escasa información acerca de ellos en ambos sistemas australes. Por ello, en esta tesis doctoral se pretende profundizar en el conocimiento sobre dichas comunidades virales respondiendo preguntas como ¿cuál es la identidad y diversidad de los virus gigantes de aguas marinas Antárticas (PAO) y Subantárticas (PCh)? ¿Cuáles son los potenciales hospederos de estos virus gigantes en estas aguas australes? ¿Son las comunidades de virus gigantes de aguas marinas Antárticas (PAO) únicas, o comparten ciertas características de las del Subantártico (PCh)? ¿Han desarrollado los virus gigantes de ambos sistemas australes estrategias de adaptación a bajas temperaturas, o sólo los que habitan aguas Antárticas? &lt;br&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;style&gt;
+.column-left{
+  float: left;
+  width: 50%;
+  text-align: left;
+}
+.column-right{
+  float: right;
+  width: 50%;
+  text-align: left;
+}
+&lt;/style&gt;
+&lt;div class=&#34;column-left&#34;&gt;
+&lt;h3&gt; Interests &lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Environmental Virology&lt;/li&gt;
+&lt;li&gt;Ecology of Extreme Systems&lt;/li&gt;
+&lt;li&gt;Computational Biology&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;column-right&#34;&gt;
+&lt;h3&gt; Education &lt;/h3&gt;
+
+  &lt;i class=&#34;fas fa-graduation-cap  pr-1 fa-fw&#34;&gt;&lt;/i&gt; MSc. en Bioquímica, 2013
+&lt;p style=&#34;color:grey; font-size:15px; padding-left:32px;&#34;&gt; Universidad de Chile, Chile  &lt;/p&gt;
+
+  &lt;i class=&#34;fas fa-graduation-cap  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Bioquímica, 2013
+&lt;p style=&#34;color:grey; font-size:15px; padding-left:32px;&#34;&gt; Universidad de Chile, Chile &lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;h3&gt; Contact &lt;/h3&gt;
+&lt;p&gt;
+  &lt;i class=&#34;fas fa-envelope  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;a href=&#34;mailto:buscaglia.m@gmail.com&#34;&gt;buscaglia.m@gmail.com&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>María Estrella Alcamán</title>
+      <link>https://bdiezlab.com/people/ealcaman/</link>
+      <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://bdiezlab.com/people/ealcaman/</guid>
+      <description>&lt;p style=&#34;color:grey; font-size:20px; text-align:center;&#34;&gt; Scientific Collaborator &lt;br&gt; Former Member &lt;/p&gt;
+&lt;div style=&#34;text-align:justify;&#34;&gt;
+&lt;h3&gt; About &lt;/h3&gt;
+&lt;p&gt;Bióloga Marina de la Universidad de Concepción, Magister y Doctorado en Ciencias Biológicas con mención en Genética Molecular y Microbiología de la Pontificia Universidad Católica de Chile. Postdoctorado en la Universidad de Concepción, y Centro de Ciencia del Clima y la Resiliencia (CR2) de la Universidad de Chile. Miembro directivo de la Asociación de investigadores jóvenes polares APECS Chile.&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Mi línea de investigación se enfoca en la Ecología microbiana y ciclos biogeoquímicos de sistemas termales terrestres y oceánicos costeros subpolares y polares. Además del estudio de la Genética molecular, Microbiología, Bioinformática, Oceanografía biológica y química, Fisiología de microorganismos estremófilos, y aerobioma. Mi interés particular radica en indagar cómo factores climáticos exacerbados por el cambio climático; tales como aumento de temperatura, deshielo glaciar, están afectando la diversidad y la actividad de comunidades microbianas claves para la producción primaria del sistema marino costero polar, y por ende su afección en los ciclos biogeoquímicos locales y globales. Actualmente desarrollo mi Fondecyt de Iniciación (2020-2023) en Antártica para develar la interacción de microorganismos de aire, nieve y océano, y como esto esta relacionado con contaminantes antropogénicos en el continente blanco.&lt;br&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;h3&gt; Contact &lt;/h3&gt;
+&lt;p&gt;
+  &lt;i class=&#34;fas fa-envelope  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;a href=&#34;mailto:mealcaman@uc.cl&#34;&gt;mealcaman@uc.cl&lt;/a&gt; &lt;br&gt;
+
+  &lt;i class=&#34;fas fa-envelope  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;a href=&#34;mailto:marialcaman@udec.cl&#34;&gt;marialcaman@udec.cl&lt;/a&gt; &lt;br&gt;
+&lt;a href=&#34;mailto:mealcaman@uc.cl&#34;&gt;&lt;i class=&#34;fas fa-envelope&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+&lt;a href=&#34;mailto:marialcaman@udec.cl&#34;&gt;&lt;i class=&#34;fas fa-envelope&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+&lt;a href=&#34;https://scholar.google.com/citations?user=zKgYaIQAAAAJ&amp;hl=es&#34;&gt;&lt;i class=&#34;ai ai-google-scholar-square ai&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+&lt;a href=&#34;http://apecschile.cl/&#34;&gt;&lt;i class=&#34;fas fa-link&#34;&gt;&lt;/i&gt;apecschile&lt;/a&gt;
+&lt;a href=&#34;http://www.cr2.cl/zona-costera/&#34;&gt;&lt;i class=&#34;fas fa-link&#34;&gt;&lt;/i&gt;CR2&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Metagenomic analysis of the wastewater virome</title>
+      <link>https://bdiezlab.com/project/1181656/</link>
+      <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://bdiezlab.com/project/1181656/</guid>
+      <description>&lt;p&gt;Metagenomic analysis of the wastewater virome; an approach to the detection of viral diversity and its impact on public health &lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Proyecto: CONICYT, Fondecyt 1181656 (2018-2022)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Microbiomics in a Changing World</title>
+      <link>https://bdiezlab.com/project/1210912/</link>
+      <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://bdiezlab.com/project/1210912/</guid>
+      <description>&lt;p&gt;Microbiomics in a Changing World: A focus on the Atacama Desert &lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Proyecto: ANID, Fondecyt 1210912 (2021-2025)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Natali Zamora Bugueño</title>
+      <link>https://bdiezlab.com/people/nzamora/</link>
+      <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://bdiezlab.com/people/nzamora/</guid>
+      <description>&lt;p style=&#34;color:grey; font-size:20px; text-align:center;&#34;&gt; PhD. Student &lt;/p&gt;
+&lt;div style=&#34;text-align:justify;&#34;&gt;
+&lt;h3&gt; About &lt;/h3&gt;
+&lt;p&gt;Mi quehacer dentro del laboratorio es que, a través de mi tesis doctoral, se logre determinar y evaluar los efectos del cambio climático sobre la diversidad taxonómica y funcional de las comunidades procariotas presentes en suelos desérticos de todo el mundo a lo largo de una gradiente de temperatura y de aridez. La idea del estudio de las gradientes es emular los posibles escenarios en que se encontraran nuestros suelos en unos años más, debido a los drásticos cambios del clima y la temperatura. Es por esto, que mi investigación ayudará a predecir cómo será el efecto de la temperatura en los próximos años producto del calentamiento global en las comunidades y su función en los ciclos biogeoquímicos de suelos desérticos ya previamente afectados por la aridez y nos permitirá identificar biomarcadores que pudiesen ayudar a predecir cambios la aridez de un suelo producto del cambio climático. &lt;br&gt;
+Este estudio se lleva a cabo a partir del análisis de metagenomas extraídos desde las bases de datos públicos de estudios de composición de la estructura microbiana de suelos de desiertos con disponibilidad de la metadata de las condiciones ambientales y climáticas, que serán ordenados en una escala de aridez y una gradiente de temperatura, a los cuales se realizará asignación taxonómica por herramientas bioinformáticas y diferentes análisis de índices de diversidad α y β, mediante el uso de software estadísticos como Rstudio. Además, dentro de mi investigación, realizará el estudio de la diversidad funcional mediante ensambles y co-ensamblajes de metagenomas y adicionalmente, con la ayuda de software bioinformáticos, se realizarán análisis de ensamble de genomas desde los metagenomas (MAGs) de los grupos microbianos más representativos. Por otra parte, para analizar y comparar los diferentes ciclos metabólicos de cada uno de los desiertos y se analizará también el tamaño del genoma y porcentaje de GC dentro del genoma dentro de los organismos procariontes, se determinará la relación bacteria – arquea, y se analizarán las enzimas activas de carbohidratos (“CAZymes”) presentes en condiciones extremas, a partir de la anotación de las secuencias CDS a través del uso de la herramienta dbCAN2. &lt;br&gt;
+Finalmente, con el fin de determinar los efectos de la temperatura y la desecación a corto y largo plazo sobre las comunidades de bacterias y arqueas presentes en suelos, se montarán experimentos de microcosmos para analizar diversidad funcional y taxonómica a partir de las técnicas mencionadas anteriormente. Desde el desierto de Atacama (Chile) se extraerán muestras suelos con diferentes niveles de aridez. Dichas muestras serán sometidas a diferentes temperaturas bajo estrés hídrico, para simular eventos de desecación, en un rango de tiempo de dos semanas. &lt;br&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;style&gt;
+.column-left{
+  float: left;
+  width: 50%;
+  text-align: left;
+}
+.column-right{
+  float: right;
+  width: 50%;
+  text-align: left;
+}
+&lt;/style&gt;
+&lt;div class=&#34;column-left&#34;&gt;
+&lt;h3&gt; Interests &lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Microbial Ecology.&lt;/li&gt;
+&lt;li&gt;Extremophilic bacteria.&lt;/li&gt;
+&lt;li&gt;Bacterial communities of desert soils.&lt;/li&gt;
+&lt;li&gt;Data Sciences.&lt;/li&gt;
+&lt;li&gt;Statistics Software.
+&lt;br&gt;&lt;br&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&#34;column-right&#34;&gt;
+&lt;h3&gt; Education &lt;/h3&gt;
+
+  &lt;i class=&#34;fas fa-graduation-cap  pr-1 fa-fw&#34;&gt;&lt;/i&gt; MSc.(C) Estadística, 2021
+&lt;p style=&#34;color:grey; font-size:15px; padding-left:32px;&#34;&gt; Universidad de Valparaíso, Chile  &lt;/p&gt;
+
+  &lt;i class=&#34;fas fa-graduation-cap  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Bioquímica, 2016
+&lt;p style=&#34;color:grey; font-size:15px; padding-left:32px;&#34;&gt; Pontificia Universidad Católica de Valparaíso, Chile &lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;h3&gt; Contact &lt;/h3&gt;
+&lt;p&gt;
+  &lt;i class=&#34;fas fa-envelope  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;a href=&#34;mailto:natali.zamora@gmail.com&#34;&gt;natali.zamora@gmail.com&lt;/a&gt; &lt;br&gt;
+&lt;a href=&#34;mailto: natali.zamora@gmail.com&#34;&gt;&lt;i class=&#34;fas fa-envelope&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+&lt;a href=&#34;https://www.orcid.org/0000-0002-0224-0812&#34;&gt;&lt;i class=&#34;fab fa-orcid&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+&lt;a href=&#34;https://www.linkedin.com/in/natali-zamora-bugue%C3%B1o-b71743167&#34;&gt;&lt;i class=&#34;fab fa-linkedin&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Oscar Salgado</title>
+      <link>https://bdiezlab.com/people/osalgado/</link>
+      <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://bdiezlab.com/people/osalgado/</guid>
+      <description>&lt;p style=&#34;color:grey; font-size:20px; text-align:center;&#34;&gt; PhD. Student &lt;/p&gt;
+&lt;div style=&#34;text-align:justify;&#34;&gt;
+&lt;p&gt;&lt;strong&gt;About&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;I work with viruses and CRISPR-Cas systems of environmental bacteria. Specifically to understand the diversity of host-pathogen relationship in thermal environments through meta-analysis from hot springs from the world and, also, using El Tatio geyser field as a model system. &lt;br&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;style&gt;
+.column-left{
+  float: left;
+  width: 50%;
+  text-align: left;
+}
+.column-right{
+  float: right;
+  width: 50%;
+  text-align: left;
+}
+&lt;/style&gt;
+&lt;div class=&#34;column-left&#34;&gt;
+&lt;h3&gt; Interests &lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Virology&lt;/li&gt;
+&lt;li&gt;Microbiology&lt;/li&gt;
+&lt;li&gt;CRISPR-Cas systems
+&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&#34;column-right&#34;&gt;
+&lt;h3&gt; Education &lt;/h3&gt;
+
+  &lt;i class=&#34;fas fa-graduation-cap  pr-1 fa-fw&#34;&gt;&lt;/i&gt; PhD Genética Molecular y Microbiología, 2021
+&lt;p style=&#34;color:grey; font-size:15px; padding-left:32px;&#34;&gt; Pontificia Universidad Católica de Chile, Chile  &lt;/p&gt;
+
+  &lt;i class=&#34;fas fa-graduation-cap  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Licenciatura en Educación en Biología, 2011
+&lt;p style=&#34;color:grey; font-size:15px; padding-left:32px;&#34;&gt; Universidad Metropolitana de Ciencias de la Educación, Chile &lt;/p&gt;
+&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;/div&gt;
+&lt;h3&gt; Contact &lt;/h3&gt;
+&lt;p&gt;
+  &lt;i class=&#34;fas fa-envelope  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;a href=&#34;mailto:olsalgado@uc.cl&#34;&gt;olsalgado@uc.cl&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Pablo Vergara</title>
+      <link>https://bdiezlab.com/people/pvergara/</link>
+      <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://bdiezlab.com/people/pvergara/</guid>
+      <description>&lt;p style=&#34;color:grey; font-size:20px; text-align:center;&#34;&gt; PhD. Student &lt;/p&gt;
+&lt;div style=&#34;text-align:justify;&#34;&gt;
+&lt;h3&gt; About &lt;/h3&gt;
+&lt;p&gt;Mi nombre es Pablo, soy bioquímico y Ph.D(c) en genética molecular y microbiología. A lo largo de mi carrera me he especializado en la biología molecular de organismos fotosintéticos, habiendo trabajado con Arabidopsis thaliana a los inicios de mi carrera, para luego desarrollar mi tesis en la cianobacteria termotolerante Fischerella thermalis y sus procesos fotosintéticos. Recientemente., también he colaborado en la investigación de líquenes y musgos antárticos.
+Mi investigación se centra en comprender como el metabolismo de F. thermalis se ha adaptado para permitir la actividad fotosintética a altas temperaturas. Para ello, he optado por un enfoque múltiple, realizando estudios moleculares, fisiológicos y bioinformáticos para obtener una visión amplia de este proceso.
+En lo personal, me aburre abordar los problemas científicos siempre desde la misma perspectiva y busco nuevas formas de afrontar mi investigación, lo que me ha llevado a aprender distintas técnicas y habilidades que van del qPCR y análisis de secuenciación masiva, técnicas para el análisis fisiológico de la fotosíntesis e incluso el uso de plataformas abiertas como Arduino. Pretendo abordar mis interrogantes científicas de una forma multidisciplinaria. &lt;br&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;style&gt;
+.column-left{
+  float: left;
+  width: 50%;
+  text-align: left;
+}
+.column-right{
+  float: right;
+  width: 50%;
+  text-align: left;
+}
+&lt;/style&gt;
+&lt;div class=&#34;column-left&#34;&gt;
+&lt;h3&gt; Interests &lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Photophysiology&lt;/li&gt;
+&lt;li&gt;Molecular biology of primary producers&lt;/li&gt;
+&lt;li&gt;Computational biology&lt;/li&gt;
+&lt;li&gt;DIY Biology/Open-Source equipment
+&lt;br&gt;&lt;br&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&#34;column-right&#34;&gt;
+&lt;h3&gt; Education &lt;/h3&gt;
+
+  &lt;i class=&#34;fas fa-graduation-cap  pr-1 fa-fw&#34;&gt;&lt;/i&gt; MSc. Bioquímica, 2017
+&lt;p style=&#34;color:grey; font-size:15px; padding-left:32px;&#34;&gt; Pontificia Universidad Católica de Chile, Chile  &lt;/p&gt;
+
+  &lt;i class=&#34;fas fa-graduation-cap  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Bioquímica, 2015
+&lt;p style=&#34;color:grey; font-size:15px; padding-left:32px;&#34;&gt; Pontificia Universidad Católica de Chile, Chile &lt;/p&gt;
+&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;/div&gt;
+&lt;h3&gt; Contact &lt;/h3&gt;
+&lt;p&gt;
+  &lt;i class=&#34;fas fa-envelope  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;a href=&#34;mailto:pablo.vb@live.cl&#34;&gt;pablo.vb@live.cl&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Penguin colonies and microbial communities</title>
+      <link>https://bdiezlab.com/project/1181745/</link>
+      <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://bdiezlab.com/project/1181745/</guid>
+      <description>&lt;p&gt;The influence of penguin colonies on the development of tundra communities in the Antarctic Peninsula &lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Proyecto: CONICYT, Fondecyt 1181745 (2018-2022)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sebastian Fuentes Alburquenque</title>
+      <link>https://bdiezlab.com/people/sfuentes/</link>
+      <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://bdiezlab.com/people/sfuentes/</guid>
+      <description>&lt;p style=&#34;color:grey; font-size:20px; text-align:center;&#34;&gt; Scientific Collaborator &lt;br&gt; Former Member &lt;/p&gt;
+&lt;h3&gt; Contact &lt;/h3&gt;
+&lt;p&gt;
+  &lt;i class=&#34;fas fa-envelope  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;a href=&#34;mailto:sebastian.fuentes@ubo.cl&#34;&gt;sebastian.fuentes@ubo.cl&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;mailto:sebastian.fuentes.a@gmail.com&#34;&gt;&lt;i class=&#34;fas fa-envelope&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+&lt;a href=&#34;https://orcid.org/0000-0001-8855-4400&#34;&gt;&lt;i class=&#34;fab fa-orcid&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+&lt;a href=&#34;https://scholar.google.cl/citations?user=nRaFayMAAAAJ&amp;hl=es&#34;&gt;&lt;i class=&#34;ai ai-google-scholar-square ai&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+&lt;a href=&#34;https://www.researchgate.net/profile/Sebastian-Fuentes-Alburquenque&#34;&gt;&lt;i class=&#34;fab fa-researchgate&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+&lt;a href=&#34;http://www.cirenys.cl&#34;&gt;&lt;i class=&#34;fas fa-link&#34;&gt;&lt;/i&gt; CIRENYS (UBO)&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sergio Guajardo-Leiva</title>
+      <link>https://bdiezlab.com/people/sguajardo/</link>
+      <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://bdiezlab.com/people/sguajardo/</guid>
+      <description>&lt;p style=&#34;color:grey; font-size:20px; text-align:center;&#34;&gt; Scientific Collaborator &lt;/p&gt;
+&lt;div style=&#34;text-align:justify;&#34;&gt;
+&lt;h3&gt; About &lt;/h3&gt;
+&lt;p&gt;Viruses are ubiquitous, and viral infections may well affect all bacteria in all environments on Earth at some point in time. If we consider the well-documented information on marine habitats, viruses lyse approximately one-third of the ocean microorganisms per day, liberating carbon and nutrients globally. However, our current knowledge of viral diversity in other environments and their effects on bacterial populations is rudimentary at best. Whit this aim, I study viral genomics and metagenomics to understand the interaction of viruses with biotic and abiotic factors in different environments.
+Specifically, I am studying viral communities&#39; role in the biogeochemical cycles of plants&#39; rhizosphere and their interaction with rhizospheric microorganisms and soil&amp;rsquo;s physicochemical factors. I also study viral diversity and viral dark matter in urban environments such as sewage treatment plants and the urban aerobiome. Finally, I am interested in deciphering aquaculture&amp;rsquo;s impact on the fjords&#39; viral communities in Chilean Patagonia. &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Sergio currently holds a postdoctoral position at &lt;a href=&#34;http://www.castrolab.org/&#34;&gt;Castro Lab&lt;/a&gt;, from Universidad Andrés Bello, Chile. And is member of &lt;a href=&#34;https://www.polarix.org/&#34;&gt;Polarix&lt;/a&gt;.&lt;br&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;style&gt;
+.column-left{
+  float: left;
+  width: 50%;
+  text-align: left;
+}
+.column-right{
+  float: right;
+  width: 50%;
+  text-align: left;
+}
+&lt;/style&gt;
+&lt;div class=&#34;column-left&#34;&gt;
+&lt;h3&gt; Interests &lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Viral ecogenomics&lt;/li&gt;
+&lt;li&gt;Rhizosphere and
+soil viromics.&lt;/li&gt;
+&lt;li&gt;Urban environmental
+viromics&lt;/li&gt;
+&lt;li&gt;Antarctic and sub-
+Antarctic marine
+viromics.&lt;/li&gt;
+&lt;li&gt;Hot springs viromics.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;column-right&#34;&gt;
+&lt;h3&gt; Education &lt;/h3&gt;
+
+  &lt;i class=&#34;fas fa-graduation-cap  pr-1 fa-fw&#34;&gt;&lt;/i&gt; PhD. in Biological Sciences, 2019
+&lt;p style=&#34;color:grey; font-size:15px; padding-left:32px;&#34;&gt; Pontificia Universidad Católica de Chile, Chile  &lt;/p&gt;
+
+  &lt;i class=&#34;fas fa-graduation-cap  pr-1 fa-fw&#34;&gt;&lt;/i&gt; MSc. in Biological Sciences, 2014
+&lt;p style=&#34;color:grey; font-size:15px; padding-left:32px;&#34;&gt; Pontificia Universidad Católica de Chile, Chile &lt;/p&gt;
+
+  &lt;i class=&#34;fas fa-graduation-cap  pr-1 fa-fw&#34;&gt;&lt;/i&gt; BSc in Biochemistry, 2008
+&lt;p style=&#34;color:grey; font-size:15px; padding-left:32px;&#34;&gt; Universidad de Santiago de Chile, Chile &lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;h3&gt; Contact &lt;/h3&gt;
+&lt;p&gt;
+  &lt;i class=&#34;fas fa-envelope  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;a href=&#34;mailto:guajardo.sergio@gmail.com&#34;&gt;guajardo.sergio@gmail.com&lt;/a&gt; &lt;br&gt;
+&lt;a href=&#34;mailto:guajardo.sergio@gmail.com&#34;&gt;&lt;i class=&#34;fas fa-envelope&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+&lt;a href=&#34;https://scholar.google.com/citations?user=LRVm2cUAAAAJ&amp;hl=en&#34;&gt;&lt;i class=&#34;ai ai-google-scholar-square ai&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+&lt;a href=&#34;https://twitter.com/phageattack&#34;&gt;&lt;i class=&#34;fab fa-twitter&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+&lt;a href=&#34;http://www.castrolab.org/&#34;&gt;&lt;i class=&#34;fas fa-link&#34;&gt;&lt;/i&gt; Castro Lab&lt;/a&gt;
+&lt;a href=&#34;https://www.polarix.org/&#34;&gt;&lt;i class=&#34;fas fa-link&#34;&gt;&lt;/i&gt; Polarix&lt;/a&gt; &lt;br&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Soil phage ecology in the Atacama desert</title>
+      <link>https://bdiezlab.com/project/p3190464/</link>
+      <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://bdiezlab.com/project/p3190464/</guid>
+      <description>&lt;p&gt;Soil phage ecology in the Atacama desert: an unexplored phenomenon&lt;/p&gt;
+&lt;p&gt;Proyecto CONICYT; FONDECYT Postdoctoral nº3190464 (2019-2022)&lt;/p&gt;
+&lt;div class=&#34;container&#34;&gt;
+&lt;h3 id=&#34;gallery&#34;&gt;Gallery&lt;/h3&gt;
+  &lt;center&gt;
+
+
+
+
+
+
+
+  
+  
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    &lt;a data-fancybox=&#34;gallery-p3190464_g&#34; href=&#34;https://bdiezlab.com/project/p3190464/p3190464_g/img1.jpg&#34; &gt;
+      &lt;img data-src=&#34;https://bdiezlab.com/project/p3190464/p3190464_g/img1_huf10ca3c9a2e38ac7bb3dc7eedbc87cf6_3366577_0x190_resize_q75_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;img1.jpg&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+    &lt;a data-fancybox=&#34;gallery-p3190464_g&#34; href=&#34;https://bdiezlab.com/project/p3190464/p3190464_g/img2.jpg&#34; &gt;
+      &lt;img data-src=&#34;https://bdiezlab.com/project/p3190464/p3190464_g/img2_hue2bc7fd2f5aa0f2166f99bf87a081c92_4283025_0x190_resize_q75_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;img2.jpg&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+    &lt;a data-fancybox=&#34;gallery-p3190464_g&#34; href=&#34;https://bdiezlab.com/project/p3190464/p3190464_g/img3.jpg&#34; &gt;
+      &lt;img data-src=&#34;https://bdiezlab.com/project/p3190464/p3190464_g/img3_hu0d4e463a188b90041512981334e02fde_6919388_0x190_resize_q75_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;img3.jpg&#34; width=&#34;282&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+    &lt;a data-fancybox=&#34;gallery-p3190464_g&#34; href=&#34;https://bdiezlab.com/project/p3190464/p3190464_g/img4.jpg&#34; &gt;
+      &lt;img data-src=&#34;https://bdiezlab.com/project/p3190464/p3190464_g/img4_hua70d5bb45ec417bd77c5be13474225a0_6421949_0x190_resize_q75_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;img4.jpg&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+    &lt;a data-fancybox=&#34;gallery-p3190464_g&#34; href=&#34;https://bdiezlab.com/project/p3190464/p3190464_g/img5.jpg&#34; &gt;
+      &lt;img data-src=&#34;https://bdiezlab.com/project/p3190464/p3190464_g/img5_hu400bba5abe5016a8606db0c9c9d9aeb3_8191646_0x190_resize_q75_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;img5.jpg&#34; width=&#34;470&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+    &lt;a data-fancybox=&#34;gallery-p3190464_g&#34; href=&#34;https://bdiezlab.com/project/p3190464/p3190464_g/img6.jpg&#34; &gt;
+      &lt;img data-src=&#34;https://bdiezlab.com/project/p3190464/p3190464_g/img6_hudaf3cbc9d4d422f027cf1f98329dd0b9_2840476_0x190_resize_q75_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;img6.jpg&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+    &lt;a data-fancybox=&#34;gallery-p3190464_g&#34; href=&#34;https://bdiezlab.com/project/p3190464/p3190464_g/img7.jpg&#34; &gt;
+      &lt;img data-src=&#34;https://bdiezlab.com/project/p3190464/p3190464_g/img7_huef8a80792c4da4d0ba77ef721ad398b4_209038_0x190_resize_q75_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;img7.jpg&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+    &lt;a data-fancybox=&#34;gallery-p3190464_g&#34; href=&#34;https://bdiezlab.com/project/p3190464/p3190464_g/img8.jpg&#34; &gt;
+      &lt;img data-src=&#34;https://bdiezlab.com/project/p3190464/p3190464_g/img8_hu404abe12f23250c167a33fa5c8c6682b_100082_0x190_resize_q75_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;img8.jpg&#34; width=&#34;765&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+    &lt;a data-fancybox=&#34;gallery-p3190464_g&#34; href=&#34;https://bdiezlab.com/project/p3190464/p3190464_g/img9.jpg&#34; &gt;
+      &lt;img data-src=&#34;https://bdiezlab.com/project/p3190464/p3190464_g/img9_hu91bfabea3861a4f44818dd12d98abaf8_293516_0x190_resize_q75_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;img9.jpg&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+
+  
+&lt;/div&gt;&lt;/center&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>Tatio geysers field as a model system</title>
+      <link>https://bdiezlab.com/project/1190998/</link>
+      <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://bdiezlab.com/project/1190998/</guid>
+      <description>&lt;p&gt;El Tatio geysers field as a model system to study virus-host interactions and local adaptations. &lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Proyecto: CONICYT, Fondecyt 1190998 (2019-2023)&lt;/p&gt;
+&lt;div class=&#34;container&#34;&gt;
+&lt;h3 id=&#34;gallery&#34;&gt;Gallery&lt;/h3&gt;
+  &lt;center&gt;
+
+
+
+
+
+
+
+  
+  
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    &lt;a data-fancybox=&#34;gallery-1190998_g&#34; href=&#34;https://bdiezlab.com/project/1190998/1190998_g/img1.jpg&#34; &gt;
+      &lt;img data-src=&#34;https://bdiezlab.com/project/1190998/1190998_g/img1_hu52f632ff377cf5b4af2ecb970b4f44f8_1395975_0x190_resize_q75_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;img1.jpg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+    &lt;a data-fancybox=&#34;gallery-1190998_g&#34; href=&#34;https://bdiezlab.com/project/1190998/1190998_g/img2.jpg&#34; &gt;
+      &lt;img data-src=&#34;https://bdiezlab.com/project/1190998/1190998_g/img2_hu52f632ff377cf5b4af2ecb970b4f44f8_1180322_0x190_resize_q75_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;img2.jpg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+    &lt;a data-fancybox=&#34;gallery-1190998_g&#34; href=&#34;https://bdiezlab.com/project/1190998/1190998_g/img3.jpg&#34; &gt;
+      &lt;img data-src=&#34;https://bdiezlab.com/project/1190998/1190998_g/img3_hu52f632ff377cf5b4af2ecb970b4f44f8_1275142_0x190_resize_q75_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;img3.jpg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+    &lt;a data-fancybox=&#34;gallery-1190998_g&#34; href=&#34;https://bdiezlab.com/project/1190998/1190998_g/img4.jpg&#34; &gt;
+      &lt;img data-src=&#34;https://bdiezlab.com/project/1190998/1190998_g/img4_hu52f632ff377cf5b4af2ecb970b4f44f8_1211000_0x190_resize_q75_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;img4.jpg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+    &lt;a data-fancybox=&#34;gallery-1190998_g&#34; href=&#34;https://bdiezlab.com/project/1190998/1190998_g/img5.jpg&#34; &gt;
+      &lt;img data-src=&#34;https://bdiezlab.com/project/1190998/1190998_g/img5_hu52f632ff377cf5b4af2ecb970b4f44f8_1534977_0x190_resize_q75_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;img5.jpg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+
+  
+&lt;/div&gt;&lt;/center&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tomás Sauma</title>
+      <link>https://bdiezlab.com/people/tsauma/</link>
+      <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://bdiezlab.com/people/tsauma/</guid>
+      <description>&lt;p style=&#34;color:grey; font-size:20px; text-align:center;&#34;&gt; Undergraduate Student &lt;/p&gt;
+&lt;div style=&#34;text-align:justify;&#34;&gt;
+&lt;p&gt;&lt;strong&gt;About&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Due to the polyextreme environmental conditions occurring in (hyper)arid deserts, macroorganisms are rare and their distribution decreases with aridity. Consequently, nutrients cycles are considered to be mainly driven by the activity of edaphic and lithic microbial communities. However, while microbial diversity has been extensively studied in desert soils, their function, i.e., the specific role(s) of these communities in biogeochemical cycling, remains understudied. To achieve this it is necessary to study the metabolic pathways used by the microorganisms to incorporate, transform and use the different nutrients available in desert soils and atmosphere. Consequently, we use shotgun metagenomes from soils with contrasting aridity (and therefore plant cover) to study the evolution of microbially-mediated functions with aridity, especially nitrogen cycling due to its importance in plant growth, organic matter decomposition and the productivity of desert ecosystems. &lt;br&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;style&gt;
+.column-left{
+  float: left;
+  width: 50%;
+  text-align: left;
+}
+.column-right{
+  float: right;
+  width: 50%;
+  text-align: left;
+}
+&lt;/style&gt;
+&lt;div class=&#34;column-left&#34;&gt;
+&lt;h3&gt; Interests &lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Edaphic communities&lt;/li&gt;
+&lt;li&gt;Drylands&lt;/li&gt;
+&lt;li&gt;Metagenomics&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;column-right&#34;&gt;
+&lt;h3&gt; Education &lt;/h3&gt;
+
+  &lt;i class=&#34;fas fa-graduation-cap  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Bioquímica, 2021
+&lt;p style=&#34;color:grey; font-size:15px; padding-left:32px;&#34;&gt; Pontificia Universidad Católica de Chile, Chile &lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;h3&gt; Contact &lt;/h3&gt;
+&lt;p&gt;
+  &lt;i class=&#34;fas fa-envelope  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;a href=&#34;mailto:tisauma@uc.cl&#34;&gt;tisauma@uc.cl&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Wilson Castillo-Inaipil</title>
+      <link>https://bdiezlab.com/people/wcastillo/</link>
+      <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://bdiezlab.com/people/wcastillo/</guid>
+      <description>&lt;p style=&#34;color:grey; font-size:20px; text-align:center;&#34;&gt; Undergraduate Student &lt;/p&gt;
+&lt;div style=&#34;text-align:justify;&#34;&gt;
+&lt;p&gt;&lt;strong&gt;About&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Utilizando como modelo Bahía Chile, buscamos dilucidar las comunidades de fagos que están presentes en aguas costeras de Antártica entre los veranos del 2014 hasta el 2019. Durante estas épocas estivales se presenta el mayor florecimiento de fitoplancton de la zona, influenciando fuertemente al ecosistema completo. A través de análisis taxonómicos de metagenomas se busca rescatar secuencias virales y en ellas, realizar la búsqueda de AMGs involucrados en los principales ciclos biogeoquímicos y en procesos de respuesta a estrés. De esta forma, el objetivo de este proyecto es describir el rol de la comunidad de fagos en aguas costeras antárticas, durante un florecimiento fitoplantónico en distintos años consecutivos. &lt;br&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;style&gt;
+.column-left{
+  float: left;
+  width: 50%;
+  text-align: left;
+}
+.column-right{
+  float: right;
+  width: 50%;
+  text-align: left;
+}
+&lt;/style&gt;
+&lt;div class=&#34;column-left&#34;&gt;
+&lt;h3&gt; Interests &lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Viral ecology&lt;/li&gt;
+&lt;li&gt;Marine microbiology&lt;/li&gt;
+&lt;li&gt;Bioinformatics&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;column-right&#34;&gt;
+&lt;h3&gt; Education &lt;/h3&gt;
+
+  &lt;i class=&#34;fas fa-graduation-cap  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Bioquímica, 2021
+&lt;p style=&#34;color:grey; font-size:15px; padding-left:32px;&#34;&gt; Universidad de Chile, Chile &lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;h3&gt; Contact &lt;/h3&gt;
+&lt;p&gt;
+  &lt;i class=&#34;fas fa-envelope  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;a href=&#34;mailto:wilson.castillo@ug.uchile.cl&#34;&gt;wilson.castillo@ug.uchile.cl&lt;/a&gt; &lt;br&gt;
+&lt;a href=&#34;mailto:wilson.castillo@ug.uchile.cl&#34;&gt;&lt;i class=&#34;fas fa-envelope&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+&lt;a href=&#34;https://www.linkedin.com/in/wilson-elias-castillo-inaipil-7a3437205/&#34;&gt;&lt;i class=&#34;fab fa-linkedin&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Diego Segura</title>
+      <link>https://bdiezlab.com/people/dsegura/</link>
+      <pubDate>Fri, 16 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://bdiezlab.com/people/dsegura/</guid>
+      <description>&lt;p style=&#34;color:grey; font-size:20px; text-align:center;&#34;&gt; Scientific Collaborator &lt;/p&gt;
+&lt;div style=&#34;text-align:justify;&#34;&gt;
+&lt;h3&gt; About &lt;/h3&gt;
+&lt;p&gt;¿Cuál es el rol ecológico que cumplen los pingüinos sobre el microbioma en los suelos de Antártica? Esta es una de las preguntas centrales de nuestro estudio, el cual está enfocado principalmente en descubrir que tipos de organismos (procariontes y/o eucariontes) y qué rol cumplen en los suelos influenciados por pingüineras en Antártica. Sabemos a día de hoy que la importancia de los pingüinos en este ecosistema es muy importante, ya que debido a la alta transferencia de nutrientes (mediante sus heces) son capaces de generar “hotspots” de biodiversidad, lo cual permite la colonización de nuevas especies (incluso vegetación) en este ambiente hostil. Nuestra investigación da luces de que efectivamente la presencia de la pingüinera es capaz de alterar la composición de los microorganismos presentes en estos suelos, generando una zona de influencia, en la cual el ingreso de nutrientes al sistema y la transferencia de microorganismos desde el pingüino juegan un papel importante en la modificación y mantención de esta microbiota presente principalmente en los lugares cercanos a la pingüinera. También, nuestros estudios están enfocados en esclarecer las dinámicas que existen sobre los ciclos biogeoquímicos que ocurren en estos ambientes y las interacciones con organismos superiores (vegetación).&lt;br&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;style&gt;
+.column-left{
+  float: left;
+  width: 50%;
+  text-align: left;
+}
+.column-right{
+  float: right;
+  width: 50%;
+  text-align: left;
+}
+&lt;/style&gt;
+&lt;div class=&#34;column-left&#34;&gt;
+&lt;h3&gt; Interests &lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Microbial Ecology&lt;/li&gt;
+&lt;li&gt;Bioinformatics&lt;/li&gt;
+&lt;li&gt;Molecular Biology&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;column-right&#34;&gt;
+&lt;h3&gt; Education &lt;/h3&gt;
+
+  &lt;i class=&#34;fas fa-graduation-cap  pr-1 fa-fw&#34;&gt;&lt;/i&gt; MSc. Bioquímica, 2020
+&lt;p style=&#34;color:grey; font-size:15px; padding-left:32px;&#34;&gt; Universidad de Chile, Chile  &lt;/p&gt;
+
+  &lt;i class=&#34;fas fa-graduation-cap  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Bioquímica, 2018
+&lt;p style=&#34;color:grey; font-size:15px; padding-left:32px;&#34;&gt; Universidad de Chile, Chile &lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;h3&gt; Contact &lt;/h3&gt;
+&lt;p&gt;
+  &lt;i class=&#34;fas fa-envelope  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;a href=&#34;mailto:diego.segura@ug.uchile.cl&#34;&gt;diego.segura@ug.uchile.cl&lt;/a&gt;&lt;br&gt;
+
+  &lt;i class=&#34;fas fa-envelope  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;a href=&#34;mailto:dsegurc@gmail.com&#34;&gt;dsegurc@gmail.com&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;mailto:diego.segura@ug.uchile.cl&#34;&gt;&lt;i class=&#34;fas fa-envelope&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+&lt;a href=&#34;mailto:dsegurc@gmail.com&#34;&gt;&lt;i class=&#34;fas fa-envelope&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+&lt;a href=&#34;https://www.linkedin.com/in/diego-segura-cáceres-578a25168&#34;&gt;&lt;i class=&#34;fab fa-linkedin&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Coastal bacterial community response to glacier melting in the western antarctic peninsula</title>
+      <link>https://bdiezlab.com/publication/alcaman_arias_et_al_2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://bdiezlab.com/publication/alcaman_arias_et_al_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Taxonomic Novelty and Distinctive Genomic Features of Hot Spring Cyanobacteria</title>
+      <link>https://bdiezlab.com/publication/alcorta_et_al_2020/</link>
+      <pubDate>Thu, 05 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://bdiezlab.com/publication/alcorta_et_al_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Metagenomic Insights into the Sewage RNA Virosphere of a Large City</title>
+      <link>https://bdiezlab.com/publication/guajardo-leiva_et_al_2020/</link>
+      <pubDate>Mon, 21 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://bdiezlab.com/publication/guajardo-leiva_et_al_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SARS-CoV-2 Detection in Sewage in Santiago, Chile - Preliminary results</title>
+      <link>https://bdiezlab.com/publication/ampuero_et_al_2020/</link>
+      <pubDate>Fri, 03 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://bdiezlab.com/publication/ampuero_et_al_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Campo de géiseres El Tatio, el laboratorio geotérmico más alto del mundo para conocer virus</title>
+      <link>https://bdiezlab.com/post/ciencia_en_chile_el_tatio_05_18_2020/</link>
+      <pubDate>Mon, 18 May 2020 12:20:00 +0000</pubDate>
+      <guid>https://bdiezlab.com/post/ciencia_en_chile_el_tatio_05_18_2020/</guid>
+      <description>&lt;div style=&#34;text-align:justify;&#34;&gt;
+&lt;figure&gt;
+  &lt;img src=&#34;featured_1.jpg&#34; style=&#34;width:90%&#34;&gt;
+&lt;/figure&gt;
+&lt;p&gt;Un grupo de investigadores de Chile estudia a más de 4.200 msnm distintos virus existentes en el agua de los géiseres del campo geotérmico El Tatio, en la Cordillera de Los Andes, en pleno desierto de Atacama.&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Lorenzo Palma, Ciencia en Chile&lt;/strong&gt;. Cada año el campo geotermal El Tatio es visitado por más de 100.000 turistas, pero también llegan científicos. Hace varios años que muestrean la zona, pero actualmente ejecutan una investigación Fondecyt, la cual permitió reunir a un grupo de investigadores nacionales,  liderado por la Dra. Beatriz Díez, de la Facultad de Ciencias Biológicas de la Pontificia Universidad Católica de Chile (PUC), junto a Diego Morata; Carla Barbosa, la estudiante de magíster de la Facultad de Ciencias Físicas y Matemáticas de la Universidad de Chile (UC) y la Dra. Raquel Quintrini de la Fundación Ciencia y Vida de la Universidad San Sebastián (USS), para estudiar las comunidades virales y sus interacciones con potenciales hospederos en el campo geotermal de El Tatio, ubicado a  89 kilómetros del pueblo de San Pedro de Atacama.&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;El Tatio cuenta con más de 200 géiseres, fumarolas y piscinas termales, dispersos en un área de hasta 30 km2, siendo el campo geotermal más grande del hemisferio sur y el cuarto del mundo. Las condiciones ambientales en las que éste se emplaza son extremas, debido a su elevación por sobre los 4000 m.s.n.m., a sus escasas precipitaciones, a la alta radiación UV y a las oscilaciones térmicas diarias de hasta 35°C a las que está sometido. Las comunidades microbianas que existen en este campo geotermal han evolucionado en aislamiento por miles de años, y presentan altas tasas de endemismo dignas de estudiar para comprender de mejor manera las trayectorias de la evolución de la vida en La Tierra y eventualmente, en otros planetas como Marte, cuentan las investigadoras.&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;La Dra. Díez, cuando visita El Tatio, se acerca lo más posible a las aguas hirviendo de los distintos geiseres que existen en el campo geotermal para lograr comprender los efectos que tienen las variables del ambiente, como la temperatura y el pH, así también para comprender cómo serán las diferencias entre virus entre un géiser y otro más distante. Todo esto, cuentan, les servirá para catalogar la biodiversidad viral y la dinámica bajo las condiciones ambientales y geológicas particulares que existen en El Tatio.&lt;br&gt;&lt;/p&gt;
+&lt;figure&gt;
+  &lt;img src=&#34;featured_2.jpg&#34; style=&#34;width:80%&#34;&gt;
+  &lt;figcaption&gt; Dra. Beatriz Díez, de la Facultad de Ciencias Biológicas de la Pontificia Universidad Católica de Chile (PUC). &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;“&lt;strong&gt;En estos momentos, en los que el mundo está en jaque por componentes mínimos e invisibles como el virus SARS-CoV2, y la enfermedad Covid-19 que estos causan, se hace evidente la importancia y la necesidad de obtener más y mejor información sobre la diversidad, identidad, función y actividad de los virus en la naturaleza. Sin esta información es difícil generar el conocimiento necesario para estar preparados y anticipar sus impactos en la salud humana o en la de nuestro medioambiente. Por diversas razones, muchos virus que no tienen como hospedero habitual a los humanos están convirtiéndose en un problema importante de salud pública&lt;/strong&gt;”, explica la investigadora.&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;El equipo de trabajo comenzó el segundo año de cuatro, en el marco del proyecto Fondecyt Regular (N°1190998). Hasta la fecha, han logrado encontrar y georeferenciar más de 20 termas con similares condiciones físico-químicas y geológicas, con espléndidos tapetes microbianos creciendo en ellas, condición previa para ser seleccionadas y muestreadas. “&lt;strong&gt;Esto junto con la puesta a punto de algunas metodologías tanto de muestreo como de procesado de muestras, nos va a permitir ahora llevar a cabo el trabajo planificado en algunos de los objetivos planteados en el proyecto. Con la pandemia no pudimos terminar nuestro muestreo del primer año y será necesario esperar a poder viajar de nuevo para obtener muestras de todas estas termas encontradas que cumplen con las condiciones necesarias para el estudio&lt;/strong&gt;” detalló la directora del a investigación.&lt;br&gt;&lt;/p&gt;
+&lt;figure&gt;
+  &lt;img src=&#34;featured_3.jpg&#34; style=&#34;width:80%&#34;&gt;
+  &lt;figcaption&gt; Campaña de muestreo en El Tatio. Oscar Salgado, estudiante de doctorado durante el muestreo. &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;Esta investigación destaca por ser la primera que ha estudiado microorganismos nativos asociados a un ambiente tan particular como El Tatio, además es el primer estudio comprehensivo de ecología viral en tapetes microbianos, que son verdaderas alfombras de organismos, en este caso de aguas termales terrestres.&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Cuando usted visite EL Tatio podrá observar que algunos geiseres se pintan entre naranjo y verde, y esta coloración no es casual, sino el resultado de la interacción de organismos autotróficos, que forman alfombras microbianas, que no siempre es fácil de encontrar y que ocultan una diversidad totalmente nueva. Justo ahí se encuentran los virus y no existen ellos si no tienen un hospedero, por ende, están las bacterias y las arqueas, que son organismos procariotas unicelulares y filamentosos.  Todo un mundo por descubrir, cuentan los especialistas, del cual se sabe muy poco en el caso de los virus ¿cómo funcionan y evolucionan bajo estas condiciones extremas? Serán preguntas en las que seguirán profundizando durante los próximos tres años.&lt;br&gt;&lt;/p&gt;
+&lt;video width=&#34;320&#34; height=&#34;240&#34; controls&gt;
+  &lt;source src=&#34;./Tatio.mp4&#34; type=video/mp4&gt;
+&lt;/video&gt;
+&lt;p&gt;Los investigadores dicen que quieren aportar para formar un repositorio de conocimiento científico de la zona, pero también cultural para Chile y el mundo, “&lt;strong&gt;que además pueda ayudar a las comunidades originarias a lograr una mejor gestión y conservación del parque. Ojalá que en algún momento se logre nombrar al campo geotermal El Tatio como Patrimonio de la Humanidad&lt;/strong&gt;”, concluyó la doctora Beatriz Díez.&lt;br&gt;&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;También puedes leer la entrevista en su formato original en &lt;a href=&#34;https://www.cienciaenchile.cl/campo-de-geiseres-el-tatio-el-laboratorio-geotermico-mas-alto-del-mundo-para-conocer-virus/#:~:text=Papers-,Campo%20de%20g%c3%a9iseres%20El%20Tatio%2C%20el%20laboratorio%20geot%c3%a9rmico%20m%c3%a1s,del%20mundo%20para%20conocer%20virus&amp;amp;text=Un%20grupo%20de%20investigadores%20de,en%20pleno%20desierto%20de%20Atacama&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ciencia en Chile&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dynamics of Biocorrosion in Copper Pipes under Actual Drinking Water Conditions</title>
+      <link>https://bdiezlab.com/publication/galarce_et_al_2020/</link>
+      <pubDate>Sun, 05 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://bdiezlab.com/publication/galarce_et_al_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Soil microbial community responses to labile organic carbon fractions in relation to soil type and land use along a climate gradient</title>
+      <link>https://bdiezlab.com/publication/ramirez_et_al_2020/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://bdiezlab.com/publication/ramirez_et_al_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detection of sentinel bacteria in mangrove sediments contaminated with heavy metals</title>
+      <link>https://bdiezlab.com/publication/fernandez-cadena_et_al_2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://bdiezlab.com/publication/fernandez-cadena_et_al_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fischerella thermalis: a model organism to study thermophilic diazotrophy, photosynthesis and multicellularity in cyanobacteria</title>
+      <link>https://bdiezlab.com/publication/alcorta_et_al_2019/</link>
+      <pubDate>Wed, 11 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://bdiezlab.com/publication/alcorta_et_al_2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The influence of temperature and pH on bacterial community composition of microbial mats in hot springs from Costa Rica</title>
+      <link>https://bdiezlab.com/publication/uribe-lorio_et_al_2019/</link>
+      <pubDate>Thu, 04 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://bdiezlab.com/publication/uribe-lorio_et_al_2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Elucidating Viral Communities During a Phytoplankton Bloom on the West Antarctic Peninsula</title>
+      <link>https://bdiezlab.com/publication/alarcon-schumacher_et_al_2019/</link>
+      <pubDate>Tue, 14 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://bdiezlab.com/publication/alarcon-schumacher_et_al_2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genomic Features for Desiccation Tolerance and Sugar Biosynthesis in the Extremophile Gloeocapsopsis sp. UTEX B3054</title>
+      <link>https://bdiezlab.com/publication/urrejola_et_al_2019/</link>
+      <pubDate>Tue, 07 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://bdiezlab.com/publication/urrejola_et_al_2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>El paraíso de una ecóloga microbiana</title>
+      <link>https://bdiezlab.com/post/revista_paula_bd_interview_04_25_2019/</link>
+      <pubDate>Thu, 25 Apr 2019 12:20:00 +0000</pubDate>
+      <guid>https://bdiezlab.com/post/revista_paula_bd_interview_04_25_2019/</guid>
+      <description>&lt;div style=&#34;text-align:justify;&#34;&gt;
+&lt;p style=&#34; font-size:20px; text-align:justify; font-weight: bold; font-family: Helvetica;&#34;&gt;
+Para Beatriz Díez (47) todo se trata del mar, esa masa oscura e inconmensurable que aloja parte importante de los misterios científicos. Criada a orillas del Mediterráneo, esta investigadora española que actualmente vive en Chile, creció sintiendo que lo que faltaba por descubrir en las profundidades del océano era tan pequeño e infinito que pasaría inadvertido ante el interés humano, y que lo mismo ocurriría con el mar de células que vivía bajo sus pies. &lt;br&gt; &lt;/p&gt;
+&lt;p&gt;Beatriz Díez era una niña curiosa, al menos eso recuerda. En su natal Alicante, España, soñaba con ser arqueóloga. Quería meterse en sitios complejos y descubrir cosas nuevas, como por qué las piedras eran de distintos tamaños o entender por qué algunas tenían colores diferentes. En ese entonces, sentía que el planeta era mucho más que una montaña estática o un desierto infértil. Algo le decía que había un mundo vivo alucinante escondido detrás de sus formas. Por eso, decidió estudiar Ciencias Biológicas y dedicarse a observar, microscopio en mano, el comportamiento de la parte más pequeña de los organismos vivos: los microorganismos. &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Para esta científica pionera en el uso de metodologías de la biología molecular en el estudio de la vida marítima, el mar es una necesidad. Por eso, a los 24 años decidió emigrar hasta la Universidad Autónoma de Barcelona y estudiar un doctorado que terminaría siendo el trampolín a una prolífica carrera en las ciencias. Durante su doctorado en el Instituto de Ciencias del Mar, del Consejo Superior de Investigaciones Científicas (CSIC) en España, trabajó en el antiguo acuario de Barcelona, a pocos metros del emblemático barrio de la Barceloneta. Para ella, ese lugar donde tocaría la cima del prestigio científico por su metodología y análisis microbiano de la vida marina —algo que muy poca gente hacía en ese entonces—, emanaba inspiración y amor por la vida marina. &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Cuenta que por esos años podría haber estudiado a las ballenas, porque sin duda le encantaban, pero escogió ir al inicio de la cadena trófica, donde están los virus, las bacterias y toda clase de organismos pequeños que a simple vista nadie ve. &amp;ldquo;Aún sabemos muy poco sobre cuántos son, qué es lo que hacen, cómo se relacionan entre ellos, qué los estresa, para qué nos podrían servir o cómo los afectamos. Lo que sí sabemos con certeza es que la vida marina es un amalgama de ciclos biogeoquímicos complejos que empiezan y terminan en los microorganismos más pequeños de la cadena. Un mayor entendimiento de ellos podría llevarnos a resolver problemas gigantescos, como la supervivencia en un lugar con temperaturas extremas, menos oxígeno y menos agua&amp;rdquo;, comenta pensando en aquellos organismos extremófilos que han logrado sobrevivir donde ningún ser vivo superior, incluido el humano, lo ha conseguido sin ayuda. &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Siguiendo esa línea de investigación y yendo más allá de una película de ficción sobre la vida en otros mundos, en 2010 Beatriz Díez llegó a la Facultad de Ciencias Biológicas de la Universidad Católica de Chile y allí instaló su laboratorio. Desde aquel lugar, trabaja a diario por avanzar en el entendimiento de cómo sobrevive la vida microbiana en los diversos ambientes extremos de Chile y la Antártica, los que a su vez han sido destacados por la NASA como lugares de interés para evaluar distintas alternativas de vida humana en otros planetas. &lt;br&gt;&lt;/p&gt;
+&lt;h3&gt; ¿Por qué decidiste trabajar en Chile y no en la NASA? &lt;/h3&gt;
+&lt;p&gt;Llegué a Chile por casualidad. Después de estudiar por varios años la biodiversidad de los microorganismos de los océanos, como el Mediterráneo en España y el Índico y el Ártico en Suecia, recibí una invitación para postular a un cargo en el Departamento de Genética Molecular y Microbiología de la UC. Yo conocía científicos españoles que amaban este país, pero nunca había estado aquí. En mi primera búsqueda en Google vi que había glaciares milenarios, más de 80 volcanes activos con incontables ambientes termales, el desierto más árido del planeta y una costa de más de 4.300 kms de norte a sur. ¡Los microorganismos de este lugar han sobrevivido a todo eso! Me demoré cinco segundos en ver que este país era el paraíso para una microbióloga ambiental y ecóloga microbiana como yo. &lt;br&gt;&lt;/p&gt;
+&lt;figure&gt;
+  &lt;img src=&#34;featured_2.jpg&#34; alt=&#34;Revista_PaulaLaTercera&#34; style=&#34;width:100%&#34;&gt;
+  &lt;figcaption&gt; Laboratorio Dra. Beatriz Díez (PUC). Fotos: Mila Belén - Revista Paula La Tercera &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;h3&gt; Suena a que hacer investigación microbiana en Chile es un sueño. ¿Es tan así? &lt;/h3&gt;
+&lt;p&gt;Hay que ir por partes. Antes que eso, Chile ofrece una de las oportunidades más interesantes de hacer un aporte real a la ciencia: formar una escuela de ecólogos microbianos en un país extremo, en la mitad de un laboratorio natural tan fascinante que está en la mira de la NASA por sus condiciones climáticas y geoquímicas. Y en eso estoy yo ahora, haciendo academia, compartiendo el laboratorio y las expediciones a la Antártica, a San Pedro de Atacama, a la Patagonia o a dónde sea con jóvenes de pre y postgrado cuya pasión es investigar la microbiología. Sin embargo, la microbiota de este país, la parte más pequeña del ecosistema, ha sido súper inexplorada. Hoy todos sabemos que en el Norte están los cielos más despejados para ver un mar de estrellas, pero con ese mar de células que está a nuestros pies hay una deuda interesante de metodologías y difusión. &lt;br&gt;&lt;/p&gt;
+&lt;h3&gt; ¿Y qué se podría hacer para cambiar esta situación? &lt;/h3&gt;
+&lt;p&gt;Creo que Chile debiese influenciar la ciencia y la astrobiología mundial, porque todo lo que tiene que ver con encontrar vida y adaptaciones en sitios inesperados como los géiseres o los glaciares, es la bandera que falta para ayudar al conocimiento de un nuevo mundo desconocido. &lt;br&gt;&lt;/p&gt;
+&lt;h3&gt; ¿Cómo se responde desde la microbiología a esos fenómenos que están haciendo que pensemos en vivir en otros mundos? &lt;/h3&gt;
+&lt;p&gt;Uno solo tiene que explicar cómo surgió la vida en este planeta y cómo ha evolucionado para dar respuesta a eso. Los microorganismos han estado aquí por siempre y ellos se han adaptado para poder sobrevivir bajo cualquier condición por extrema o perturbadora que sea, incluido los cambios de clima. Ellos están respondiendo todo el tiempo sobre la mejor forma de habitar este planeta y ahora nos toca aprender de eso. Porque esto es urgente. Como humanidad tenemos poco tiempo y muchos obstáculos debido al perjuicio que causó nuestra evolución. &lt;br&gt;&lt;/p&gt;
+&lt;h3&gt; Hablando de evolución, según cifras de la Unesco, en Chile solo un 32% de la investigación científica es protagonizada por mujeres. ¿Por qué crees que ocurre eso? &lt;/h3&gt;
+&lt;p&gt;Soy curiosa por naturaleza y creo que hay muchas mujeres en el mundo que también lo son, pero viven bajo circunstancias o una cultura que no las potencia como investigadoras. Hablar de este tema es complejo, porque todos tenemos culpa. Pero a la vez, todos tenemos el potencial y la responsabilidad de hacer cambios. Tuve la suerte de vivir en Suecia, uno de los países que ha hecho un mayor esfuerzo por la igualdad. Y como mujer, como investigadora, como peatona, eso se nota. La igualdad permea a la comunidad y empodera a las mujeres para tomar posiciones de liderazgo. Me encantaría ver que algo así ocurra pronto aquí. &lt;br&gt;&lt;/p&gt;
+&lt;figure&gt;
+  &lt;img src=&#34;featured_3.jpg&#34; alt=&#34;Revista_PaulaLaTercera&#34; style=&#34;width:100%&#34;&gt;
+  &lt;figcaption&gt; Dra. Beatriz Díez. Fotos: Mila Belén - Revista Paula La Tercera &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;h3&gt; ¿Cómo se podría motivar la participación de niñas y jóvenes en las ciencias? &lt;/h3&gt;
+&lt;p&gt;Las mujeres en ciencias animan a que más mujeres vayan hacia la ciencia. Visibilizar casos de científicas innovadoras, creativas, que con un sacrificio enorme han sido exitosas, motiva a otras a seguir este camino. Eso y pasarlo bien como investigadora y como persona, no ver límites dentro de uno, más allá de si eres hombre, mujer o una niña. Eso es inspirador. Creo que la sensibilidad y la creatividad que tienen muchas mujeres chilenas las va hacer triunfar una vez que consigan echar abajo los límites y las barreras. Esta es una lucha por la razón y la fuerza que va a durar mucho tiempo, porque la evolución es lenta y a veces la adaptación puede ser dolorosa, pero creo que este es un buen momento a nivel planeta y Chile no se va a quedar atrás. &lt;br&gt;&lt;/p&gt;
+&lt;h3&gt; Como los microorganismos, que constantemente están tratando de saltar sus limitaciones para evolucionar y adaptarse, ¿no? &lt;/h3&gt;
+&lt;p&gt;Esto es cuestión de adaptarse día a día y evolucionar para conseguir una meta y ser feliz, no porque las mujeres creamos que somos más inteligentes o mejores, sino porque tenemos los mismos potenciales y queremos contribuir. Y realmente sabemos cómo hacerlo. &lt;br&gt;&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;También puedes leer la entrevista en su formato original en &lt;a href=&#34;https://www.latercera.com/paula/paraiso-una-ecologa-microbiana/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Revista Paula - La Tercera&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Slides</title>
+      <link>https://bdiezlab.com/slides/example/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://bdiezlab.com/slides/example/</guid>
+      <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://owchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
+&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
+&lt;li&gt;Supports speaker notes&lt;/li&gt;
+&lt;li&gt;Mobile friendly slides&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/hakimel/reveal.js#pdf-export&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF Export&lt;/a&gt;: &lt;code&gt;E&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
+&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Code block:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;porridge = &amp;quot;blueberry&amp;quot;
+if porridge == &amp;quot;blueberry&amp;quot;:
+    print(&amp;quot;Eating...&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
+&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
+&lt;p&gt;Block math:&lt;/p&gt;
+&lt;p&gt;$$
+f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
+&lt;p&gt;Make content appear incrementally&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
+{{% fragment %}} **Two** {{% /fragment %}}
+{{% fragment %}} Three {{% /fragment %}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;fragment &#34; &gt;
+One
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+&lt;strong&gt;Two&lt;/strong&gt;
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+Three
+&lt;/span&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
+&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{% speaker_note %}}
+- Only the speaker can read these notes
+- Press `S` key to view
+{{% /speaker_note %}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
+&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
+&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
+&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
+&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
+&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
+&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;/media/boards.jpg&#34;
+  &gt;
+
+&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
+&lt;p&gt;Customize the slide style and background&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{&amp;lt; slide background-image=&amp;quot;/media/boards.jpg&amp;quot; &amp;gt;}}
+{{&amp;lt; slide background-color=&amp;quot;#0000FF&amp;quot; &amp;gt;}}
+{{&amp;lt; slide class=&amp;quot;my-style&amp;quot; &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
+&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
+&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-css&#34;&gt;.reveal section h1,
+.reveal section h2,
+.reveal section h3 {
+  color: navy;
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/discussions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Las cianobacterias y el cambio climático. Capítulo Libro. El cambio climático y la biología funcional de los organismos. (Francisco Bozinovic &amp; Francisco Bozinovic Lohengrin A. Cavieres First Edition)</title>
+      <link>https://bdiezlab.com/publication/alcorta_bookchapter_2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://bdiezlab.com/publication/alcorta_bookchapter_2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Temperature modulates Fischerella thermalis ecotypes in Porcelana Hot Spring</title>
+      <link>https://bdiezlab.com/publication/alcorta_et_al_2018/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://bdiezlab.com/publication/alcorta_et_al_2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Summer phyto- and bacterioplankton communities during low and high productivity scenarios in the Western Antarctic Peninsula</title>
+      <link>https://bdiezlab.com/publication/fuentes_et_al_2018/</link>
+      <pubDate>Thu, 11 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://bdiezlab.com/publication/fuentes_et_al_2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diurnal changes in active carbon and nitrogen pathways along the temperature gradient in porcelana hot spring microbial mat</title>
+      <link>https://bdiezlab.com/publication/alcaman_arias_et_al_2018b/</link>
+      <pubDate>Tue, 02 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://bdiezlab.com/publication/alcaman_arias_et_al_2018b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bacterial community structure in a sympagic habitat expanding with global warming: brackish ice brine at 85–90 °N</title>
+      <link>https://bdiezlab.com/publication/fernandez-gomez_et_al_2018/</link>
+      <pubDate>Tue, 18 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://bdiezlab.com/publication/fernandez-gomez_et_al_2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Active Crossfire Between Cyanobacteria and Cyanophages in Phototrophic Mat Communities Within Hot Springs</title>
+      <link>https://bdiezlab.com/publication/guajardo-leiva_et_al_2018/</link>
+      <pubDate>Mon, 03 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://bdiezlab.com/publication/guajardo-leiva_et_al_2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microbial activity during a coastal phytoplankton bloom on the Western Antarctic Peninsula in late summer</title>
+      <link>https://bdiezlab.com/publication/alcaman_arias_et_al_2018/</link>
+      <pubDate>Wed, 04 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://bdiezlab.com/publication/alcaman_arias_et_al_2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Plankton composition, biomass, phylogeny and toxin genes in Lake Big Momela, Tanzania</title>
+      <link>https://bdiezlab.com/publication/hamisi_et_al_2017/</link>
+      <pubDate>Thu, 24 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>https://bdiezlab.com/publication/hamisi_et_al_2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Physiological and gene expression responses to nitrogen regimes and temperatures in Mastigocladus sp. strain CHP1, a predominant thermotolerant cyanobacterium of hot springs</title>
+      <link>https://bdiezlab.com/publication/alcaman_arias_et_al_2017/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>https://bdiezlab.com/publication/alcaman_arias_et_al_2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Climate relevant trace gases (N2O and CH4) in the Eurasian Basin (Arctic Ocean)</title>
+      <link>https://bdiezlab.com/publication/verdugo_et_al_2016/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>https://bdiezlab.com/publication/verdugo_et_al_2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Metagenomic Analysis of the Indian Ocean Picocyanobacterial Community: Structure, Potential Function and Evolution</title>
+      <link>https://bdiezlab.com/publication/diez_et_al_2016/</link>
+      <pubDate>Thu, 19 May 2016 00:00:00 +0000</pubDate>
+      <guid>https://bdiezlab.com/publication/diez_et_al_2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variation in coastal Antarctic microbial community composition at sub-mesoscale: Spatial distance or environmental filtering?</title>
+      <link>https://bdiezlab.com/publication/moreno_pino_et_al_2016/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://bdiezlab.com/publication/moreno_pino_et_al_2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive phenotypic plasticity and competitive ability deployed under a climate change scenario may promote the invasion of Poa annua in Antarctica</title>
+      <link>https://bdiezlab.com/publication/molina_montenegro_et_al_2016/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>https://bdiezlab.com/publication/molina_montenegro_et_al_2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CyDiv, a conserved and novel filamentous cyanobacterial cell division protein involved in septum localization</title>
+      <link>https://bdiezlab.com/publication/mandakovic_et_al_2016/</link>
+      <pubDate>Wed, 10 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>https://bdiezlab.com/publication/mandakovic_et_al_2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Characterization of bacterial, archaeal and eukaryote symbionts from antarctic sponges reveals a high diversity at a three-domain level and a particular signature for this ecosystem</title>
+      <link>https://bdiezlab.com/publication/rodriguez-marconi_et_al_2015/</link>
+      <pubDate>Wed, 30 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://bdiezlab.com/publication/rodriguez-marconi_et_al_2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The cyanobacterium Mastigocladus fulfills the nitrogen demand of a terrestrial hot spring microbial mat</title>
+      <link>https://bdiezlab.com/publication/alcaman_arias_et_al_2015/</link>
+      <pubDate>Fri, 31 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>https://bdiezlab.com/publication/alcaman_arias_et_al_2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diazotrophy in Alluvial Meadows of Subarctic River Systems</title>
+      <link>https://bdiezlab.com/publication/deluca_et_al-_2013/</link>
+      <pubDate>Wed, 06 Nov 2013 00:00:00 +0000</pubDate>
+      <guid>https://bdiezlab.com/publication/deluca_et_al-_2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Water nutrient stoichiometry modifies the nutritional quality of phytoplankton and somatic growth of crustacean mesozooplankton</title>
+      <link>https://bdiezlab.com/publication/diez_et_al_2013/</link>
+      <pubDate>Wed, 28 Aug 2013 00:00:00 +0000</pubDate>
+      <guid>https://bdiezlab.com/publication/diez_et_al_2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Epiphytic cyanobacteria of the seagrass Cymodocea rotundata: Diversity, diel nifH expression and nitrogenase activity</title>
+      <link>https://bdiezlab.com/publication/hamisi_et_al_2013/</link>
+      <pubDate>Thu, 10 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://bdiezlab.com/publication/hamisi_et_al_2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bacterial composition of microbial mats in hot springs in Northern Patagonia: variations with seasons and temperature</title>
+      <link>https://bdiezlab.com/publication/mackenzie_et_al_2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://bdiezlab.com/publication/mackenzie_et_al_2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Metagenomes of Mediterranean Coastal Lagoons</title>
+      <link>https://bdiezlab.com/publication/ghai_et_al_2012/</link>
+      <pubDate>Tue, 03 Jul 2012 00:00:00 +0000</pubDate>
+      <guid>https://bdiezlab.com/publication/ghai_et_al_2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High cyanobacterial nifH gene diversity in Arctic seawater and sea ice brine</title>
+      <link>https://bdiezlab.com/publication/diez_et_al_2012/</link>
+      <pubDate>Thu, 12 Apr 2012 00:00:00 +0000</pubDate>
+      <guid>https://bdiezlab.com/publication/diez_et_al_2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Functional convergence of microbes associated with temperate marine sponges</title>
+      <link>https://bdiezlab.com/publication/ribes_et_al_2012/</link>
+      <pubDate>Wed, 15 Feb 2012 00:00:00 +0000</pubDate>
+      <guid>https://bdiezlab.com/publication/ribes_et_al_2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Phylogenetic and molecular clock inferences of cyanobacterial strains within Rivulariaceae from distant environments</title>
+      <link>https://bdiezlab.com/publication/dominguez-escobar_et_al_2011/</link>
+      <pubDate>Tue, 01 Mar 2011 00:00:00 +0000</pubDate>
+      <guid>https://bdiezlab.com/publication/dominguez-escobar_et_al_2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multifaceted approach for the analysis of the phototrophic microbial community in a freshwater recreational area of Xochimilco, México</title>
+      <link>https://bdiezlab.com/publication/tavera_diez_2009/</link>
+      <pubDate>Fri, 30 Oct 2009 00:00:00 +0000</pubDate>
+      <guid>https://bdiezlab.com/publication/tavera_diez_2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Temporal separation of cell division and diazotrophy in the marine diazotrophic cyanobacterium Trichodesmium erythraeum IMS101</title>
+      <link>https://bdiezlab.com/publication/sandh_et_al_2009/</link>
+      <pubDate>Mon, 01 Jun 2009 00:00:00 +0000</pubDate>
+      <guid>https://bdiezlab.com/publication/sandh_et_al_2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diazotrophic diversity, nifH gene expression and nitrogenase activity in a rice paddy field in Fujian, China</title>
+      <link>https://bdiezlab.com/publication/martensson_et_al_2009/</link>
+      <pubDate>Wed, 29 Apr 2009 00:00:00 +0000</pubDate>
+      <guid>https://bdiezlab.com/publication/martensson_et_al_2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diversity of hepatotoxic cyanobacteria in the Nile Delta, Egypt</title>
+      <link>https://bdiezlab.com/publication/amer_et_al_2009/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://bdiezlab.com/publication/amer_et_al_2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marine diazotrophic cyanobacteria: Out of the blue</title>
+      <link>https://bdiezlab.com/publication/diez_et_al_2008/</link>
+      <pubDate>Thu, 06 Mar 2008 00:00:00 +0000</pubDate>
+      <guid>https://bdiezlab.com/publication/diez_et_al_2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variability in benthic diazotrophy and cyanobacterial diversity in a tropical intertidal lagoon</title>
+      <link>https://bdiezlab.com/publication/bauer_et_al_2008/</link>
+      <pubDate>Thu, 10 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://bdiezlab.com/publication/bauer_et_al_2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Characterization And Comparison Of Prokaryotic Epiphytes Associated With Three East African Seagrasses 1</title>
+      <link>https://bdiezlab.com/publication/uku_et_al_2007/</link>
+      <pubDate>Sat, 30 Jun 2007 00:00:00 +0000</pubDate>
+      <guid>https://bdiezlab.com/publication/uku_et_al_2007/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Epilithic Cyanobacterial Communities of a Marine Tropical Beach Rock (Heron Island, Great Barrier Reef): Diversity and Diazotrophy</title>
+      <link>https://bdiezlab.com/publication/diez_et_al_2007/</link>
+      <pubDate>Mon, 28 May 2007 00:00:00 +0000</pubDate>
+      <guid>https://bdiezlab.com/publication/diez_et_al_2007/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Watering, Fertilization, and Slurry Inoculation Promote Recovery of Biological Crust Function in Degraded Soils</title>
+      <link>https://bdiezlab.com/publication/maestre_et_al_2006/</link>
+      <pubDate>Fri, 19 May 2006 00:00:00 +0000</pubDate>
+      <guid>https://bdiezlab.com/publication/maestre_et_al_2006/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Control of heterotrophic prokaryotic abundance and growth rate in hypersaline planktonic environments</title>
+      <link>https://bdiezlab.com/publication/gasol_et_al_2004/</link>
+      <pubDate>Mon, 19 Jul 2004 00:00:00 +0000</pubDate>
+      <guid>https://bdiezlab.com/publication/gasol_et_al_2004/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distribution of eukaryotic picoplankton assemblages across hydrographic fronts in the Southern Ocean, studied by denaturing gradient gel electrophoresis</title>
+      <link>https://bdiezlab.com/publication/diez_et_al_2004/</link>
+      <pubDate>Mon, 19 Jul 2004 00:00:00 +0000</pubDate>
+      <guid>https://bdiezlab.com/publication/diez_et_al_2004/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unveiling the Organisms behind Novel Eukaryotic Ribosomal DNA Sequences from the Ocean</title>
+      <link>https://bdiezlab.com/publication/massana_et_al_2002/</link>
+      <pubDate>Sun, 01 Sep 2002 00:00:00 +0000</pubDate>
+      <guid>https://bdiezlab.com/publication/massana_et_al_2002/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Changes in archaeal, bacterial and eukaryal assemblages along a salinity gradient by comparison of genetic fingerprinting methods in a multipond solar saltern</title>
+      <link>https://bdiezlab.com/publication/casamayor_et_al_2002/</link>
+      <pubDate>Tue, 18 Jun 2002 00:00:00 +0000</pubDate>
+      <guid>https://bdiezlab.com/publication/casamayor_et_al_2002/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Application of Denaturing Gradient Gel Electrophoresis (DGGE) To Study the Diversity of Marine Picoeukaryotic Assemblages and Comparison of DGGE with Other Molecular Techniques</title>
+      <link>https://bdiezlab.com/publication/diez_et_al_2001b/</link>
+      <pubDate>Sun, 01 Jul 2001 00:00:00 +0000</pubDate>
+      <guid>https://bdiezlab.com/publication/diez_et_al_2001b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Study of Genetic Diversity of Eukaryotic Picoplankton in Different Oceanic Regions by Small-Subunit rRNA Gene Cloning and Sequencing</title>
+      <link>https://bdiezlab.com/publication/diez_et_al_2001/</link>
+      <pubDate>Sun, 01 Jul 2001 00:00:00 +0000</pubDate>
+      <guid>https://bdiezlab.com/publication/diez_et_al_2001/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pulsed-field gel electrophoresis analysis of virus assemblages present in a hypersaline environment.</title>
+      <link>https://bdiezlab.com/publication/diez_et_al_2000/</link>
+      <pubDate>Fri, 01 Sep 2000 00:00:00 +0000</pubDate>
+      <guid>https://bdiezlab.com/publication/diez_et_al_2000/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

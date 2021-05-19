@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>6 | Beatriz Díez Lab</title>
+    <link>https://bdiezlab.com/publication-type/6/</link>
+      <atom:link href="https://bdiezlab.com/publication-type/6/index.xml" rel="self" type="application/rss+xml" />
+    <description>6</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Beatriz Díez Lab</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://bdiezlab.com/media/icon.png</url>
+      <title>6</title>
+      <link>https://bdiezlab.com/publication-type/6/</link>
+    </image>
+    
+    <item>
+      <title>Las cianobacterias y el cambio climático. Capítulo Libro. El cambio climático y la biología funcional de los organismos. (Francisco Bozinovic &amp; Francisco Bozinovic Lohengrin A. Cavieres First Edition)</title>
+      <link>https://bdiezlab.com/publication/alcorta_bookchapter_2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://bdiezlab.com/publication/alcorta_bookchapter_2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

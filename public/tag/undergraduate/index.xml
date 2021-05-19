@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Undergraduate | Beatriz Díez Lab</title>
+    <link>https://bdiezlab.com/tag/undergraduate/</link>
+      <atom:link href="https://bdiezlab.com/tag/undergraduate/index.xml" rel="self" type="application/rss+xml" />
+    <description>Undergraduate</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Beatriz Díez Lab</copyright><lastBuildDate>Mon, 17 May 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://bdiezlab.com/media/icon.png</url>
+      <title>Undergraduate</title>
+      <link>https://bdiezlab.com/tag/undergraduate/</link>
+    </image>
+    
+    <item>
+      <title>Dominique Jara</title>
+      <link>https://bdiezlab.com/people/djara/</link>
+      <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://bdiezlab.com/people/djara/</guid>
+      <description>&lt;p style=&#34;color:grey; font-size:20px; text-align:center;&#34;&gt; Undergraduate Student &lt;/p&gt;
+&lt;div style=&#34;text-align:justify;&#34;&gt;
+&lt;p&gt;&lt;strong&gt;About&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Los datos compartidos por la Fundación Tara Oceans han permitido investigar y conocer mejor que antes el mundo marino. Entre esos datos de acceso libre, se encuentran los MAGs (Metagenome Assembled Genomes) obtenidos de las muestras tomadas de océanos de todo el mundo. El análisis de estos datos hace posible investigar sobre microorganismos que no han podido ser aislados en el laboratorio, permitiendo una visión más acertada de la diversidad de microorganismos que habitan el océano. Entre ellos, se encuentran aquellos que utilizan la luz como fuente de energía que puede ser capturada con sistemas basados en clorofila, o bien sistemas basados en retinol. Este último se relaciona con las rhodopsinas, una familia de proteínas dependiente de retinol que se ha descubierto recientemente que cumplen una variedad de funciones en los microorganismos. &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Con el objetivo de conocer qué tan importantes y el rol que cumplen las rhodopsinas en los sistemas marinos de todo el mundo, es que se analizan los MAGs de bacterias y arqueas obtenidos de la base de datos de Tara Oceans en busca de rhodopsinas.  &lt;br&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;style&gt;
+.column-left{
+  float: left;
+  width: 50%;
+  text-align: left;
+}
+.column-right{
+  float: right;
+  width: 50%;
+  text-align: left;
+}
+&lt;/style&gt;
+&lt;div class=&#34;column-left&#34;&gt;
+&lt;h3&gt; Interests &lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Computational Biology&lt;/li&gt;
+&lt;li&gt;Data Sciences&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;column-right&#34;&gt;
+&lt;h3&gt; Education &lt;/h3&gt;
+
+  &lt;i class=&#34;fas fa-graduation-cap  pr-1 fa-fw&#34;&gt;&lt;/i&gt; MSc. en Bioquímica, 2021
+&lt;p style=&#34;color:grey; font-size:15px; padding-left:32px;&#34;&gt; Universidad de Chile, Chile  &lt;/p&gt;
+
+  &lt;i class=&#34;fas fa-graduation-cap  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Bioquímica, 2020
+&lt;p style=&#34;color:grey; font-size:15px; padding-left:32px;&#34;&gt; Universidad de Chile, Chile &lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;h3&gt; Contact &lt;/h3&gt;
+&lt;p&gt;
+  &lt;i class=&#34;fas fa-envelope  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;a href=&#34;mailto:dominique.jaras@ug.uchile.cl&#34;&gt;dominique.jaras@ug.uchile.cl&lt;/a&gt; &lt;br&gt;
+&lt;a href=&#34;mailto:dominique.jaras@ug.uchile.cl&#34;&gt;&lt;i class=&#34;fas fa-envelope&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tomás Sauma</title>
+      <link>https://bdiezlab.com/people/tsauma/</link>
+      <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://bdiezlab.com/people/tsauma/</guid>
+      <description>&lt;p style=&#34;color:grey; font-size:20px; text-align:center;&#34;&gt; Undergraduate Student &lt;/p&gt;
+&lt;div style=&#34;text-align:justify;&#34;&gt;
+&lt;p&gt;&lt;strong&gt;About&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Due to the polyextreme environmental conditions occurring in (hyper)arid deserts, macroorganisms are rare and their distribution decreases with aridity. Consequently, nutrients cycles are considered to be mainly driven by the activity of edaphic and lithic microbial communities. However, while microbial diversity has been extensively studied in desert soils, their function, i.e., the specific role(s) of these communities in biogeochemical cycling, remains understudied. To achieve this it is necessary to study the metabolic pathways used by the microorganisms to incorporate, transform and use the different nutrients available in desert soils and atmosphere. Consequently, we use shotgun metagenomes from soils with contrasting aridity (and therefore plant cover) to study the evolution of microbially-mediated functions with aridity, especially nitrogen cycling due to its importance in plant growth, organic matter decomposition and the productivity of desert ecosystems. &lt;br&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;style&gt;
+.column-left{
+  float: left;
+  width: 50%;
+  text-align: left;
+}
+.column-right{
+  float: right;
+  width: 50%;
+  text-align: left;
+}
+&lt;/style&gt;
+&lt;div class=&#34;column-left&#34;&gt;
+&lt;h3&gt; Interests &lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Edaphic communities&lt;/li&gt;
+&lt;li&gt;Drylands&lt;/li&gt;
+&lt;li&gt;Metagenomics&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;column-right&#34;&gt;
+&lt;h3&gt; Education &lt;/h3&gt;
+
+  &lt;i class=&#34;fas fa-graduation-cap  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Bioquímica, 2021
+&lt;p style=&#34;color:grey; font-size:15px; padding-left:32px;&#34;&gt; Pontificia Universidad Católica de Chile, Chile &lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;h3&gt; Contact &lt;/h3&gt;
+&lt;p&gt;
+  &lt;i class=&#34;fas fa-envelope  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;a href=&#34;mailto:tisauma@uc.cl&#34;&gt;tisauma@uc.cl&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Wilson Castillo-Inaipil</title>
+      <link>https://bdiezlab.com/people/wcastillo/</link>
+      <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://bdiezlab.com/people/wcastillo/</guid>
+      <description>&lt;p style=&#34;color:grey; font-size:20px; text-align:center;&#34;&gt; Undergraduate Student &lt;/p&gt;
+&lt;div style=&#34;text-align:justify;&#34;&gt;
+&lt;p&gt;&lt;strong&gt;About&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Utilizando como modelo Bahía Chile, buscamos dilucidar las comunidades de fagos que están presentes en aguas costeras de Antártica entre los veranos del 2014 hasta el 2019. Durante estas épocas estivales se presenta el mayor florecimiento de fitoplancton de la zona, influenciando fuertemente al ecosistema completo. A través de análisis taxonómicos de metagenomas se busca rescatar secuencias virales y en ellas, realizar la búsqueda de AMGs involucrados en los principales ciclos biogeoquímicos y en procesos de respuesta a estrés. De esta forma, el objetivo de este proyecto es describir el rol de la comunidad de fagos en aguas costeras antárticas, durante un florecimiento fitoplantónico en distintos años consecutivos. &lt;br&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;style&gt;
+.column-left{
+  float: left;
+  width: 50%;
+  text-align: left;
+}
+.column-right{
+  float: right;
+  width: 50%;
+  text-align: left;
+}
+&lt;/style&gt;
+&lt;div class=&#34;column-left&#34;&gt;
+&lt;h3&gt; Interests &lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Viral ecology&lt;/li&gt;
+&lt;li&gt;Marine microbiology&lt;/li&gt;
+&lt;li&gt;Bioinformatics&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;column-right&#34;&gt;
+&lt;h3&gt; Education &lt;/h3&gt;
+
+  &lt;i class=&#34;fas fa-graduation-cap  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Bioquímica, 2021
+&lt;p style=&#34;color:grey; font-size:15px; padding-left:32px;&#34;&gt; Universidad de Chile, Chile &lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;h3&gt; Contact &lt;/h3&gt;
+&lt;p&gt;
+  &lt;i class=&#34;fas fa-envelope  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;a href=&#34;mailto:wilson.castillo@ug.uchile.cl&#34;&gt;wilson.castillo@ug.uchile.cl&lt;/a&gt; &lt;br&gt;
+&lt;a href=&#34;mailto:wilson.castillo@ug.uchile.cl&#34;&gt;&lt;i class=&#34;fas fa-envelope&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+&lt;a href=&#34;https://www.linkedin.com/in/wilson-elias-castillo-inaipil-7a3437205/&#34;&gt;&lt;i class=&#34;fab fa-linkedin&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

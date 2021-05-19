@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oscar Salgado | Beatriz Díez Lab</title>
+    <link>https://bdiezlab.com/people/osalgado/</link>
+      <atom:link href="https://bdiezlab.com/people/osalgado/index.xml" rel="self" type="application/rss+xml" />
+    <description>Oscar Salgado</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Javier Tamayo-Leiva</copyright>
+    <image>
+      <url>https://bdiezlab.com/people/osalgado/featured.png</url>
+      <title>Oscar Salgado</title>
+      <link>https://bdiezlab.com/people/osalgado/</link>
+    </image>
+    
+  </channel>
+</rss>

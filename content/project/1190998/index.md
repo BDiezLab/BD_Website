@@ -42,12 +42,9 @@ Proyecto: CONICYT, Fondecyt 1190998 (2019-2023)
 ### Gallery
 
   <center>
-  
   {{< gallery album="1190998_g" >}}
-  
-  <video height="200" controls>
-  <source src="./Geisers_Tatio.mov">
-  </video>
+  <br>
+  <embed src="./Geisers_Tatio.mov" Pluginspage="https://support.apple.com/quicktime" height="200" CONTROLLER="true" LOOP="false" AUTOPLAY="false" name="Tatio Video"></embed>
   </center>
 </div>
 

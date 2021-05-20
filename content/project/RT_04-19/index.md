@@ -15,7 +15,7 @@ links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: 
+  url: https://twitter.com/BDiezLab
 slides: 
 summary: Antarctic Peninsula
 tags: ["Current Project", "Extreme Systems", "Antarctic", "Microbiology", "Virology"]

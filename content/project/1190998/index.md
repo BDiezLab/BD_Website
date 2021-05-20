@@ -41,6 +41,13 @@ Proyecto: CONICYT, Fondecyt 1190998 (2019-2023)
 
 ### Gallery
 
-  <center>{{< gallery album="1190998_g" >}}</center>
+  <center>
+  
+  {{< gallery album="1190998_g" >}}
+  
+  <video height="200" controls>
+  <source src="./Geisers_Tatio.mov" type=video/mov>
+  </video>
+  </center>
 </div>
 

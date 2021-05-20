@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Researchers Network | Beatriz Díez Lab</title>
-    <link>https://bdiezlab.com/tag/researchers-network/</link>
-      <atom:link href="https://bdiezlab.com/tag/researchers-network/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://bdiezlab.netlify.app/tag/researchers-network/</link>
+      <atom:link href="https://bdiezlab.netlify.app/tag/researchers-network/index.xml" rel="self" type="application/rss+xml" />
     <description>Researchers Network</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Beatriz Díez Lab</copyright><lastBuildDate>Mon, 17 May 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://bdiezlab.com/media/icon.png</url>
+      <url>https://bdiezlab.netlify.app/media/icon.png</url>
       <title>Researchers Network</title>
-      <link>https://bdiezlab.com/tag/researchers-network/</link>
+      <link>https://bdiezlab.netlify.app/tag/researchers-network/</link>
     </image>
     
     <item>
       <title>José Ignacio Arroyo</title>
-      <link>https://bdiezlab.com/people/jarroyo/</link>
+      <link>https://bdiezlab.netlify.app/people/jarroyo/</link>
       <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://bdiezlab.com/people/jarroyo/</guid>
+      <guid>https://bdiezlab.netlify.app/people/jarroyo/</guid>
       <description>&lt;p style=&#34;color:grey; font-size:20px; text-align:center;&#34;&gt; Scientific Collaborator &lt;br&gt; Former Member &lt;/p&gt;
 &lt;h3&gt; Contact &lt;/h3&gt;
 &lt;p&gt;
@@ -31,9 +31,9 @@
     
     <item>
       <title>María Estrella Alcamán</title>
-      <link>https://bdiezlab.com/people/ealcaman/</link>
+      <link>https://bdiezlab.netlify.app/people/ealcaman/</link>
       <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://bdiezlab.com/people/ealcaman/</guid>
+      <guid>https://bdiezlab.netlify.app/people/ealcaman/</guid>
       <description>&lt;p style=&#34;color:grey; font-size:20px; text-align:center;&#34;&gt; Scientific Collaborator &lt;br&gt; Former Member &lt;/p&gt;
 &lt;div style=&#34;text-align:justify;&#34;&gt;
 &lt;h3&gt; About &lt;/h3&gt;
@@ -55,9 +55,9 @@
     
     <item>
       <title>Sebastian Fuentes Alburquenque</title>
-      <link>https://bdiezlab.com/people/sfuentes/</link>
+      <link>https://bdiezlab.netlify.app/people/sfuentes/</link>
       <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://bdiezlab.com/people/sfuentes/</guid>
+      <guid>https://bdiezlab.netlify.app/people/sfuentes/</guid>
       <description>&lt;p style=&#34;color:grey; font-size:20px; text-align:center;&#34;&gt; Scientific Collaborator &lt;br&gt; Former Member &lt;/p&gt;
 &lt;h3&gt; Contact &lt;/h3&gt;
 &lt;p&gt;
@@ -72,9 +72,9 @@
     
     <item>
       <title>Sergio Guajardo-Leiva</title>
-      <link>https://bdiezlab.com/people/sguajardo/</link>
+      <link>https://bdiezlab.netlify.app/people/sguajardo/</link>
       <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://bdiezlab.com/people/sguajardo/</guid>
+      <guid>https://bdiezlab.netlify.app/people/sguajardo/</guid>
       <description>&lt;p style=&#34;color:grey; font-size:20px; text-align:center;&#34;&gt; Scientific Collaborator &lt;/p&gt;
 &lt;div style=&#34;text-align:justify;&#34;&gt;
 &lt;h3&gt; About &lt;/h3&gt;

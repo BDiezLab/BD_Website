@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Current Members | Beatriz Díez Lab</title>
-    <link>https://bdiezlab.com/tag/current-members/</link>
-      <atom:link href="https://bdiezlab.com/tag/current-members/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://bdiezlab.netlify.app/tag/current-members/</link>
+      <atom:link href="https://bdiezlab.netlify.app/tag/current-members/index.xml" rel="self" type="application/rss+xml" />
     <description>Current Members</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Beatriz Díez Lab</copyright><lastBuildDate>Tue, 18 May 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://bdiezlab.com/media/icon.png</url>
+      <url>https://bdiezlab.netlify.app/media/icon.png</url>
       <title>Current Members</title>
-      <link>https://bdiezlab.com/tag/current-members/</link>
+      <link>https://bdiezlab.netlify.app/tag/current-members/</link>
     </image>
     
     <item>
       <title>Beatriz Díez Moreno</title>
-      <link>https://bdiezlab.com/people/admin/</link>
+      <link>https://bdiezlab.netlify.app/people/admin/</link>
       <pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://bdiezlab.com/people/admin/</guid>
+      <guid>https://bdiezlab.netlify.app/people/admin/</guid>
       <description>&lt;p style=&#34;color:grey; font-size:20px; text-align:center;&#34;&gt;Principal Investigator&lt;br&gt;
 Associate Professor &lt;br&gt; P. Universidad Católica de Chile.&lt;/p&gt;
 &lt;div style=&#34;text-align:justify;&#34;&gt;
@@ -28,7 +28,7 @@ Associate Professor &lt;br&gt; P. Universidad Católica de Chile.&lt;/p&gt;
 &lt;p&gt;This research could also be applied to studies linked to climate change, given that extremophilic organisms have already developed adaptations to extreme temperatures. Today, Beatriz Díez is convinced that understanding how survival is possible under these kinds of conditions will help to characterize the biochemistry that defines the limits of cellular life, and in turn illuminate what could happen in an environment that may not be extremophilic today, but with the effects of climate change, could become so tomorrow. &lt;br&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;p&gt;
-  &lt;i class=&#34;fas fa-download  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Download my &lt;a href=&#34;https://bdiezlab.com/docs/cv-bd.pdf&#34; target=&#34;_blank&#34;&gt;resumé&lt;/a&gt;.&lt;/p&gt;
+  &lt;i class=&#34;fas fa-download  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Download my &lt;a href=&#34;https://bdiezlab.netlify.app/docs/cv-bd.pdf&#34; target=&#34;_blank&#34;&gt;resumé&lt;/a&gt;.&lt;/p&gt;
 &lt;br&gt;
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
@@ -81,9 +81,9 @@ Associate Professor &lt;br&gt; P. Universidad Católica de Chile.&lt;/p&gt;
     
     <item>
       <title>Carla Barbosa</title>
-      <link>https://bdiezlab.com/people/cbarbosa/</link>
+      <link>https://bdiezlab.netlify.app/people/cbarbosa/</link>
       <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://bdiezlab.com/people/cbarbosa/</guid>
+      <guid>https://bdiezlab.netlify.app/people/cbarbosa/</guid>
       <description>&lt;p style=&#34;color:grey; font-size:20px; text-align:center;&#34;&gt; MSc. Students &lt;/p&gt;
 &lt;div style=&#34;text-align:justify;&#34;&gt;
 &lt;p&gt;&lt;strong&gt;About&lt;/strong&gt;&lt;/p&gt;
@@ -128,9 +128,9 @@ Associate Professor &lt;br&gt; P. Universidad Católica de Chile.&lt;/p&gt;
     
     <item>
       <title>Christina Ridley</title>
-      <link>https://bdiezlab.com/people/cridley/</link>
+      <link>https://bdiezlab.netlify.app/people/cridley/</link>
       <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://bdiezlab.com/people/cridley/</guid>
+      <guid>https://bdiezlab.netlify.app/people/cridley/</guid>
       <description>&lt;p style=&#34;color:grey; font-size:20px; text-align:center;&#34;&gt; Postdoctoral fellow &lt;/p&gt;
 &lt;div style=&#34;text-align:justify;&#34;&gt;
 &lt;h3&gt; About &lt;/h3&gt;
@@ -177,9 +177,9 @@ Associate Professor &lt;br&gt; P. Universidad Católica de Chile.&lt;/p&gt;
     
     <item>
       <title>Dominique Jara</title>
-      <link>https://bdiezlab.com/people/djara/</link>
+      <link>https://bdiezlab.netlify.app/people/djara/</link>
       <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://bdiezlab.com/people/djara/</guid>
+      <guid>https://bdiezlab.netlify.app/people/djara/</guid>
       <description>&lt;p style=&#34;color:grey; font-size:20px; text-align:center;&#34;&gt; Undergraduate Student &lt;/p&gt;
 &lt;div style=&#34;text-align:justify;&#34;&gt;
 &lt;p&gt;&lt;strong&gt;About&lt;/strong&gt;&lt;/p&gt;
@@ -225,9 +225,9 @@ Associate Professor &lt;br&gt; P. Universidad Católica de Chile.&lt;/p&gt;
     
     <item>
       <title>Felipe Loyola</title>
-      <link>https://bdiezlab.com/people/floyola/</link>
+      <link>https://bdiezlab.netlify.app/people/floyola/</link>
       <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://bdiezlab.com/people/floyola/</guid>
+      <guid>https://bdiezlab.netlify.app/people/floyola/</guid>
       <description>&lt;p style=&#34;color:grey; font-size:20px; text-align:center;&#34;&gt; MSc. Student &lt;/p&gt;
 &lt;div style=&#34;text-align:justify;&#34;&gt;
 &lt;h3&gt; About &lt;/h3&gt;
@@ -277,9 +277,9 @@ El objetivo de este proyecto es dilucidar las comunidades de fagos presentes en 
     
     <item>
       <title>Jaime Alcorta</title>
-      <link>https://bdiezlab.com/people/jalcorta/</link>
+      <link>https://bdiezlab.netlify.app/people/jalcorta/</link>
       <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://bdiezlab.com/people/jalcorta/</guid>
+      <guid>https://bdiezlab.netlify.app/people/jalcorta/</guid>
       <description>&lt;p style=&#34;color:grey; font-size:20px; text-align:center;&#34;&gt; PhD. Student &lt;/p&gt;
 &lt;div style=&#34;text-align:justify;&#34;&gt;
 &lt;h3&gt; About &lt;/h3&gt;
@@ -335,9 +335,9 @@ Estos genomas nos ayudarán a comprender el funcionamiento y la composición de 
     
     <item>
       <title>Javier Tamayo-Leiva</title>
-      <link>https://bdiezlab.com/people/jtamayo/</link>
+      <link>https://bdiezlab.netlify.app/people/jtamayo/</link>
       <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://bdiezlab.com/people/jtamayo/</guid>
+      <guid>https://bdiezlab.netlify.app/people/jtamayo/</guid>
       <description>&lt;p style=&#34;color:grey; font-size:20px; text-align:center;&#34;&gt; PhD. Student &lt;/p&gt;
 &lt;div style=&#34;text-align:justify;&#34;&gt;
 &lt;h3&gt; About &lt;/h3&gt;
@@ -370,7 +370,7 @@ Estos genomas nos ayudarán a comprender el funcionamiento y la composición de 
 &lt;div class=&#34;column-right&#34;&gt;
 &lt;h3&gt; Education &lt;/h3&gt;
 
-  &lt;i class=&#34;fas fa-graduation-cap  pr-1 fa-fw&#34;&gt;&lt;/i&gt; MSc. en Biotcnología, 2016
+  &lt;i class=&#34;fas fa-graduation-cap  pr-1 fa-fw&#34;&gt;&lt;/i&gt; MSc. en Biotecnología, 2016
 &lt;p style=&#34;color:grey; font-size:15px; padding-left:32px;&#34;&gt; Universidad Andrés Bello, Chile  &lt;/p&gt;
 
   &lt;i class=&#34;fas fa-graduation-cap  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Ingeniería en Biotecnología, 2014
@@ -393,9 +393,9 @@ Estos genomas nos ayudarán a comprender el funcionamiento y la composición de 
     
     <item>
       <title>Jerónimo Cifuentes-Anticevic</title>
-      <link>https://bdiezlab.com/people/jcifuentes/</link>
+      <link>https://bdiezlab.netlify.app/people/jcifuentes/</link>
       <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://bdiezlab.com/people/jcifuentes/</guid>
+      <guid>https://bdiezlab.netlify.app/people/jcifuentes/</guid>
       <description>&lt;p style=&#34;color:grey; font-size:20px; text-align:center;&#34;&gt; Scientific Collaborator &lt;/p&gt;
 &lt;div style=&#34;text-align:justify;&#34;&gt;
 &lt;h3&gt; About &lt;/h3&gt;
@@ -446,10 +446,57 @@ I describe myself as a self-taught Bioinformatician with experience in Molecular
     </item>
     
     <item>
-      <title>Karen Jordaan</title>
-      <link>https://bdiezlab.com/people/kjordaan/</link>
+      <title>Johanna Saldias</title>
+      <link>https://bdiezlab.netlify.app/people/jsaldias/</link>
       <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://bdiezlab.com/people/kjordaan/</guid>
+      <guid>https://bdiezlab.netlify.app/people/jsaldias/</guid>
+      <description>&lt;p style=&#34;color:grey; font-size:20px; text-align:center;&#34;&gt; Lab Manager &lt;/p&gt;
+&lt;div style=&#34;text-align:justify;&#34;&gt;
+&lt;h3&gt; About &lt;/h3&gt;
+&lt;p&gt;Profesional con 8 años de experiencia en investigación científica en las áreas de virología, neurociencias, ecología y toxicología ambiental. Gran capacidad para trabajar en ambientes colaborativos de alto desempeño. Predisposición y capacidades para la implementación de nuevas técnicas requeridas para la obtención de resultados a través del auto-aprendizaje. Durante su carrera ha trabajado de manera estrecha con alumnos de pregrado, posgrado y profesionales del área científica implementando técnicas y resolviendo problemas diversos. &lt;br&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;style&gt;
+.column-left{
+  float: left;
+  width: 50%;
+  text-align: left;
+}
+.column-right{
+  float: right;
+  width: 50%;
+  text-align: left;
+}
+&lt;/style&gt;
+&lt;div class=&#34;column-left&#34;&gt;
+&lt;h3&gt; Interests &lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Microbiology&lt;/li&gt;
+&lt;li&gt;Virology&lt;/li&gt;
+&lt;li&gt;Experimental Lab&lt;/li&gt;
+&lt;li&gt;Molecular Biology&lt;/li&gt;
+&lt;li&gt;Biotechnology&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;column-right&#34;&gt;
+&lt;h3&gt; Education &lt;/h3&gt;
+
+  &lt;i class=&#34;fas fa-graduation-cap  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Biotecnología Industrial, 2012
+&lt;p style=&#34;color:grey; font-size:15px; padding-left:32px;&#34;&gt; INACAP, Chile &lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;h3&gt; Contact &lt;/h3&gt;
+&lt;p&gt;
+  &lt;i class=&#34;fas fa-paper-plane  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;a href=&#34;mailto:johanna.saldiasr@gmail.com&#34;&gt;johanna.saldiasr@gmail.com&lt;/a&gt; &lt;br&gt;
+&lt;a href=&#34;https://www.linkedin.com/in/johanna-saldías-ríos-8b9b75149/&#34;&gt;&lt;i class=&#34;fab fa-linkedin&#34;&gt;&lt;/i&gt; Johanna Saldias&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Karen Jordaan</title>
+      <link>https://bdiezlab.netlify.app/people/kjordaan/</link>
+      <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://bdiezlab.netlify.app/people/kjordaan/</guid>
       <description>&lt;p style=&#34;color:grey; font-size:20px; text-align:center;&#34;&gt; Postdoctoral fellow &lt;/p&gt;
 &lt;div style=&#34;text-align:justify;&#34;&gt;
 &lt;h3&gt; About &lt;/h3&gt;
@@ -494,9 +541,9 @@ Deserts are magical, yet harsh, environments that flourish with all kinds of lif
     
     <item>
       <title>Marianne Buscaglia</title>
-      <link>https://bdiezlab.com/people/mbuscaglia/</link>
+      <link>https://bdiezlab.netlify.app/people/mbuscaglia/</link>
       <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://bdiezlab.com/people/mbuscaglia/</guid>
+      <guid>https://bdiezlab.netlify.app/people/mbuscaglia/</guid>
       <description>&lt;p style=&#34;color:grey; font-size:20px; text-align:center;&#34;&gt; PhD. Student &lt;/p&gt;
 &lt;div style=&#34;text-align:justify;&#34;&gt;
 &lt;p&gt;&lt;strong&gt;About&lt;/strong&gt;&lt;/p&gt;
@@ -541,9 +588,9 @@ Deserts are magical, yet harsh, environments that flourish with all kinds of lif
     
     <item>
       <title>Natali Zamora Bugueño</title>
-      <link>https://bdiezlab.com/people/nzamora/</link>
+      <link>https://bdiezlab.netlify.app/people/nzamora/</link>
       <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://bdiezlab.com/people/nzamora/</guid>
+      <guid>https://bdiezlab.netlify.app/people/nzamora/</guid>
       <description>&lt;p style=&#34;color:grey; font-size:20px; text-align:center;&#34;&gt; PhD. Student &lt;/p&gt;
 &lt;div style=&#34;text-align:justify;&#34;&gt;
 &lt;h3&gt; About &lt;/h3&gt;
@@ -595,9 +642,9 @@ Finalmente, con el fin de determinar los efectos de la temperatura y la desecaci
     
     <item>
       <title>Oscar Salgado</title>
-      <link>https://bdiezlab.com/people/osalgado/</link>
+      <link>https://bdiezlab.netlify.app/people/osalgado/</link>
       <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://bdiezlab.com/people/osalgado/</guid>
+      <guid>https://bdiezlab.netlify.app/people/osalgado/</guid>
       <description>&lt;p style=&#34;color:grey; font-size:20px; text-align:center;&#34;&gt; PhD. Student &lt;/p&gt;
 &lt;div style=&#34;text-align:justify;&#34;&gt;
 &lt;p&gt;&lt;strong&gt;About&lt;/strong&gt;&lt;/p&gt;
@@ -642,9 +689,9 @@ Finalmente, con el fin de determinar los efectos de la temperatura y la desecaci
     
     <item>
       <title>Pablo Vergara</title>
-      <link>https://bdiezlab.com/people/pvergara/</link>
+      <link>https://bdiezlab.netlify.app/people/pvergara/</link>
       <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://bdiezlab.com/people/pvergara/</guid>
+      <guid>https://bdiezlab.netlify.app/people/pvergara/</guid>
       <description>&lt;p style=&#34;color:grey; font-size:20px; text-align:center;&#34;&gt; PhD. Student &lt;/p&gt;
 &lt;div style=&#34;text-align:justify;&#34;&gt;
 &lt;h3&gt; About &lt;/h3&gt;
@@ -692,9 +739,9 @@ En lo personal, me aburre abordar los problemas científicos siempre desde la mi
     
     <item>
       <title>Sergio Guajardo-Leiva</title>
-      <link>https://bdiezlab.com/people/sguajardo/</link>
+      <link>https://bdiezlab.netlify.app/people/sguajardo/</link>
       <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://bdiezlab.com/people/sguajardo/</guid>
+      <guid>https://bdiezlab.netlify.app/people/sguajardo/</guid>
       <description>&lt;p style=&#34;color:grey; font-size:20px; text-align:center;&#34;&gt; Scientific Collaborator &lt;/p&gt;
 &lt;div style=&#34;text-align:justify;&#34;&gt;
 &lt;h3&gt; About &lt;/h3&gt;
@@ -755,9 +802,9 @@ viromics.&lt;/li&gt;
     
     <item>
       <title>Tomás Sauma</title>
-      <link>https://bdiezlab.com/people/tsauma/</link>
+      <link>https://bdiezlab.netlify.app/people/tsauma/</link>
       <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://bdiezlab.com/people/tsauma/</guid>
+      <guid>https://bdiezlab.netlify.app/people/tsauma/</guid>
       <description>&lt;p style=&#34;color:grey; font-size:20px; text-align:center;&#34;&gt; Undergraduate Student &lt;/p&gt;
 &lt;div style=&#34;text-align:justify;&#34;&gt;
 &lt;p&gt;&lt;strong&gt;About&lt;/strong&gt;&lt;/p&gt;
@@ -799,9 +846,9 @@ viromics.&lt;/li&gt;
     
     <item>
       <title>Wilson Castillo-Inaipil</title>
-      <link>https://bdiezlab.com/people/wcastillo/</link>
+      <link>https://bdiezlab.netlify.app/people/wcastillo/</link>
       <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://bdiezlab.com/people/wcastillo/</guid>
+      <guid>https://bdiezlab.netlify.app/people/wcastillo/</guid>
       <description>&lt;p style=&#34;color:grey; font-size:20px; text-align:center;&#34;&gt; Undergraduate Student &lt;/p&gt;
 &lt;div style=&#34;text-align:justify;&#34;&gt;
 &lt;p&gt;&lt;strong&gt;About&lt;/strong&gt;&lt;/p&gt;
@@ -845,9 +892,9 @@ viromics.&lt;/li&gt;
     
     <item>
       <title>Diego Segura</title>
-      <link>https://bdiezlab.com/people/dsegura/</link>
+      <link>https://bdiezlab.netlify.app/people/dsegura/</link>
       <pubDate>Fri, 16 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://bdiezlab.com/people/dsegura/</guid>
+      <guid>https://bdiezlab.netlify.app/people/dsegura/</guid>
       <description>&lt;p style=&#34;color:grey; font-size:20px; text-align:center;&#34;&gt; Scientific Collaborator &lt;/p&gt;
 &lt;div style=&#34;text-align:justify;&#34;&gt;
 &lt;h3&gt; About &lt;/h3&gt;

@@ -2,21 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Microbiology | Beatriz Díez Lab</title>
-    <link>https://bdiezlab.com/tag/microbiology/</link>
-      <atom:link href="https://bdiezlab.com/tag/microbiology/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://bdiezlab.netlify.app/tag/microbiology/</link>
+      <atom:link href="https://bdiezlab.netlify.app/tag/microbiology/index.xml" rel="self" type="application/rss+xml" />
     <description>Microbiology</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Beatriz Díez Lab</copyright><lastBuildDate>Mon, 17 May 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://bdiezlab.com/media/icon.png</url>
+      <url>https://bdiezlab.netlify.app/media/icon.png</url>
       <title>Microbiology</title>
-      <link>https://bdiezlab.com/tag/microbiology/</link>
+      <link>https://bdiezlab.netlify.app/tag/microbiology/</link>
     </image>
     
     <item>
-      <title>Caracterización de comunidades de virus gigantes</title>
-      <link>https://bdiezlab.com/project/dg_06_20/</link>
+      <title>ANILLO Antártico-Long-range transport of xenobiotics and microorganisms</title>
+      <link>https://bdiezlab.netlify.app/project/act192057/</link>
       <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://bdiezlab.com/project/dg_06_20/</guid>
+      <guid>https://bdiezlab.netlify.app/project/act192057/</guid>
+      <description>&lt;p&gt;Long-range transport of xenobiotics and microorganisms: Teleconnections and influence on terrestrial ecosystems.&lt;/p&gt;
+&lt;p&gt;Proyecto CONICYT PIA- Anillo de investigación en Ciencia Antártica; ACT192057 (2020-2023)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Caracterización de comunidades de virus gigantes</title>
+      <link>https://bdiezlab.netlify.app/project/dg_06_20/</link>
+      <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://bdiezlab.netlify.app/project/dg_06_20/</guid>
       <description>&lt;p&gt;Caracterización de comunidades de virus gigantes y su asociación a fitoplancton  en aguas marinas Antárticas y Subantárticas &lt;br&gt;&lt;br&gt;&lt;/p&gt;
 &lt;p&gt;Proyecto INACH; DG_06_20 (2021-2023)&lt;/p&gt;
 &lt;div style=&#34;text-align:justify;&#34;&gt;
@@ -27,9 +37,9 @@
     
     <item>
       <title>Center for Climate and Resilience Research (CR)2</title>
-      <link>https://bdiezlab.com/project/15110009/</link>
+      <link>https://bdiezlab.netlify.app/project/15110009/</link>
       <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://bdiezlab.com/project/15110009/</guid>
+      <guid>https://bdiezlab.netlify.app/project/15110009/</guid>
       <description>&lt;p&gt;Center for Climate and Resilience Research (CR)2 &lt;br&gt;&lt;br&gt;&lt;/p&gt;
 &lt;p&gt;Proyecto: CONICYT, FONDAP 15110009 (2018-2022)&lt;/p&gt;
 </description>
@@ -37,9 +47,9 @@
     
     <item>
       <title>Center for Genome Regulation</title>
-      <link>https://bdiezlab.com/project/15200002/</link>
+      <link>https://bdiezlab.netlify.app/project/15200002/</link>
       <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://bdiezlab.com/project/15200002/</guid>
+      <guid>https://bdiezlab.netlify.app/project/15200002/</guid>
       <description>&lt;p&gt;Center for Genome Regulation &lt;br&gt;&lt;br&gt;&lt;/p&gt;
 &lt;p&gt;Proyecto: ANID, FONDAP 15200002 (2021-2022)&lt;/p&gt;
 </description>
@@ -47,9 +57,9 @@
     
     <item>
       <title>CH4 cycling in the seasonal upwelling system</title>
-      <link>https://bdiezlab.com/project/p3190749/</link>
+      <link>https://bdiezlab.netlify.app/project/p3190749/</link>
       <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://bdiezlab.com/project/p3190749/</guid>
+      <guid>https://bdiezlab.netlify.app/project/p3190749/</guid>
       <description>&lt;p&gt;Identity and activity of microbes involved in CH4 cycling in the seasonal upwelling system off the coast of Chile&lt;/p&gt;
 &lt;p&gt;Proyecto CONICYT; FONDECYT Postdoctoral nº3190749 (2019-2022)&lt;/p&gt;
 </description>
@@ -57,9 +67,9 @@
     
     <item>
       <title>Comunidades microbianas y virales del permafrost en la cuenca del Rio Aconcagua</title>
-      <link>https://bdiezlab.com/project/ii190086/</link>
+      <link>https://bdiezlab.netlify.app/project/ii190086/</link>
       <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://bdiezlab.com/project/ii190086/</guid>
+      <guid>https://bdiezlab.netlify.app/project/ii190086/</guid>
       <description>&lt;p&gt;Descubriendo la identidad de las comunidades microbianas y virales del permafrost y su impacto sobre los recursos hídricos en la cuenca del Rio Aconcagua.&lt;br&gt;&lt;br&gt;&lt;/p&gt;
 &lt;p&gt;Proyecto: Concurso Investigación Interdisciplinaria UC; II190086 (2020-2022)&lt;/p&gt;
 </description>
@@ -67,48 +77,28 @@
     
     <item>
       <title>Diazospring</title>
-      <link>https://bdiezlab.com/project/diazospring-project/</link>
+      <link>https://bdiezlab.netlify.app/project/diazospring-project/</link>
       <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://bdiezlab.com/project/diazospring-project/</guid>
+      <guid>https://bdiezlab.netlify.app/project/diazospring-project/</guid>
       <description>&lt;p&gt;Ecology of diazotrophic cyanobacteria in hot springs along a latitudinal gradient from Atacama to Antarctica&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Dinámica temporal costera de gases en Antártica Occidental (PAO)</title>
-      <link>https://bdiezlab.com/project/rt_05-18/</link>
-      <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://bdiezlab.com/project/rt_05-18/</guid>
-      <description>&lt;p&gt;Dinámica temporal de óxido nitroso y metano en una bahía costera de la Península Antártica Occidental (PAO): desde la variabilidad diaria a la interanual.&lt;/p&gt;
-&lt;p&gt;Proyecto INACH; RT_05_18 (2019-2022)&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Efecto viral sobre bacterio- y fitoplancton</title>
-      <link>https://bdiezlab.com/project/rt_04-19/</link>
+      <link>https://bdiezlab.netlify.app/project/rt_04-19/</link>
       <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://bdiezlab.com/project/rt_04-19/</guid>
+      <guid>https://bdiezlab.netlify.app/project/rt_04-19/</guid>
       <description>&lt;p&gt;Identidad y efecto de los virus de ARN y ADN sobre la dinámica del bacterio- y fitoplancton en la Bahía Chile (Antártica).&lt;/p&gt;
 &lt;p&gt;Proyecto INACH; RT_04_19 (2020-2023)&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Long-range transport of xenobiotics and microorganisms</title>
-      <link>https://bdiezlab.com/project/act192057/</link>
-      <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://bdiezlab.com/project/act192057/</guid>
-      <description>&lt;p&gt;Long-range transport of xenobiotics and microorganisms: Teleconnections and influence on terrestrial ecosystems.&lt;/p&gt;
-&lt;p&gt;Proyecto CONICYT PIA- Anillo de investigación en Ciencia Antártica; ACT192057 (2020-2023)&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Metagenomic analysis of the wastewater virome</title>
-      <link>https://bdiezlab.com/project/1181656/</link>
+      <link>https://bdiezlab.netlify.app/project/1181656/</link>
       <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://bdiezlab.com/project/1181656/</guid>
+      <guid>https://bdiezlab.netlify.app/project/1181656/</guid>
       <description>&lt;p&gt;Metagenomic analysis of the wastewater virome; an approach to the detection of viral diversity and its impact on public health &lt;br&gt;&lt;br&gt;&lt;/p&gt;
 &lt;p&gt;Proyecto: CONICYT, Fondecyt 1181656 (2018-2022)&lt;/p&gt;
 </description>
@@ -116,9 +106,9 @@
     
     <item>
       <title>Microbiomics in a Changing World</title>
-      <link>https://bdiezlab.com/project/1210912/</link>
+      <link>https://bdiezlab.netlify.app/project/1210912/</link>
       <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://bdiezlab.com/project/1210912/</guid>
+      <guid>https://bdiezlab.netlify.app/project/1210912/</guid>
       <description>&lt;p&gt;Microbiomics in a Changing World: A focus on the Atacama Desert &lt;br&gt;&lt;br&gt;&lt;/p&gt;
 &lt;p&gt;Proyecto: ANID, Fondecyt 1210912 (2021-2025)&lt;/p&gt;
 </description>
@@ -126,9 +116,9 @@
     
     <item>
       <title>Penguin colonies and microbial communities</title>
-      <link>https://bdiezlab.com/project/1181745/</link>
+      <link>https://bdiezlab.netlify.app/project/1181745/</link>
       <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://bdiezlab.com/project/1181745/</guid>
+      <guid>https://bdiezlab.netlify.app/project/1181745/</guid>
       <description>&lt;p&gt;The influence of penguin colonies on the development of tundra communities in the Antarctic Peninsula &lt;br&gt;&lt;br&gt;&lt;/p&gt;
 &lt;p&gt;Proyecto: CONICYT, Fondecyt 1181745 (2018-2022)&lt;/p&gt;
 </description>
@@ -136,9 +126,9 @@
     
     <item>
       <title>Soil phage ecology in the Atacama desert</title>
-      <link>https://bdiezlab.com/project/p3190464/</link>
+      <link>https://bdiezlab.netlify.app/project/p3190464/</link>
       <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://bdiezlab.com/project/p3190464/</guid>
+      <guid>https://bdiezlab.netlify.app/project/p3190464/</guid>
       <description>&lt;p&gt;Soil phage ecology in the Atacama desert: an unexplored phenomenon&lt;/p&gt;
 &lt;p&gt;Proyecto CONICYT; FONDECYT Postdoctoral nº3190464 (2019-2022)&lt;/p&gt;
 &lt;div class=&#34;container&#34;&gt;
@@ -166,8 +156,8 @@
     
     
     
-    &lt;a data-fancybox=&#34;gallery-p3190464_g&#34; href=&#34;https://bdiezlab.com/project/p3190464/p3190464_g/img1.jpg&#34; &gt;
-      &lt;img data-src=&#34;https://bdiezlab.com/project/p3190464/p3190464_g/img1_huf10ca3c9a2e38ac7bb3dc7eedbc87cf6_3366577_0x190_resize_q75_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;img1.jpg&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-p3190464_g&#34; href=&#34;https://bdiezlab.netlify.app/project/p3190464/p3190464_g/img1.jpg&#34; &gt;
+      &lt;img data-src=&#34;https://bdiezlab.netlify.app/project/p3190464/p3190464_g/img1_huf10ca3c9a2e38ac7bb3dc7eedbc87cf6_3366577_0x190_resize_q75_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;img1.jpg&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -175,8 +165,8 @@
     
     
     
-    &lt;a data-fancybox=&#34;gallery-p3190464_g&#34; href=&#34;https://bdiezlab.com/project/p3190464/p3190464_g/img2.jpg&#34; &gt;
-      &lt;img data-src=&#34;https://bdiezlab.com/project/p3190464/p3190464_g/img2_hue2bc7fd2f5aa0f2166f99bf87a081c92_4283025_0x190_resize_q75_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;img2.jpg&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-p3190464_g&#34; href=&#34;https://bdiezlab.netlify.app/project/p3190464/p3190464_g/img2.jpg&#34; &gt;
+      &lt;img data-src=&#34;https://bdiezlab.netlify.app/project/p3190464/p3190464_g/img2_hue2bc7fd2f5aa0f2166f99bf87a081c92_4283025_0x190_resize_q75_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;img2.jpg&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -184,8 +174,8 @@
     
     
     
-    &lt;a data-fancybox=&#34;gallery-p3190464_g&#34; href=&#34;https://bdiezlab.com/project/p3190464/p3190464_g/img3.jpg&#34; &gt;
-      &lt;img data-src=&#34;https://bdiezlab.com/project/p3190464/p3190464_g/img3_hu0d4e463a188b90041512981334e02fde_6919388_0x190_resize_q75_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;img3.jpg&#34; width=&#34;282&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-p3190464_g&#34; href=&#34;https://bdiezlab.netlify.app/project/p3190464/p3190464_g/img3.jpg&#34; &gt;
+      &lt;img data-src=&#34;https://bdiezlab.netlify.app/project/p3190464/p3190464_g/img3_hu0d4e463a188b90041512981334e02fde_6919388_0x190_resize_q75_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;img3.jpg&#34; width=&#34;282&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -193,8 +183,8 @@
     
     
     
-    &lt;a data-fancybox=&#34;gallery-p3190464_g&#34; href=&#34;https://bdiezlab.com/project/p3190464/p3190464_g/img4.jpg&#34; &gt;
-      &lt;img data-src=&#34;https://bdiezlab.com/project/p3190464/p3190464_g/img4_hua70d5bb45ec417bd77c5be13474225a0_6421949_0x190_resize_q75_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;img4.jpg&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-p3190464_g&#34; href=&#34;https://bdiezlab.netlify.app/project/p3190464/p3190464_g/img4.jpg&#34; &gt;
+      &lt;img data-src=&#34;https://bdiezlab.netlify.app/project/p3190464/p3190464_g/img4_hua70d5bb45ec417bd77c5be13474225a0_6421949_0x190_resize_q75_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;img4.jpg&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -202,8 +192,8 @@
     
     
     
-    &lt;a data-fancybox=&#34;gallery-p3190464_g&#34; href=&#34;https://bdiezlab.com/project/p3190464/p3190464_g/img5.jpg&#34; &gt;
-      &lt;img data-src=&#34;https://bdiezlab.com/project/p3190464/p3190464_g/img5_hu400bba5abe5016a8606db0c9c9d9aeb3_8191646_0x190_resize_q75_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;img5.jpg&#34; width=&#34;470&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-p3190464_g&#34; href=&#34;https://bdiezlab.netlify.app/project/p3190464/p3190464_g/img5.jpg&#34; &gt;
+      &lt;img data-src=&#34;https://bdiezlab.netlify.app/project/p3190464/p3190464_g/img5_hu400bba5abe5016a8606db0c9c9d9aeb3_8191646_0x190_resize_q75_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;img5.jpg&#34; width=&#34;470&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -211,8 +201,8 @@
     
     
     
-    &lt;a data-fancybox=&#34;gallery-p3190464_g&#34; href=&#34;https://bdiezlab.com/project/p3190464/p3190464_g/img6.jpg&#34; &gt;
-      &lt;img data-src=&#34;https://bdiezlab.com/project/p3190464/p3190464_g/img6_hudaf3cbc9d4d422f027cf1f98329dd0b9_2840476_0x190_resize_q75_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;img6.jpg&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-p3190464_g&#34; href=&#34;https://bdiezlab.netlify.app/project/p3190464/p3190464_g/img6.jpg&#34; &gt;
+      &lt;img data-src=&#34;https://bdiezlab.netlify.app/project/p3190464/p3190464_g/img6_hudaf3cbc9d4d422f027cf1f98329dd0b9_2840476_0x190_resize_q75_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;img6.jpg&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -220,8 +210,8 @@
     
     
     
-    &lt;a data-fancybox=&#34;gallery-p3190464_g&#34; href=&#34;https://bdiezlab.com/project/p3190464/p3190464_g/img7.jpg&#34; &gt;
-      &lt;img data-src=&#34;https://bdiezlab.com/project/p3190464/p3190464_g/img7_huef8a80792c4da4d0ba77ef721ad398b4_209038_0x190_resize_q75_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;img7.jpg&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-p3190464_g&#34; href=&#34;https://bdiezlab.netlify.app/project/p3190464/p3190464_g/img7.jpg&#34; &gt;
+      &lt;img data-src=&#34;https://bdiezlab.netlify.app/project/p3190464/p3190464_g/img7_huef8a80792c4da4d0ba77ef721ad398b4_209038_0x190_resize_q75_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;img7.jpg&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -229,8 +219,8 @@
     
     
     
-    &lt;a data-fancybox=&#34;gallery-p3190464_g&#34; href=&#34;https://bdiezlab.com/project/p3190464/p3190464_g/img8.jpg&#34; &gt;
-      &lt;img data-src=&#34;https://bdiezlab.com/project/p3190464/p3190464_g/img8_hu404abe12f23250c167a33fa5c8c6682b_100082_0x190_resize_q75_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;img8.jpg&#34; width=&#34;765&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-p3190464_g&#34; href=&#34;https://bdiezlab.netlify.app/project/p3190464/p3190464_g/img8.jpg&#34; &gt;
+      &lt;img data-src=&#34;https://bdiezlab.netlify.app/project/p3190464/p3190464_g/img8_hu404abe12f23250c167a33fa5c8c6682b_100082_0x190_resize_q75_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;img8.jpg&#34; width=&#34;765&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -238,8 +228,8 @@
     
     
     
-    &lt;a data-fancybox=&#34;gallery-p3190464_g&#34; href=&#34;https://bdiezlab.com/project/p3190464/p3190464_g/img9.jpg&#34; &gt;
-      &lt;img data-src=&#34;https://bdiezlab.com/project/p3190464/p3190464_g/img9_hu91bfabea3861a4f44818dd12d98abaf8_293516_0x190_resize_q75_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;img9.jpg&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-p3190464_g&#34; href=&#34;https://bdiezlab.netlify.app/project/p3190464/p3190464_g/img9.jpg&#34; &gt;
+      &lt;img data-src=&#34;https://bdiezlab.netlify.app/project/p3190464/p3190464_g/img9_hu91bfabea3861a4f44818dd12d98abaf8_293516_0x190_resize_q75_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;img9.jpg&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
 
@@ -250,14 +240,15 @@
     
     <item>
       <title>Tatio geysers field as a model system</title>
-      <link>https://bdiezlab.com/project/1190998/</link>
+      <link>https://bdiezlab.netlify.app/project/1190998/</link>
       <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://bdiezlab.com/project/1190998/</guid>
+      <guid>https://bdiezlab.netlify.app/project/1190998/</guid>
       <description>&lt;p&gt;El Tatio geysers field as a model system to study virus-host interactions and local adaptations. &lt;br&gt;&lt;br&gt;&lt;/p&gt;
 &lt;p&gt;Proyecto: CONICYT, Fondecyt 1190998 (2019-2023)&lt;/p&gt;
 &lt;div class=&#34;container&#34;&gt;
 &lt;h3 id=&#34;gallery&#34;&gt;Gallery&lt;/h3&gt;
   &lt;center&gt;
+
 
 
 
@@ -280,8 +271,8 @@
     
     
     
-    &lt;a data-fancybox=&#34;gallery-1190998_g&#34; href=&#34;https://bdiezlab.com/project/1190998/1190998_g/img1.jpg&#34; &gt;
-      &lt;img data-src=&#34;https://bdiezlab.com/project/1190998/1190998_g/img1_hu52f632ff377cf5b4af2ecb970b4f44f8_1395975_0x190_resize_q75_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;img1.jpg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-1190998_g&#34; href=&#34;https://bdiezlab.netlify.app/project/1190998/1190998_g/img1.jpg&#34; &gt;
+      &lt;img data-src=&#34;https://bdiezlab.netlify.app/project/1190998/1190998_g/img1_hu52f632ff377cf5b4af2ecb970b4f44f8_1395975_0x190_resize_q75_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;img1.jpg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -289,8 +280,8 @@
     
     
     
-    &lt;a data-fancybox=&#34;gallery-1190998_g&#34; href=&#34;https://bdiezlab.com/project/1190998/1190998_g/img2.jpg&#34; &gt;
-      &lt;img data-src=&#34;https://bdiezlab.com/project/1190998/1190998_g/img2_hu52f632ff377cf5b4af2ecb970b4f44f8_1180322_0x190_resize_q75_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;img2.jpg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-1190998_g&#34; href=&#34;https://bdiezlab.netlify.app/project/1190998/1190998_g/img2.jpg&#34; &gt;
+      &lt;img data-src=&#34;https://bdiezlab.netlify.app/project/1190998/1190998_g/img2_hu52f632ff377cf5b4af2ecb970b4f44f8_1180322_0x190_resize_q75_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;img2.jpg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -298,8 +289,8 @@
     
     
     
-    &lt;a data-fancybox=&#34;gallery-1190998_g&#34; href=&#34;https://bdiezlab.com/project/1190998/1190998_g/img3.jpg&#34; &gt;
-      &lt;img data-src=&#34;https://bdiezlab.com/project/1190998/1190998_g/img3_hu52f632ff377cf5b4af2ecb970b4f44f8_1275142_0x190_resize_q75_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;img3.jpg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-1190998_g&#34; href=&#34;https://bdiezlab.netlify.app/project/1190998/1190998_g/img3.jpg&#34; &gt;
+      &lt;img data-src=&#34;https://bdiezlab.netlify.app/project/1190998/1190998_g/img3_hu52f632ff377cf5b4af2ecb970b4f44f8_1275142_0x190_resize_q75_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;img3.jpg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -307,8 +298,8 @@
     
     
     
-    &lt;a data-fancybox=&#34;gallery-1190998_g&#34; href=&#34;https://bdiezlab.com/project/1190998/1190998_g/img4.jpg&#34; &gt;
-      &lt;img data-src=&#34;https://bdiezlab.com/project/1190998/1190998_g/img4_hu52f632ff377cf5b4af2ecb970b4f44f8_1211000_0x190_resize_q75_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;img4.jpg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-1190998_g&#34; href=&#34;https://bdiezlab.netlify.app/project/1190998/1190998_g/img4.jpg&#34; &gt;
+      &lt;img data-src=&#34;https://bdiezlab.netlify.app/project/1190998/1190998_g/img4_hu52f632ff377cf5b4af2ecb970b4f44f8_1211000_0x190_resize_q75_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;img4.jpg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -316,13 +307,17 @@
     
     
     
-    &lt;a data-fancybox=&#34;gallery-1190998_g&#34; href=&#34;https://bdiezlab.com/project/1190998/1190998_g/img5.jpg&#34; &gt;
-      &lt;img data-src=&#34;https://bdiezlab.com/project/1190998/1190998_g/img5_hu52f632ff377cf5b4af2ecb970b4f44f8_1534977_0x190_resize_q75_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;img5.jpg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-1190998_g&#34; href=&#34;https://bdiezlab.netlify.app/project/1190998/1190998_g/img5.jpg&#34; &gt;
+      &lt;img data-src=&#34;https://bdiezlab.netlify.app/project/1190998/1190998_g/img5_hu52f632ff377cf5b4af2ecb970b4f44f8_1534977_0x190_resize_q75_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;img5.jpg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
 
   
-&lt;/div&gt;&lt;/center&gt;
+&lt;/div&gt;
+  &lt;video width=&#34;320&#34; height=&#34;240&#34; controls&gt;
+  &lt;source src=&#34;./Tatio.mp4&#34; type=video/mp4&gt;
+  &lt;/video&gt;
+  &lt;/center&gt;
 &lt;/div&gt;
 </description>
     </item>

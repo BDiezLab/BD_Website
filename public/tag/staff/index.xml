@@ -2,21 +2,68 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Staff | Beatriz Díez Lab</title>
-    <link>https://bdiezlab.com/tag/staff/</link>
-      <atom:link href="https://bdiezlab.com/tag/staff/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://bdiezlab.netlify.app/tag/staff/</link>
+      <atom:link href="https://bdiezlab.netlify.app/tag/staff/index.xml" rel="self" type="application/rss+xml" />
     <description>Staff</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Beatriz Díez Lab</copyright><lastBuildDate>Mon, 17 May 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://bdiezlab.com/media/icon.png</url>
+      <url>https://bdiezlab.netlify.app/media/icon.png</url>
       <title>Staff</title>
-      <link>https://bdiezlab.com/tag/staff/</link>
+      <link>https://bdiezlab.netlify.app/tag/staff/</link>
     </image>
     
     <item>
-      <title>Sergio Guajardo-Leiva</title>
-      <link>https://bdiezlab.com/people/sguajardo/</link>
+      <title>Johanna Saldias</title>
+      <link>https://bdiezlab.netlify.app/people/jsaldias/</link>
       <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://bdiezlab.com/people/sguajardo/</guid>
+      <guid>https://bdiezlab.netlify.app/people/jsaldias/</guid>
+      <description>&lt;p style=&#34;color:grey; font-size:20px; text-align:center;&#34;&gt; Lab Manager &lt;/p&gt;
+&lt;div style=&#34;text-align:justify;&#34;&gt;
+&lt;h3&gt; About &lt;/h3&gt;
+&lt;p&gt;Profesional con 8 años de experiencia en investigación científica en las áreas de virología, neurociencias, ecología y toxicología ambiental. Gran capacidad para trabajar en ambientes colaborativos de alto desempeño. Predisposición y capacidades para la implementación de nuevas técnicas requeridas para la obtención de resultados a través del auto-aprendizaje. Durante su carrera ha trabajado de manera estrecha con alumnos de pregrado, posgrado y profesionales del área científica implementando técnicas y resolviendo problemas diversos. &lt;br&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;style&gt;
+.column-left{
+  float: left;
+  width: 50%;
+  text-align: left;
+}
+.column-right{
+  float: right;
+  width: 50%;
+  text-align: left;
+}
+&lt;/style&gt;
+&lt;div class=&#34;column-left&#34;&gt;
+&lt;h3&gt; Interests &lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Microbiology&lt;/li&gt;
+&lt;li&gt;Virology&lt;/li&gt;
+&lt;li&gt;Experimental Lab&lt;/li&gt;
+&lt;li&gt;Molecular Biology&lt;/li&gt;
+&lt;li&gt;Biotechnology&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;column-right&#34;&gt;
+&lt;h3&gt; Education &lt;/h3&gt;
+
+  &lt;i class=&#34;fas fa-graduation-cap  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Biotecnología Industrial, 2012
+&lt;p style=&#34;color:grey; font-size:15px; padding-left:32px;&#34;&gt; INACAP, Chile &lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;h3&gt; Contact &lt;/h3&gt;
+&lt;p&gt;
+  &lt;i class=&#34;fas fa-paper-plane  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;a href=&#34;mailto:johanna.saldiasr@gmail.com&#34;&gt;johanna.saldiasr@gmail.com&lt;/a&gt; &lt;br&gt;
+&lt;a href=&#34;https://www.linkedin.com/in/johanna-saldías-ríos-8b9b75149/&#34;&gt;&lt;i class=&#34;fab fa-linkedin&#34;&gt;&lt;/i&gt; Johanna Saldias&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sergio Guajardo-Leiva</title>
+      <link>https://bdiezlab.netlify.app/people/sguajardo/</link>
+      <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://bdiezlab.netlify.app/people/sguajardo/</guid>
       <description>&lt;p style=&#34;color:grey; font-size:20px; text-align:center;&#34;&gt; Scientific Collaborator &lt;/p&gt;
 &lt;div style=&#34;text-align:justify;&#34;&gt;
 &lt;h3&gt; About &lt;/h3&gt;
@@ -72,58 +119,6 @@ viromics.&lt;/li&gt;
 &lt;a href=&#34;https://twitter.com/phageattack&#34;&gt;&lt;i class=&#34;fab fa-twitter&#34;&gt;&lt;/i&gt;&lt;/a&gt;
 &lt;a href=&#34;http://www.castrolab.org/&#34;&gt;&lt;i class=&#34;fas fa-link&#34;&gt;&lt;/i&gt; Castro Lab&lt;/a&gt;
 &lt;a href=&#34;https://www.polarix.org/&#34;&gt;&lt;i class=&#34;fas fa-link&#34;&gt;&lt;/i&gt; Polarix&lt;/a&gt; &lt;br&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Diego Segura</title>
-      <link>https://bdiezlab.com/people/dsegura/</link>
-      <pubDate>Fri, 16 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://bdiezlab.com/people/dsegura/</guid>
-      <description>&lt;p style=&#34;color:grey; font-size:20px; text-align:center;&#34;&gt; Scientific Collaborator &lt;/p&gt;
-&lt;div style=&#34;text-align:justify;&#34;&gt;
-&lt;h3&gt; About &lt;/h3&gt;
-&lt;p&gt;¿Cuál es el rol ecológico que cumplen los pingüinos sobre el microbioma en los suelos de Antártica? Esta es una de las preguntas centrales de nuestro estudio, el cual está enfocado principalmente en descubrir que tipos de organismos (procariontes y/o eucariontes) y qué rol cumplen en los suelos influenciados por pingüineras en Antártica. Sabemos a día de hoy que la importancia de los pingüinos en este ecosistema es muy importante, ya que debido a la alta transferencia de nutrientes (mediante sus heces) son capaces de generar “hotspots” de biodiversidad, lo cual permite la colonización de nuevas especies (incluso vegetación) en este ambiente hostil. Nuestra investigación da luces de que efectivamente la presencia de la pingüinera es capaz de alterar la composición de los microorganismos presentes en estos suelos, generando una zona de influencia, en la cual el ingreso de nutrientes al sistema y la transferencia de microorganismos desde el pingüino juegan un papel importante en la modificación y mantención de esta microbiota presente principalmente en los lugares cercanos a la pingüinera. También, nuestros estudios están enfocados en esclarecer las dinámicas que existen sobre los ciclos biogeoquímicos que ocurren en estos ambientes y las interacciones con organismos superiores (vegetación).&lt;br&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;style&gt;
-.column-left{
-  float: left;
-  width: 50%;
-  text-align: left;
-}
-.column-right{
-  float: right;
-  width: 50%;
-  text-align: left;
-}
-&lt;/style&gt;
-&lt;div class=&#34;column-left&#34;&gt;
-&lt;h3&gt; Interests &lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Microbial Ecology&lt;/li&gt;
-&lt;li&gt;Bioinformatics&lt;/li&gt;
-&lt;li&gt;Molecular Biology&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&#34;column-right&#34;&gt;
-&lt;h3&gt; Education &lt;/h3&gt;
-
-  &lt;i class=&#34;fas fa-graduation-cap  pr-1 fa-fw&#34;&gt;&lt;/i&gt; MSc. Bioquímica, 2020
-&lt;p style=&#34;color:grey; font-size:15px; padding-left:32px;&#34;&gt; Universidad de Chile, Chile  &lt;/p&gt;
-
-  &lt;i class=&#34;fas fa-graduation-cap  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Bioquímica, 2018
-&lt;p style=&#34;color:grey; font-size:15px; padding-left:32px;&#34;&gt; Universidad de Chile, Chile &lt;/p&gt;
-&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;h3&gt; Contact &lt;/h3&gt;
-&lt;p&gt;
-  &lt;i class=&#34;fas fa-envelope  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;a href=&#34;mailto:diego.segura@ug.uchile.cl&#34;&gt;diego.segura@ug.uchile.cl&lt;/a&gt;&lt;br&gt;
-
-  &lt;i class=&#34;fas fa-envelope  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;a href=&#34;mailto:dsegurc@gmail.com&#34;&gt;dsegurc@gmail.com&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;mailto:diego.segura@ug.uchile.cl&#34;&gt;&lt;i class=&#34;fas fa-envelope&#34;&gt;&lt;/i&gt;&lt;/a&gt;
-&lt;a href=&#34;mailto:dsegurc@gmail.com&#34;&gt;&lt;i class=&#34;fas fa-envelope&#34;&gt;&lt;/i&gt;&lt;/a&gt;
-&lt;a href=&#34;https://www.linkedin.com/in/diego-segura-cáceres-578a25168&#34;&gt;&lt;i class=&#34;fab fa-linkedin&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
 </description>
     </item>
     

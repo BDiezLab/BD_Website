@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publication_types | Beatriz Díez Lab</title>
-    <link>https://bdiezlab.com/publication_types/</link>
-      <atom:link href="https://bdiezlab.com/publication_types/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://bdiezlab.netlify.app/publication_types/</link>
+      <atom:link href="https://bdiezlab.netlify.app/publication_types/index.xml" rel="self" type="application/rss+xml" />
     <description>Publication_types</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Beatriz Díez Lab</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://bdiezlab.com/media/icon.png</url>
+      <url>https://bdiezlab.netlify.app/media/icon.png</url>
       <title>Publication_types</title>
-      <link>https://bdiezlab.com/publication_types/</link>
+      <link>https://bdiezlab.netlify.app/publication_types/</link>
     </image>
     
   </channel>

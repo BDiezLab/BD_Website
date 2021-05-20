@@ -3,42 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://bdiezlab.com/</loc>
+    <loc>https://bdiezlab.netlify.app/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bdiezlab.com/talk/example-talk/</loc>
+    <loc>https://bdiezlab.netlify.app/talk/example-talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bdiezlab.com/event/</loc>
+    <loc>https://bdiezlab.netlify.app/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bdiezlab.com/people/admin/</loc>
+    <loc>https://bdiezlab.netlify.app/people/admin/</loc>
     <lastmod>2021-05-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bdiezlab.com/tag/current-members/</loc>
+    <loc>https://bdiezlab.netlify.app/tag/current-members/</loc>
     <lastmod>2021-05-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bdiezlab.com/people/</loc>
+    <loc>https://bdiezlab.netlify.app/people/</loc>
     <lastmod>2021-05-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bdiezlab.com/tag/principal-investigator/</loc>
+    <loc>https://bdiezlab.netlify.app/tag/principal-investigator/</loc>
     <lastmod>2021-05-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bdiezlab.com/tags/</loc>
+    <loc>https://bdiezlab.netlify.app/tags/</loc>
     <lastmod>2021-05-18T00:00:00+00:00</lastmod>
   </url>
   
@@ -53,22 +53,17 @@
   </url>
   
   <url>
-    <loc>https://bdiezlab.com/tag/antarctic/</loc>
+    <loc>https://bdiezlab.netlify.app/project/act192057/</loc>
     <lastmod>2021-05-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bdiezlab.com/tag/atacama/</loc>
+    <loc>https://bdiezlab.netlify.app/tag/antarctic/</loc>
     <lastmod>2021-05-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc></loc>
-    <lastmod>2021-05-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bdiezlab.com/project/dg_06_20/</loc>
+    <loc>https://bdiezlab.netlify.app/tag/atacama/</loc>
     <lastmod>2021-05-17T00:00:00+00:00</lastmod>
   </url>
   
@@ -78,22 +73,7 @@
   </url>
   
   <url>
-    <loc>https://bdiezlab.com/people/cbarbosa/</loc>
-    <lastmod>2021-05-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bdiezlab.com/project/15110009/</loc>
-    <lastmod>2021-05-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bdiezlab.com/project/15200002/</loc>
-    <lastmod>2021-05-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bdiezlab.com/project/p3190749/</loc>
+    <loc>https://bdiezlab.netlify.app/project/dg_06_20/</loc>
     <lastmod>2021-05-17T00:00:00+00:00</lastmod>
   </url>
   
@@ -103,42 +83,22 @@
   </url>
   
   <url>
-    <loc>https://bdiezlab.com/people/cridley/</loc>
+    <loc>https://bdiezlab.netlify.app/people/cbarbosa/</loc>
     <lastmod>2021-05-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bdiezlab.com/tag/climate-change/</loc>
+    <loc>https://bdiezlab.netlify.app/project/15110009/</loc>
     <lastmod>2021-05-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bdiezlab.com/project/ii190086/</loc>
+    <loc>https://bdiezlab.netlify.app/project/15200002/</loc>
     <lastmod>2021-05-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bdiezlab.com/project/covid0184/</loc>
-    <lastmod>2021-05-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2021-05-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bdiezlab.com/tag/current-project/</loc>
-    <lastmod>2021-05-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bdiezlab.com/tag/diazospring/</loc>
-    <lastmod>2021-05-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bdiezlab.com/project/diazospring-project/</loc>
+    <loc>https://bdiezlab.netlify.app/project/p3190749/</loc>
     <lastmod>2021-05-17T00:00:00+00:00</lastmod>
   </url>
   
@@ -148,7 +108,22 @@
   </url>
   
   <url>
-    <loc>https://bdiezlab.com/project/rt_05-18/</loc>
+    <loc>https://bdiezlab.netlify.app/people/cridley/</loc>
+    <lastmod>2021-05-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bdiezlab.netlify.app/tag/climate-change/</loc>
+    <lastmod>2021-05-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bdiezlab.netlify.app/project/ii190086/</loc>
+    <lastmod>2021-05-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bdiezlab.netlify.app/project/covid0184/</loc>
     <lastmod>2021-05-17T00:00:00+00:00</lastmod>
   </url>
   
@@ -158,22 +133,17 @@
   </url>
   
   <url>
-    <loc>https://bdiezlab.com/people/djara/</loc>
+    <loc>https://bdiezlab.netlify.app/tag/current-project/</loc>
     <lastmod>2021-05-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc></loc>
+    <loc>https://bdiezlab.netlify.app/tag/diazospring/</loc>
     <lastmod>2021-05-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bdiezlab.com/project/rt_04-19/</loc>
-    <lastmod>2021-05-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bdiezlab.com/tag/extreme-systems/</loc>
+    <loc>https://bdiezlab.netlify.app/project/diazospring-project/</loc>
     <lastmod>2021-05-17T00:00:00+00:00</lastmod>
   </url>
   
@@ -188,27 +158,22 @@
   </url>
   
   <url>
-    <loc>https://bdiezlab.com/people/floyola/</loc>
+    <loc>https://bdiezlab.netlify.app/people/djara/</loc>
     <lastmod>2021-05-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bdiezlab.com/tag/former-lab-members/</loc>
+    <loc></loc>
     <lastmod>2021-05-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bdiezlab.com/tag/geyser-del-tatio/</loc>
+    <loc>https://bdiezlab.netlify.app/project/rt_04-19/</loc>
     <lastmod>2021-05-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bdiezlab.com/tag/geysers/</loc>
-    <lastmod>2021-05-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bdiezlab.com/tag/grad-students/</loc>
+    <loc>https://bdiezlab.netlify.app/tag/extreme-systems/</loc>
     <lastmod>2021-05-17T00:00:00+00:00</lastmod>
   </url>
   
@@ -223,62 +188,27 @@
   </url>
   
   <url>
-    <loc>https://bdiezlab.com/people/jalcorta/</loc>
+    <loc>https://bdiezlab.netlify.app/people/floyola/</loc>
     <lastmod>2021-05-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc></loc>
+    <loc>https://bdiezlab.netlify.app/tag/former-lab-members/</loc>
     <lastmod>2021-05-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bdiezlab.com/people/jtamayo/</loc>
+    <loc>https://bdiezlab.netlify.app/tag/geyser-del-tatio/</loc>
     <lastmod>2021-05-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc></loc>
+    <loc>https://bdiezlab.netlify.app/tag/geysers/</loc>
     <lastmod>2021-05-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc></loc>
-    <lastmod>2021-05-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bdiezlab.com/people/jcifuentes/</loc>
-    <lastmod>2021-05-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2021-05-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bdiezlab.com/people/jsaldias/</loc>
-    <lastmod>2021-05-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2021-05-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bdiezlab.com/people/jarroyo/</loc>
-    <lastmod>2021-05-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2021-05-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bdiezlab.com/people/kjordaan/</loc>
+    <loc>https://bdiezlab.netlify.app/tag/grad-students/</loc>
     <lastmod>2021-05-17T00:00:00+00:00</lastmod>
   </url>
   
@@ -293,7 +223,62 @@
   </url>
   
   <url>
-    <loc>https://bdiezlab.com/project/act192057/</loc>
+    <loc>https://bdiezlab.netlify.app/people/jalcorta/</loc>
+    <lastmod>2021-05-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2021-05-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bdiezlab.netlify.app/people/jtamayo/</loc>
+    <lastmod>2021-05-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2021-05-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2021-05-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bdiezlab.netlify.app/people/jcifuentes/</loc>
+    <lastmod>2021-05-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2021-05-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bdiezlab.netlify.app/people/jsaldias/</loc>
+    <lastmod>2021-05-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2021-05-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bdiezlab.netlify.app/people/jarroyo/</loc>
+    <lastmod>2021-05-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2021-05-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bdiezlab.netlify.app/people/kjordaan/</loc>
     <lastmod>2021-05-17T00:00:00+00:00</lastmod>
   </url>
   
@@ -313,7 +298,12 @@
   </url>
   
   <url>
-    <loc>https://bdiezlab.com/people/mbuscaglia/</loc>
+    <loc></loc>
+    <lastmod>2021-05-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bdiezlab.netlify.app/people/mbuscaglia/</loc>
     <lastmod>2021-05-17T00:00:00+00:00</lastmod>
   </url>
   
@@ -328,27 +318,22 @@
   </url>
   
   <url>
-    <loc>https://bdiezlab.com/people/ealcaman/</loc>
+    <loc>https://bdiezlab.netlify.app/people/ealcaman/</loc>
     <lastmod>2021-05-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bdiezlab.com/project/1181656/</loc>
+    <loc>https://bdiezlab.netlify.app/project/1181656/</loc>
     <lastmod>2021-05-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bdiezlab.com/tag/microbiology/</loc>
+    <loc>https://bdiezlab.netlify.app/tag/microbiology/</loc>
     <lastmod>2021-05-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bdiezlab.com/project/1210912/</loc>
-    <lastmod>2021-05-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
+    <loc>https://bdiezlab.netlify.app/project/1210912/</loc>
     <lastmod>2021-05-17T00:00:00+00:00</lastmod>
   </url>
   
@@ -363,7 +348,12 @@
   </url>
   
   <url>
-    <loc>https://bdiezlab.com/people/nzamora/</loc>
+    <loc></loc>
+    <lastmod>2021-05-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bdiezlab.netlify.app/people/nzamora/</loc>
     <lastmod>2021-05-17T00:00:00+00:00</lastmod>
   </url>
   
@@ -378,37 +368,12 @@
   </url>
   
   <url>
-    <loc>https://bdiezlab.com/people/osalgado/</loc>
+    <loc>https://bdiezlab.netlify.app/people/osalgado/</loc>
     <lastmod>2021-05-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bdiezlab.com/tag/other/</loc>
-    <lastmod>2021-05-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2021-05-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bdiezlab.com/people/pvergara/</loc>
-    <lastmod>2021-05-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bdiezlab.com/project/1181745/</loc>
-    <lastmod>2021-05-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bdiezlab.com/tag/postdoctoral-fellow/</loc>
-    <lastmod>2021-05-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bdiezlab.com/project/</loc>
+    <loc>https://bdiezlab.netlify.app/tag/other/</loc>
     <lastmod>2021-05-17T00:00:00+00:00</lastmod>
   </url>
   
@@ -418,7 +383,22 @@
   </url>
   
   <url>
-    <loc>https://bdiezlab.com/tag/researchers-network/</loc>
+    <loc>https://bdiezlab.netlify.app/people/pvergara/</loc>
+    <lastmod>2021-05-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bdiezlab.netlify.app/project/1181745/</loc>
+    <lastmod>2021-05-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bdiezlab.netlify.app/tag/postdoctoral-fellow/</loc>
+    <lastmod>2021-05-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bdiezlab.netlify.app/project/</loc>
     <lastmod>2021-05-17T00:00:00+00:00</lastmod>
   </url>
   
@@ -428,7 +408,7 @@
   </url>
   
   <url>
-    <loc>https://bdiezlab.com/people/sfuentes/</loc>
+    <loc>https://bdiezlab.netlify.app/tag/researchers-network/</loc>
     <lastmod>2021-05-17T00:00:00+00:00</lastmod>
   </url>
   
@@ -438,22 +418,7 @@
   </url>
   
   <url>
-    <loc>https://bdiezlab.com/people/sguajardo/</loc>
-    <lastmod>2021-05-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bdiezlab.com/project/p3190464/</loc>
-    <lastmod>2021-05-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bdiezlab.com/tag/staff/</loc>
-    <lastmod>2021-05-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bdiezlab.com/project/1190998/</loc>
+    <loc>https://bdiezlab.netlify.app/people/sfuentes/</loc>
     <lastmod>2021-05-17T00:00:00+00:00</lastmod>
   </url>
   
@@ -463,17 +428,22 @@
   </url>
   
   <url>
-    <loc>https://bdiezlab.com/people/tsauma/</loc>
+    <loc>https://bdiezlab.netlify.app/people/sguajardo/</loc>
     <lastmod>2021-05-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bdiezlab.com/tag/undergraduate/</loc>
+    <loc>https://bdiezlab.netlify.app/project/p3190464/</loc>
     <lastmod>2021-05-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bdiezlab.com/tag/virology/</loc>
+    <loc>https://bdiezlab.netlify.app/tag/staff/</loc>
+    <lastmod>2021-05-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bdiezlab.netlify.app/project/1190998/</loc>
     <lastmod>2021-05-17T00:00:00+00:00</lastmod>
   </url>
   
@@ -483,7 +453,27 @@
   </url>
   
   <url>
-    <loc>https://bdiezlab.com/people/wcastillo/</loc>
+    <loc>https://bdiezlab.netlify.app/people/tsauma/</loc>
+    <lastmod>2021-05-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bdiezlab.netlify.app/tag/undergraduate/</loc>
+    <lastmod>2021-05-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bdiezlab.netlify.app/tag/virology/</loc>
+    <lastmod>2021-05-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2021-05-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bdiezlab.netlify.app/people/wcastillo/</loc>
     <lastmod>2021-05-17T00:00:00+00:00</lastmod>
   </url>
   
@@ -493,12 +483,12 @@
   </url>
   
   <url>
-    <loc>https://bdiezlab.com/people/dsegura/</loc>
+    <loc>https://bdiezlab.netlify.app/people/dsegura/</loc>
     <lastmod>2021-04-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bdiezlab.com/publication-type/2/</loc>
+    <loc>https://bdiezlab.netlify.app/publication-type/2/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -508,7 +498,7 @@
   </url>
   
   <url>
-    <loc>https://bdiezlab.com/publication/alcaman_arias_et_al_2021/</loc>
+    <loc>https://bdiezlab.netlify.app/publication/alcaman_arias_et_al_2021/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -523,17 +513,22 @@
   </url>
   
   <url>
-    <loc>https://bdiezlab.com/publication_types/</loc>
+    <loc></loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bdiezlab.com/publication/</loc>
+    <loc>https://bdiezlab.netlify.app/publication_types/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bdiezlab.com/publication/alcorta_et_al_2020/</loc>
+    <loc>https://bdiezlab.netlify.app/publication/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bdiezlab.netlify.app/publication/alcorta_et_al_2020/</loc>
     <lastmod>2020-11-05T00:00:00+00:00</lastmod>
   </url>
   
@@ -548,7 +543,7 @@
   </url>
   
   <url>
-    <loc>https://bdiezlab.com/publication/guajardo-leiva_et_al_2020/</loc>
+    <loc>https://bdiezlab.netlify.app/publication/guajardo-leiva_et_al_2020/</loc>
     <lastmod>2020-09-21T00:00:00+00:00</lastmod>
   </url>
   
@@ -583,47 +578,47 @@
   </url>
   
   <url>
-    <loc>https://bdiezlab.com/publication/ampuero_et_al_2020/</loc>
+    <loc>https://bdiezlab.netlify.app/publication/ampuero_et_al_2020/</loc>
     <lastmod>2020-07-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bdiezlab.com/post/ciencia_en_chile_el_tatio_05_18_2020/</loc>
+    <loc>https://bdiezlab.netlify.app/post/ciencia_en_chile_el_tatio_05_18_2020/</loc>
     <lastmod>2020-05-18T12:20:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bdiezlab.com/categories/</loc>
+    <loc>https://bdiezlab.netlify.app/categories/</loc>
     <lastmod>2020-05-18T12:20:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bdiezlab.com/tag/ciencia-en-chile/</loc>
+    <loc>https://bdiezlab.netlify.app/tag/ciencia-en-chile/</loc>
     <lastmod>2020-05-18T12:20:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bdiezlab.com/tag/el-tatio/</loc>
+    <loc>https://bdiezlab.netlify.app/tag/el-tatio/</loc>
     <lastmod>2020-05-18T12:20:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bdiezlab.com/category/interview/</loc>
+    <loc>https://bdiezlab.netlify.app/category/interview/</loc>
     <lastmod>2020-05-18T12:20:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bdiezlab.com/post/</loc>
+    <loc>https://bdiezlab.netlify.app/post/</loc>
     <lastmod>2020-05-18T12:20:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bdiezlab.com/category/sciences/</loc>
+    <loc>https://bdiezlab.netlify.app/category/sciences/</loc>
     <lastmod>2020-05-18T12:20:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bdiezlab.com/tag/women-in-sciences/</loc>
+    <loc>https://bdiezlab.netlify.app/tag/women-in-sciences/</loc>
     <lastmod>2020-05-18T12:20:00+00:00</lastmod>
   </url>
   
@@ -638,7 +633,7 @@
   </url>
   
   <url>
-    <loc>https://bdiezlab.com/publication/galarce_et_al_2020/</loc>
+    <loc>https://bdiezlab.netlify.app/publication/galarce_et_al_2020/</loc>
     <lastmod>2020-04-05T00:00:00+00:00</lastmod>
   </url>
   
@@ -668,12 +663,12 @@
   </url>
   
   <url>
-    <loc>https://bdiezlab.com/publication/ramirez_et_al_2020/</loc>
+    <loc>https://bdiezlab.netlify.app/publication/ramirez_et_al_2020/</loc>
     <lastmod>2020-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bdiezlab.com/publication/fernandez-cadena_et_al_2020/</loc>
+    <loc>https://bdiezlab.netlify.app/publication/fernandez-cadena_et_al_2020/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -713,7 +708,7 @@
   </url>
   
   <url>
-    <loc>https://bdiezlab.com/publication/alcorta_et_al_2019/</loc>
+    <loc>https://bdiezlab.netlify.app/publication/alcorta_et_al_2019/</loc>
     <lastmod>2019-09-11T00:00:00+00:00</lastmod>
   </url>
   
@@ -753,7 +748,7 @@
   </url>
   
   <url>
-    <loc>https://bdiezlab.com/publication/uribe-lorio_et_al_2019/</loc>
+    <loc>https://bdiezlab.netlify.app/publication/uribe-lorio_et_al_2019/</loc>
     <lastmod>2019-07-04T00:00:00+00:00</lastmod>
   </url>
   
@@ -763,7 +758,7 @@
   </url>
   
   <url>
-    <loc>https://bdiezlab.com/publication/alarcon-schumacher_et_al_2019/</loc>
+    <loc>https://bdiezlab.netlify.app/publication/alarcon-schumacher_et_al_2019/</loc>
     <lastmod>2019-05-14T00:00:00+00:00</lastmod>
   </url>
   
@@ -778,7 +773,7 @@
   </url>
   
   <url>
-    <loc>https://bdiezlab.com/publication/urrejola_et_al_2019/</loc>
+    <loc>https://bdiezlab.netlify.app/publication/urrejola_et_al_2019/</loc>
     <lastmod>2019-05-07T00:00:00+00:00</lastmod>
   </url>
   
@@ -798,27 +793,27 @@
   </url>
   
   <url>
-    <loc>https://bdiezlab.com/post/revista_paula_bd_interview_04_25_2019/</loc>
+    <loc>https://bdiezlab.netlify.app/post/revista_paula_bd_interview_04_25_2019/</loc>
     <lastmod>2019-04-25T12:20:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bdiezlab.com/slides/</loc>
+    <loc>https://bdiezlab.netlify.app/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bdiezlab.com/slides/example/</loc>
+    <loc>https://bdiezlab.netlify.app/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bdiezlab.com/publication-type/6/</loc>
+    <loc>https://bdiezlab.netlify.app/publication-type/6/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bdiezlab.com/publication/alcorta_bookchapter_2019/</loc>
+    <loc>https://bdiezlab.netlify.app/publication/alcorta_bookchapter_2019/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -838,7 +833,7 @@
   </url>
   
   <url>
-    <loc>https://bdiezlab.com/publication/alcorta_et_al_2018/</loc>
+    <loc>https://bdiezlab.netlify.app/publication/alcorta_et_al_2018/</loc>
     <lastmod>2018-11-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -858,7 +853,7 @@
   </url>
   
   <url>
-    <loc>https://bdiezlab.com/publication/fuentes_et_al_2018/</loc>
+    <loc>https://bdiezlab.netlify.app/publication/fuentes_et_al_2018/</loc>
     <lastmod>2018-10-11T00:00:00+00:00</lastmod>
   </url>
   
@@ -878,7 +873,7 @@
   </url>
   
   <url>
-    <loc>https://bdiezlab.com/publication/alcaman_arias_et_al_2018b/</loc>
+    <loc>https://bdiezlab.netlify.app/publication/alcaman_arias_et_al_2018b/</loc>
     <lastmod>2018-10-02T00:00:00+00:00</lastmod>
   </url>
   
@@ -888,7 +883,7 @@
   </url>
   
   <url>
-    <loc>https://bdiezlab.com/publication/fernandez-gomez_et_al_2018/</loc>
+    <loc>https://bdiezlab.netlify.app/publication/fernandez-gomez_et_al_2018/</loc>
     <lastmod>2018-09-18T00:00:00+00:00</lastmod>
   </url>
   
@@ -933,7 +928,7 @@
   </url>
   
   <url>
-    <loc>https://bdiezlab.com/publication/guajardo-leiva_et_al_2018/</loc>
+    <loc>https://bdiezlab.netlify.app/publication/guajardo-leiva_et_al_2018/</loc>
     <lastmod>2018-09-03T00:00:00+00:00</lastmod>
   </url>
   
@@ -943,7 +938,7 @@
   </url>
   
   <url>
-    <loc>https://bdiezlab.com/publication/alcaman_arias_et_al_2018/</loc>
+    <loc>https://bdiezlab.netlify.app/publication/alcaman_arias_et_al_2018/</loc>
     <lastmod>2018-04-04T00:00:00+00:00</lastmod>
   </url>
   
@@ -963,7 +958,7 @@
   </url>
   
   <url>
-    <loc>https://bdiezlab.com/publication/hamisi_et_al_2017/</loc>
+    <loc>https://bdiezlab.netlify.app/publication/hamisi_et_al_2017/</loc>
     <lastmod>2017-08-24T00:00:00+00:00</lastmod>
   </url>
   
@@ -973,12 +968,12 @@
   </url>
   
   <url>
-    <loc>https://bdiezlab.com/publication/alcaman_arias_et_al_2017/</loc>
+    <loc>https://bdiezlab.netlify.app/publication/alcaman_arias_et_al_2017/</loc>
     <lastmod>2017-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bdiezlab.com/publication/verdugo_et_al_2016/</loc>
+    <loc>https://bdiezlab.netlify.app/publication/verdugo_et_al_2016/</loc>
     <lastmod>2016-11-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -1023,7 +1018,7 @@
   </url>
   
   <url>
-    <loc>https://bdiezlab.com/publication/diez_et_al_2016/</loc>
+    <loc>https://bdiezlab.netlify.app/publication/diez_et_al_2016/</loc>
     <lastmod>2016-05-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -1053,12 +1048,12 @@
   </url>
   
   <url>
-    <loc>https://bdiezlab.com/publication/moreno_pino_et_al_2016/</loc>
+    <loc>https://bdiezlab.netlify.app/publication/moreno_pino_et_al_2016/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bdiezlab.com/publication/molina_montenegro_et_al_2016/</loc>
+    <loc>https://bdiezlab.netlify.app/publication/molina_montenegro_et_al_2016/</loc>
     <lastmod>2016-03-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -1108,7 +1103,7 @@
   </url>
   
   <url>
-    <loc>https://bdiezlab.com/publication/mandakovic_et_al_2016/</loc>
+    <loc>https://bdiezlab.netlify.app/publication/mandakovic_et_al_2016/</loc>
     <lastmod>2016-02-10T00:00:00+00:00</lastmod>
   </url>
   
@@ -1133,7 +1128,7 @@
   </url>
   
   <url>
-    <loc>https://bdiezlab.com/publication/rodriguez-marconi_et_al_2015/</loc>
+    <loc>https://bdiezlab.netlify.app/publication/rodriguez-marconi_et_al_2015/</loc>
     <lastmod>2015-09-30T00:00:00+00:00</lastmod>
   </url>
   
@@ -1153,12 +1148,12 @@
   </url>
   
   <url>
-    <loc>https://bdiezlab.com/publication/alcaman_arias_et_al_2015/</loc>
+    <loc>https://bdiezlab.netlify.app/publication/alcaman_arias_et_al_2015/</loc>
     <lastmod>2015-07-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bdiezlab.com/publication/deluca_et_al-_2013/</loc>
+    <loc>https://bdiezlab.netlify.app/publication/deluca_et_al-_2013/</loc>
     <lastmod>2013-11-06T00:00:00+00:00</lastmod>
   </url>
   
@@ -1183,17 +1178,17 @@
   </url>
   
   <url>
-    <loc>https://bdiezlab.com/publication/diez_et_al_2013/</loc>
+    <loc>https://bdiezlab.netlify.app/publication/diez_et_al_2013/</loc>
     <lastmod>2013-08-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bdiezlab.com/publication/hamisi_et_al_2013/</loc>
+    <loc>https://bdiezlab.netlify.app/publication/hamisi_et_al_2013/</loc>
     <lastmod>2013-01-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bdiezlab.com/publication/mackenzie_et_al_2013/</loc>
+    <loc>https://bdiezlab.netlify.app/publication/mackenzie_et_al_2013/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -1233,7 +1228,7 @@
   </url>
   
   <url>
-    <loc>https://bdiezlab.com/publication/ghai_et_al_2012/</loc>
+    <loc>https://bdiezlab.netlify.app/publication/ghai_et_al_2012/</loc>
     <lastmod>2012-07-03T00:00:00+00:00</lastmod>
   </url>
   
@@ -1248,7 +1243,7 @@
   </url>
   
   <url>
-    <loc>https://bdiezlab.com/publication/diez_et_al_2012/</loc>
+    <loc>https://bdiezlab.netlify.app/publication/diez_et_al_2012/</loc>
     <lastmod>2012-04-12T00:00:00+00:00</lastmod>
   </url>
   
@@ -1263,7 +1258,7 @@
   </url>
   
   <url>
-    <loc>https://bdiezlab.com/publication/ribes_et_al_2012/</loc>
+    <loc>https://bdiezlab.netlify.app/publication/ribes_et_al_2012/</loc>
     <lastmod>2012-02-15T00:00:00+00:00</lastmod>
   </url>
   
@@ -1308,7 +1303,7 @@
   </url>
   
   <url>
-    <loc>https://bdiezlab.com/publication/dominguez-escobar_et_al_2011/</loc>
+    <loc>https://bdiezlab.netlify.app/publication/dominguez-escobar_et_al_2011/</loc>
     <lastmod>2011-03-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -1323,7 +1318,7 @@
   </url>
   
   <url>
-    <loc>https://bdiezlab.com/publication/tavera_diez_2009/</loc>
+    <loc>https://bdiezlab.netlify.app/publication/tavera_diez_2009/</loc>
     <lastmod>2009-10-30T00:00:00+00:00</lastmod>
   </url>
   
@@ -1343,12 +1338,12 @@
   </url>
   
   <url>
-    <loc>https://bdiezlab.com/publication/sandh_et_al_2009/</loc>
+    <loc>https://bdiezlab.netlify.app/publication/sandh_et_al_2009/</loc>
     <lastmod>2009-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bdiezlab.com/publication/martensson_et_al_2009/</loc>
+    <loc>https://bdiezlab.netlify.app/publication/martensson_et_al_2009/</loc>
     <lastmod>2009-04-29T00:00:00+00:00</lastmod>
   </url>
   
@@ -1373,7 +1368,7 @@
   </url>
   
   <url>
-    <loc>https://bdiezlab.com/publication/amer_et_al_2009/</loc>
+    <loc>https://bdiezlab.netlify.app/publication/amer_et_al_2009/</loc>
     <lastmod>2009-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -1383,7 +1378,7 @@
   </url>
   
   <url>
-    <loc>https://bdiezlab.com/publication/diez_et_al_2008/</loc>
+    <loc>https://bdiezlab.netlify.app/publication/diez_et_al_2008/</loc>
     <lastmod>2008-03-06T00:00:00+00:00</lastmod>
   </url>
   
@@ -1403,12 +1398,12 @@
   </url>
   
   <url>
-    <loc>https://bdiezlab.com/publication/bauer_et_al_2008/</loc>
+    <loc>https://bdiezlab.netlify.app/publication/bauer_et_al_2008/</loc>
     <lastmod>2008-01-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bdiezlab.com/publication/uku_et_al_2007/</loc>
+    <loc>https://bdiezlab.netlify.app/publication/uku_et_al_2007/</loc>
     <lastmod>2007-06-30T00:00:00+00:00</lastmod>
   </url>
   
@@ -1423,7 +1418,7 @@
   </url>
   
   <url>
-    <loc>https://bdiezlab.com/publication/diez_et_al_2007/</loc>
+    <loc>https://bdiezlab.netlify.app/publication/diez_et_al_2007/</loc>
     <lastmod>2007-05-28T00:00:00+00:00</lastmod>
   </url>
   
@@ -1458,17 +1453,17 @@
   </url>
   
   <url>
-    <loc>https://bdiezlab.com/publication/maestre_et_al_2006/</loc>
+    <loc>https://bdiezlab.netlify.app/publication/maestre_et_al_2006/</loc>
     <lastmod>2006-05-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bdiezlab.com/publication/gasol_et_al_2004/</loc>
+    <loc>https://bdiezlab.netlify.app/publication/gasol_et_al_2004/</loc>
     <lastmod>2004-07-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bdiezlab.com/publication/diez_et_al_2004/</loc>
+    <loc>https://bdiezlab.netlify.app/publication/diez_et_al_2004/</loc>
     <lastmod>2004-07-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -1523,12 +1518,12 @@
   </url>
   
   <url>
-    <loc>https://bdiezlab.com/publication/massana_et_al_2002/</loc>
+    <loc>https://bdiezlab.netlify.app/publication/massana_et_al_2002/</loc>
     <lastmod>2002-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bdiezlab.com/publication/casamayor_et_al_2002/</loc>
+    <loc>https://bdiezlab.netlify.app/publication/casamayor_et_al_2002/</loc>
     <lastmod>2002-06-18T00:00:00+00:00</lastmod>
   </url>
   
@@ -1543,12 +1538,12 @@
   </url>
   
   <url>
-    <loc>https://bdiezlab.com/publication/diez_et_al_2001b/</loc>
+    <loc>https://bdiezlab.netlify.app/publication/diez_et_al_2001b/</loc>
     <lastmod>2001-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bdiezlab.com/publication/diez_et_al_2001/</loc>
+    <loc>https://bdiezlab.netlify.app/publication/diez_et_al_2001/</loc>
     <lastmod>2001-07-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -1563,7 +1558,7 @@
   </url>
   
   <url>
-    <loc>https://bdiezlab.com/publication/diez_et_al_2000/</loc>
+    <loc>https://bdiezlab.netlify.app/publication/diez_et_al_2000/</loc>
     <lastmod>2000-09-01T00:00:00+00:00</lastmod>
   </url>
   

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Grad Students | Beatriz Díez Lab</title>
-    <link>https://bdiezlab.com/tag/grad-students/</link>
-      <atom:link href="https://bdiezlab.com/tag/grad-students/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://bdiezlab.netlify.app/tag/grad-students/</link>
+      <atom:link href="https://bdiezlab.netlify.app/tag/grad-students/index.xml" rel="self" type="application/rss+xml" />
     <description>Grad Students</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Beatriz Díez Lab</copyright><lastBuildDate>Mon, 17 May 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://bdiezlab.com/media/icon.png</url>
+      <url>https://bdiezlab.netlify.app/media/icon.png</url>
       <title>Grad Students</title>
-      <link>https://bdiezlab.com/tag/grad-students/</link>
+      <link>https://bdiezlab.netlify.app/tag/grad-students/</link>
     </image>
     
     <item>
       <title>Carla Barbosa</title>
-      <link>https://bdiezlab.com/people/cbarbosa/</link>
+      <link>https://bdiezlab.netlify.app/people/cbarbosa/</link>
       <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://bdiezlab.com/people/cbarbosa/</guid>
+      <guid>https://bdiezlab.netlify.app/people/cbarbosa/</guid>
       <description>&lt;p style=&#34;color:grey; font-size:20px; text-align:center;&#34;&gt; MSc. Students &lt;/p&gt;
 &lt;div style=&#34;text-align:justify;&#34;&gt;
 &lt;p&gt;&lt;strong&gt;About&lt;/strong&gt;&lt;/p&gt;
@@ -61,9 +61,9 @@
     
     <item>
       <title>Felipe Loyola</title>
-      <link>https://bdiezlab.com/people/floyola/</link>
+      <link>https://bdiezlab.netlify.app/people/floyola/</link>
       <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://bdiezlab.com/people/floyola/</guid>
+      <guid>https://bdiezlab.netlify.app/people/floyola/</guid>
       <description>&lt;p style=&#34;color:grey; font-size:20px; text-align:center;&#34;&gt; MSc. Student &lt;/p&gt;
 &lt;div style=&#34;text-align:justify;&#34;&gt;
 &lt;h3&gt; About &lt;/h3&gt;
@@ -113,9 +113,9 @@ El objetivo de este proyecto es dilucidar las comunidades de fagos presentes en 
     
     <item>
       <title>Jaime Alcorta</title>
-      <link>https://bdiezlab.com/people/jalcorta/</link>
+      <link>https://bdiezlab.netlify.app/people/jalcorta/</link>
       <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://bdiezlab.com/people/jalcorta/</guid>
+      <guid>https://bdiezlab.netlify.app/people/jalcorta/</guid>
       <description>&lt;p style=&#34;color:grey; font-size:20px; text-align:center;&#34;&gt; PhD. Student &lt;/p&gt;
 &lt;div style=&#34;text-align:justify;&#34;&gt;
 &lt;h3&gt; About &lt;/h3&gt;
@@ -171,9 +171,9 @@ Estos genomas nos ayudarán a comprender el funcionamiento y la composición de 
     
     <item>
       <title>Javier Tamayo-Leiva</title>
-      <link>https://bdiezlab.com/people/jtamayo/</link>
+      <link>https://bdiezlab.netlify.app/people/jtamayo/</link>
       <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://bdiezlab.com/people/jtamayo/</guid>
+      <guid>https://bdiezlab.netlify.app/people/jtamayo/</guid>
       <description>&lt;p style=&#34;color:grey; font-size:20px; text-align:center;&#34;&gt; PhD. Student &lt;/p&gt;
 &lt;div style=&#34;text-align:justify;&#34;&gt;
 &lt;h3&gt; About &lt;/h3&gt;
@@ -206,7 +206,7 @@ Estos genomas nos ayudarán a comprender el funcionamiento y la composición de 
 &lt;div class=&#34;column-right&#34;&gt;
 &lt;h3&gt; Education &lt;/h3&gt;
 
-  &lt;i class=&#34;fas fa-graduation-cap  pr-1 fa-fw&#34;&gt;&lt;/i&gt; MSc. en Biotcnología, 2016
+  &lt;i class=&#34;fas fa-graduation-cap  pr-1 fa-fw&#34;&gt;&lt;/i&gt; MSc. en Biotecnología, 2016
 &lt;p style=&#34;color:grey; font-size:15px; padding-left:32px;&#34;&gt; Universidad Andrés Bello, Chile  &lt;/p&gt;
 
   &lt;i class=&#34;fas fa-graduation-cap  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Ingeniería en Biotecnología, 2014
@@ -228,10 +228,64 @@ Estos genomas nos ayudarán a comprender el funcionamiento y la composición de 
     </item>
     
     <item>
-      <title>Marianne Buscaglia</title>
-      <link>https://bdiezlab.com/people/mbuscaglia/</link>
+      <title>Jerónimo Cifuentes-Anticevic</title>
+      <link>https://bdiezlab.netlify.app/people/jcifuentes/</link>
       <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://bdiezlab.com/people/mbuscaglia/</guid>
+      <guid>https://bdiezlab.netlify.app/people/jcifuentes/</guid>
+      <description>&lt;p style=&#34;color:grey; font-size:20px; text-align:center;&#34;&gt; Scientific Collaborator &lt;/p&gt;
+&lt;div style=&#34;text-align:justify;&#34;&gt;
+&lt;h3&gt; About &lt;/h3&gt;
+&lt;p&gt;I&amp;rsquo;m a Biochemist working in Marine Microbiology.  &lt;br&gt;
+I describe myself as a self-taught Bioinformatician with experience in Molecular Biology, that also enjoys going out sampling. My main scientific interest is to combine bioinformatic sequence analysis to determine novel microbial capabilities, with a wet lab approach to test these hypotheses. During my MSc thesis, I worked on the description of proteorhodopsins-bearing bacteria in Antarctic coastal waters, and now I&amp;rsquo;m interested in the diversity and distribution of type-1 rhodopsins in polar marine environments. I&amp;rsquo;m also working on the discovery of novel enzymes that degrade PET, a widely used plastic that accumulates as waste at similar rates to its production. The nitrogen cycle in Antarctic coastal waters is still an understudied area, and together with María E. Alcamán-Arias, we are evaluating the nitrification and nitrogen fixation processes, combining molecular biology, meta-omics and stable isotope techniques. &lt;br&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;style&gt;
+.column-left{
+  float: left;
+  width: 50%;
+  text-align: left;
+}
+.column-right{
+  float: right;
+  width: 50%;
+  text-align: left;
+}
+&lt;/style&gt;
+&lt;div class=&#34;column-left&#34;&gt;
+&lt;h3&gt; Interests &lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Photoheterotrophy&lt;/li&gt;
+&lt;li&gt;Nitrogen cycle&lt;/li&gt;
+&lt;li&gt;Protein annotation&lt;/li&gt;
+&lt;li&gt;Phylogenetics&lt;/li&gt;
+&lt;li&gt;Chemosynthetic symbioses
+&lt;br&gt;&lt;br&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&#34;column-right&#34;&gt;
+&lt;h3&gt; Education &lt;/h3&gt;
+
+  &lt;i class=&#34;fas fa-graduation-cap  pr-1 fa-fw&#34;&gt;&lt;/i&gt; MSc. Biochemistry, 2019
+&lt;p style=&#34;color:grey; font-size:15px; padding-left:32px;&#34;&gt; Universidad de Chile, Chile &lt;/p&gt;
+
+  &lt;i class=&#34;fas fa-graduation-cap  pr-1 fa-fw&#34;&gt;&lt;/i&gt; BSc. Biochemistry, 2016
+&lt;p style=&#34;color:grey; font-size:15px; padding-left:32px;&#34;&gt; Universidad de Chile, Chile &lt;/p&gt;
+&lt;br&gt;&lt;br&gt;
+&lt;/div&gt;
+&lt;h3&gt; Contact &lt;/h3&gt;
+&lt;p&gt;
+  &lt;i class=&#34;fas fa-envelope  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;a href=&#34;mailto:jeronimo.cifuentes@ug.uchile.cl&#34;&gt;jeronimo.cifuentes@ug.uchile.cl&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;mailto:jeronimo.cifuentes@ug.uchile.cl&#34;&gt;&lt;i class=&#34;fas fa-envelope&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+&lt;a href=&#34;https://orcid.org/0000-0002-8099-4994&#34;&gt;&lt;i class=&#34;fab fa-orcid&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+&lt;a href=&#34;https://scholar.google.com/citations?user=Rr1RVHEAAAAJ&amp;hl=en&#34;&gt;&lt;i class=&#34;ai ai-google-scholar-square ai&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+&lt;a href=&#34;https://twitter.com/cifuentesjero&#34;&gt;&lt;i class=&#34;fab fa-twitter&#34;&gt;&lt;/i&gt;&lt;/a&gt; &lt;br&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Marianne Buscaglia</title>
+      <link>https://bdiezlab.netlify.app/people/mbuscaglia/</link>
+      <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://bdiezlab.netlify.app/people/mbuscaglia/</guid>
       <description>&lt;p style=&#34;color:grey; font-size:20px; text-align:center;&#34;&gt; PhD. Student &lt;/p&gt;
 &lt;div style=&#34;text-align:justify;&#34;&gt;
 &lt;p&gt;&lt;strong&gt;About&lt;/strong&gt;&lt;/p&gt;
@@ -276,9 +330,9 @@ Estos genomas nos ayudarán a comprender el funcionamiento y la composición de 
     
     <item>
       <title>Natali Zamora Bugueño</title>
-      <link>https://bdiezlab.com/people/nzamora/</link>
+      <link>https://bdiezlab.netlify.app/people/nzamora/</link>
       <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://bdiezlab.com/people/nzamora/</guid>
+      <guid>https://bdiezlab.netlify.app/people/nzamora/</guid>
       <description>&lt;p style=&#34;color:grey; font-size:20px; text-align:center;&#34;&gt; PhD. Student &lt;/p&gt;
 &lt;div style=&#34;text-align:justify;&#34;&gt;
 &lt;h3&gt; About &lt;/h3&gt;
@@ -330,9 +384,9 @@ Finalmente, con el fin de determinar los efectos de la temperatura y la desecaci
     
     <item>
       <title>Oscar Salgado</title>
-      <link>https://bdiezlab.com/people/osalgado/</link>
+      <link>https://bdiezlab.netlify.app/people/osalgado/</link>
       <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://bdiezlab.com/people/osalgado/</guid>
+      <guid>https://bdiezlab.netlify.app/people/osalgado/</guid>
       <description>&lt;p style=&#34;color:grey; font-size:20px; text-align:center;&#34;&gt; PhD. Student &lt;/p&gt;
 &lt;div style=&#34;text-align:justify;&#34;&gt;
 &lt;p&gt;&lt;strong&gt;About&lt;/strong&gt;&lt;/p&gt;
@@ -377,9 +431,9 @@ Finalmente, con el fin de determinar los efectos de la temperatura y la desecaci
     
     <item>
       <title>Pablo Vergara</title>
-      <link>https://bdiezlab.com/people/pvergara/</link>
+      <link>https://bdiezlab.netlify.app/people/pvergara/</link>
       <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://bdiezlab.com/people/pvergara/</guid>
+      <guid>https://bdiezlab.netlify.app/people/pvergara/</guid>
       <description>&lt;p style=&#34;color:grey; font-size:20px; text-align:center;&#34;&gt; PhD. Student &lt;/p&gt;
 &lt;div style=&#34;text-align:justify;&#34;&gt;
 &lt;h3&gt; About &lt;/h3&gt;
@@ -422,6 +476,58 @@ En lo personal, me aburre abordar los problemas científicos siempre desde la mi
 &lt;h3&gt; Contact &lt;/h3&gt;
 &lt;p&gt;
   &lt;i class=&#34;fas fa-envelope  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;a href=&#34;mailto:pablo.vb@live.cl&#34;&gt;pablo.vb@live.cl&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Diego Segura</title>
+      <link>https://bdiezlab.netlify.app/people/dsegura/</link>
+      <pubDate>Fri, 16 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://bdiezlab.netlify.app/people/dsegura/</guid>
+      <description>&lt;p style=&#34;color:grey; font-size:20px; text-align:center;&#34;&gt; Scientific Collaborator &lt;/p&gt;
+&lt;div style=&#34;text-align:justify;&#34;&gt;
+&lt;h3&gt; About &lt;/h3&gt;
+&lt;p&gt;¿Cuál es el rol ecológico que cumplen los pingüinos sobre el microbioma en los suelos de Antártica? Esta es una de las preguntas centrales de nuestro estudio, el cual está enfocado principalmente en descubrir que tipos de organismos (procariontes y/o eucariontes) y qué rol cumplen en los suelos influenciados por pingüineras en Antártica. Sabemos a día de hoy que la importancia de los pingüinos en este ecosistema es muy importante, ya que debido a la alta transferencia de nutrientes (mediante sus heces) son capaces de generar “hotspots” de biodiversidad, lo cual permite la colonización de nuevas especies (incluso vegetación) en este ambiente hostil. Nuestra investigación da luces de que efectivamente la presencia de la pingüinera es capaz de alterar la composición de los microorganismos presentes en estos suelos, generando una zona de influencia, en la cual el ingreso de nutrientes al sistema y la transferencia de microorganismos desde el pingüino juegan un papel importante en la modificación y mantención de esta microbiota presente principalmente en los lugares cercanos a la pingüinera. También, nuestros estudios están enfocados en esclarecer las dinámicas que existen sobre los ciclos biogeoquímicos que ocurren en estos ambientes y las interacciones con organismos superiores (vegetación).&lt;br&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;style&gt;
+.column-left{
+  float: left;
+  width: 50%;
+  text-align: left;
+}
+.column-right{
+  float: right;
+  width: 50%;
+  text-align: left;
+}
+&lt;/style&gt;
+&lt;div class=&#34;column-left&#34;&gt;
+&lt;h3&gt; Interests &lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Microbial Ecology&lt;/li&gt;
+&lt;li&gt;Bioinformatics&lt;/li&gt;
+&lt;li&gt;Molecular Biology&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;column-right&#34;&gt;
+&lt;h3&gt; Education &lt;/h3&gt;
+
+  &lt;i class=&#34;fas fa-graduation-cap  pr-1 fa-fw&#34;&gt;&lt;/i&gt; MSc. Bioquímica, 2020
+&lt;p style=&#34;color:grey; font-size:15px; padding-left:32px;&#34;&gt; Universidad de Chile, Chile  &lt;/p&gt;
+
+  &lt;i class=&#34;fas fa-graduation-cap  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Bioquímica, 2018
+&lt;p style=&#34;color:grey; font-size:15px; padding-left:32px;&#34;&gt; Universidad de Chile, Chile &lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;h3&gt; Contact &lt;/h3&gt;
+&lt;p&gt;
+  &lt;i class=&#34;fas fa-envelope  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;a href=&#34;mailto:diego.segura@ug.uchile.cl&#34;&gt;diego.segura@ug.uchile.cl&lt;/a&gt;&lt;br&gt;
+
+  &lt;i class=&#34;fas fa-envelope  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;a href=&#34;mailto:dsegurc@gmail.com&#34;&gt;dsegurc@gmail.com&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;mailto:diego.segura@ug.uchile.cl&#34;&gt;&lt;i class=&#34;fas fa-envelope&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+&lt;a href=&#34;mailto:dsegurc@gmail.com&#34;&gt;&lt;i class=&#34;fas fa-envelope&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+&lt;a href=&#34;https://www.linkedin.com/in/diego-segura-cáceres-578a25168&#34;&gt;&lt;i class=&#34;fab fa-linkedin&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
 </description>
     </item>
     

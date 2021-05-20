@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts | Beatriz Díez Lab</title>
-    <link>https://bdiezlab.com/post/</link>
-      <atom:link href="https://bdiezlab.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://bdiezlab.netlify.app/post/</link>
+      <atom:link href="https://bdiezlab.netlify.app/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Beatriz Díez Lab</copyright><lastBuildDate>Mon, 18 May 2020 12:20:00 +0000</lastBuildDate>
     <image>
-      <url>https://bdiezlab.com/media/icon.png</url>
+      <url>https://bdiezlab.netlify.app/media/icon.png</url>
       <title>Posts</title>
-      <link>https://bdiezlab.com/post/</link>
+      <link>https://bdiezlab.netlify.app/post/</link>
     </image>
     
     <item>
       <title>Campo de géiseres El Tatio, el laboratorio geotérmico más alto del mundo para conocer virus</title>
-      <link>https://bdiezlab.com/post/ciencia_en_chile_el_tatio_05_18_2020/</link>
+      <link>https://bdiezlab.netlify.app/post/ciencia_en_chile_el_tatio_05_18_2020/</link>
       <pubDate>Mon, 18 May 2020 12:20:00 +0000</pubDate>
-      <guid>https://bdiezlab.com/post/ciencia_en_chile_el_tatio_05_18_2020/</guid>
+      <guid>https://bdiezlab.netlify.app/post/ciencia_en_chile_el_tatio_05_18_2020/</guid>
       <description>&lt;div style=&#34;text-align:justify;&#34;&gt;
 &lt;figure&gt;
   &lt;img src=&#34;featured_1.jpg&#34; style=&#34;width:90%&#34;&gt;
@@ -49,9 +49,9 @@
     
     <item>
       <title>El paraíso de una ecóloga microbiana</title>
-      <link>https://bdiezlab.com/post/revista_paula_bd_interview_04_25_2019/</link>
+      <link>https://bdiezlab.netlify.app/post/revista_paula_bd_interview_04_25_2019/</link>
       <pubDate>Thu, 25 Apr 2019 12:20:00 +0000</pubDate>
-      <guid>https://bdiezlab.com/post/revista_paula_bd_interview_04_25_2019/</guid>
+      <guid>https://bdiezlab.netlify.app/post/revista_paula_bd_interview_04_25_2019/</guid>
       <description>&lt;div style=&#34;text-align:justify;&#34;&gt;
 &lt;p style=&#34; font-size:20px; text-align:justify; font-weight: bold; font-family: Helvetica;&#34;&gt;
 Para Beatriz Díez (47) todo se trata del mar, esa masa oscura e inconmensurable que aloja parte importante de los misterios científicos. Criada a orillas del Mediterráneo, esta investigadora española que actualmente vive en Chile, creció sintiendo que lo que faltaba por descubrir en las profundidades del océano era tan pequeño e infinito que pasaría inadvertido ante el interés humano, y que lo mismo ocurriría con el mar de células que vivía bajo sus pies. &lt;br&gt; &lt;/p&gt;

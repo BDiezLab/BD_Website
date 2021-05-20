@@ -2,421 +2,421 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | Beatriz Díez Lab</title>
-    <link>https://bdiezlab.com/publication/</link>
-      <atom:link href="https://bdiezlab.com/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://bdiezlab.netlify.app/publication/</link>
+      <atom:link href="https://bdiezlab.netlify.app/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Beatriz Díez Lab</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://bdiezlab.com/media/icon.png</url>
+      <url>https://bdiezlab.netlify.app/media/icon.png</url>
       <title>Publications</title>
-      <link>https://bdiezlab.com/publication/</link>
+      <link>https://bdiezlab.netlify.app/publication/</link>
     </image>
     
     <item>
       <title>Coastal bacterial community response to glacier melting in the western antarctic peninsula</title>
-      <link>https://bdiezlab.com/publication/alcaman_arias_et_al_2021/</link>
+      <link>https://bdiezlab.netlify.app/publication/alcaman_arias_et_al_2021/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://bdiezlab.com/publication/alcaman_arias_et_al_2021/</guid>
+      <guid>https://bdiezlab.netlify.app/publication/alcaman_arias_et_al_2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Taxonomic Novelty and Distinctive Genomic Features of Hot Spring Cyanobacteria</title>
-      <link>https://bdiezlab.com/publication/alcorta_et_al_2020/</link>
+      <link>https://bdiezlab.netlify.app/publication/alcorta_et_al_2020/</link>
       <pubDate>Thu, 05 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://bdiezlab.com/publication/alcorta_et_al_2020/</guid>
+      <guid>https://bdiezlab.netlify.app/publication/alcorta_et_al_2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Metagenomic Insights into the Sewage RNA Virosphere of a Large City</title>
-      <link>https://bdiezlab.com/publication/guajardo-leiva_et_al_2020/</link>
+      <link>https://bdiezlab.netlify.app/publication/guajardo-leiva_et_al_2020/</link>
       <pubDate>Mon, 21 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://bdiezlab.com/publication/guajardo-leiva_et_al_2020/</guid>
+      <guid>https://bdiezlab.netlify.app/publication/guajardo-leiva_et_al_2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SARS-CoV-2 Detection in Sewage in Santiago, Chile - Preliminary results</title>
-      <link>https://bdiezlab.com/publication/ampuero_et_al_2020/</link>
+      <link>https://bdiezlab.netlify.app/publication/ampuero_et_al_2020/</link>
       <pubDate>Fri, 03 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://bdiezlab.com/publication/ampuero_et_al_2020/</guid>
+      <guid>https://bdiezlab.netlify.app/publication/ampuero_et_al_2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dynamics of Biocorrosion in Copper Pipes under Actual Drinking Water Conditions</title>
-      <link>https://bdiezlab.com/publication/galarce_et_al_2020/</link>
+      <link>https://bdiezlab.netlify.app/publication/galarce_et_al_2020/</link>
       <pubDate>Sun, 05 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://bdiezlab.com/publication/galarce_et_al_2020/</guid>
+      <guid>https://bdiezlab.netlify.app/publication/galarce_et_al_2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Soil microbial community responses to labile organic carbon fractions in relation to soil type and land use along a climate gradient</title>
-      <link>https://bdiezlab.com/publication/ramirez_et_al_2020/</link>
+      <link>https://bdiezlab.netlify.app/publication/ramirez_et_al_2020/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://bdiezlab.com/publication/ramirez_et_al_2020/</guid>
+      <guid>https://bdiezlab.netlify.app/publication/ramirez_et_al_2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Detection of sentinel bacteria in mangrove sediments contaminated with heavy metals</title>
-      <link>https://bdiezlab.com/publication/fernandez-cadena_et_al_2020/</link>
+      <link>https://bdiezlab.netlify.app/publication/fernandez-cadena_et_al_2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://bdiezlab.com/publication/fernandez-cadena_et_al_2020/</guid>
+      <guid>https://bdiezlab.netlify.app/publication/fernandez-cadena_et_al_2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fischerella thermalis: a model organism to study thermophilic diazotrophy, photosynthesis and multicellularity in cyanobacteria</title>
-      <link>https://bdiezlab.com/publication/alcorta_et_al_2019/</link>
+      <link>https://bdiezlab.netlify.app/publication/alcorta_et_al_2019/</link>
       <pubDate>Wed, 11 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://bdiezlab.com/publication/alcorta_et_al_2019/</guid>
+      <guid>https://bdiezlab.netlify.app/publication/alcorta_et_al_2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The influence of temperature and pH on bacterial community composition of microbial mats in hot springs from Costa Rica</title>
-      <link>https://bdiezlab.com/publication/uribe-lorio_et_al_2019/</link>
+      <link>https://bdiezlab.netlify.app/publication/uribe-lorio_et_al_2019/</link>
       <pubDate>Thu, 04 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://bdiezlab.com/publication/uribe-lorio_et_al_2019/</guid>
+      <guid>https://bdiezlab.netlify.app/publication/uribe-lorio_et_al_2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Elucidating Viral Communities During a Phytoplankton Bloom on the West Antarctic Peninsula</title>
-      <link>https://bdiezlab.com/publication/alarcon-schumacher_et_al_2019/</link>
+      <link>https://bdiezlab.netlify.app/publication/alarcon-schumacher_et_al_2019/</link>
       <pubDate>Tue, 14 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://bdiezlab.com/publication/alarcon-schumacher_et_al_2019/</guid>
+      <guid>https://bdiezlab.netlify.app/publication/alarcon-schumacher_et_al_2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Genomic Features for Desiccation Tolerance and Sugar Biosynthesis in the Extremophile Gloeocapsopsis sp. UTEX B3054</title>
-      <link>https://bdiezlab.com/publication/urrejola_et_al_2019/</link>
+      <link>https://bdiezlab.netlify.app/publication/urrejola_et_al_2019/</link>
       <pubDate>Tue, 07 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://bdiezlab.com/publication/urrejola_et_al_2019/</guid>
+      <guid>https://bdiezlab.netlify.app/publication/urrejola_et_al_2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Las cianobacterias y el cambio climático. Capítulo Libro. El cambio climático y la biología funcional de los organismos. (Francisco Bozinovic &amp; Francisco Bozinovic Lohengrin A. Cavieres First Edition)</title>
-      <link>https://bdiezlab.com/publication/alcorta_bookchapter_2019/</link>
+      <link>https://bdiezlab.netlify.app/publication/alcorta_bookchapter_2019/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://bdiezlab.com/publication/alcorta_bookchapter_2019/</guid>
+      <guid>https://bdiezlab.netlify.app/publication/alcorta_bookchapter_2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Temperature modulates Fischerella thermalis ecotypes in Porcelana Hot Spring</title>
-      <link>https://bdiezlab.com/publication/alcorta_et_al_2018/</link>
+      <link>https://bdiezlab.netlify.app/publication/alcorta_et_al_2018/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>https://bdiezlab.com/publication/alcorta_et_al_2018/</guid>
+      <guid>https://bdiezlab.netlify.app/publication/alcorta_et_al_2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Summer phyto- and bacterioplankton communities during low and high productivity scenarios in the Western Antarctic Peninsula</title>
-      <link>https://bdiezlab.com/publication/fuentes_et_al_2018/</link>
+      <link>https://bdiezlab.netlify.app/publication/fuentes_et_al_2018/</link>
       <pubDate>Thu, 11 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>https://bdiezlab.com/publication/fuentes_et_al_2018/</guid>
+      <guid>https://bdiezlab.netlify.app/publication/fuentes_et_al_2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Diurnal changes in active carbon and nitrogen pathways along the temperature gradient in porcelana hot spring microbial mat</title>
-      <link>https://bdiezlab.com/publication/alcaman_arias_et_al_2018b/</link>
+      <link>https://bdiezlab.netlify.app/publication/alcaman_arias_et_al_2018b/</link>
       <pubDate>Tue, 02 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>https://bdiezlab.com/publication/alcaman_arias_et_al_2018b/</guid>
+      <guid>https://bdiezlab.netlify.app/publication/alcaman_arias_et_al_2018b/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bacterial community structure in a sympagic habitat expanding with global warming: brackish ice brine at 85–90 °N</title>
-      <link>https://bdiezlab.com/publication/fernandez-gomez_et_al_2018/</link>
+      <link>https://bdiezlab.netlify.app/publication/fernandez-gomez_et_al_2018/</link>
       <pubDate>Tue, 18 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://bdiezlab.com/publication/fernandez-gomez_et_al_2018/</guid>
+      <guid>https://bdiezlab.netlify.app/publication/fernandez-gomez_et_al_2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Active Crossfire Between Cyanobacteria and Cyanophages in Phototrophic Mat Communities Within Hot Springs</title>
-      <link>https://bdiezlab.com/publication/guajardo-leiva_et_al_2018/</link>
+      <link>https://bdiezlab.netlify.app/publication/guajardo-leiva_et_al_2018/</link>
       <pubDate>Mon, 03 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://bdiezlab.com/publication/guajardo-leiva_et_al_2018/</guid>
+      <guid>https://bdiezlab.netlify.app/publication/guajardo-leiva_et_al_2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Microbial activity during a coastal phytoplankton bloom on the Western Antarctic Peninsula in late summer</title>
-      <link>https://bdiezlab.com/publication/alcaman_arias_et_al_2018/</link>
+      <link>https://bdiezlab.netlify.app/publication/alcaman_arias_et_al_2018/</link>
       <pubDate>Wed, 04 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>https://bdiezlab.com/publication/alcaman_arias_et_al_2018/</guid>
+      <guid>https://bdiezlab.netlify.app/publication/alcaman_arias_et_al_2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Plankton composition, biomass, phylogeny and toxin genes in Lake Big Momela, Tanzania</title>
-      <link>https://bdiezlab.com/publication/hamisi_et_al_2017/</link>
+      <link>https://bdiezlab.netlify.app/publication/hamisi_et_al_2017/</link>
       <pubDate>Thu, 24 Aug 2017 00:00:00 +0000</pubDate>
-      <guid>https://bdiezlab.com/publication/hamisi_et_al_2017/</guid>
+      <guid>https://bdiezlab.netlify.app/publication/hamisi_et_al_2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Physiological and gene expression responses to nitrogen regimes and temperatures in Mastigocladus sp. strain CHP1, a predominant thermotolerant cyanobacterium of hot springs</title>
-      <link>https://bdiezlab.com/publication/alcaman_arias_et_al_2017/</link>
+      <link>https://bdiezlab.netlify.app/publication/alcaman_arias_et_al_2017/</link>
       <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
-      <guid>https://bdiezlab.com/publication/alcaman_arias_et_al_2017/</guid>
+      <guid>https://bdiezlab.netlify.app/publication/alcaman_arias_et_al_2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Climate relevant trace gases (N2O and CH4) in the Eurasian Basin (Arctic Ocean)</title>
-      <link>https://bdiezlab.com/publication/verdugo_et_al_2016/</link>
+      <link>https://bdiezlab.netlify.app/publication/verdugo_et_al_2016/</link>
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>https://bdiezlab.com/publication/verdugo_et_al_2016/</guid>
+      <guid>https://bdiezlab.netlify.app/publication/verdugo_et_al_2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Metagenomic Analysis of the Indian Ocean Picocyanobacterial Community: Structure, Potential Function and Evolution</title>
-      <link>https://bdiezlab.com/publication/diez_et_al_2016/</link>
+      <link>https://bdiezlab.netlify.app/publication/diez_et_al_2016/</link>
       <pubDate>Thu, 19 May 2016 00:00:00 +0000</pubDate>
-      <guid>https://bdiezlab.com/publication/diez_et_al_2016/</guid>
+      <guid>https://bdiezlab.netlify.app/publication/diez_et_al_2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Variation in coastal Antarctic microbial community composition at sub-mesoscale: Spatial distance or environmental filtering?</title>
-      <link>https://bdiezlab.com/publication/moreno_pino_et_al_2016/</link>
+      <link>https://bdiezlab.netlify.app/publication/moreno_pino_et_al_2016/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://bdiezlab.com/publication/moreno_pino_et_al_2016/</guid>
+      <guid>https://bdiezlab.netlify.app/publication/moreno_pino_et_al_2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Adaptive phenotypic plasticity and competitive ability deployed under a climate change scenario may promote the invasion of Poa annua in Antarctica</title>
-      <link>https://bdiezlab.com/publication/molina_montenegro_et_al_2016/</link>
+      <link>https://bdiezlab.netlify.app/publication/molina_montenegro_et_al_2016/</link>
       <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
-      <guid>https://bdiezlab.com/publication/molina_montenegro_et_al_2016/</guid>
+      <guid>https://bdiezlab.netlify.app/publication/molina_montenegro_et_al_2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CyDiv, a conserved and novel filamentous cyanobacterial cell division protein involved in septum localization</title>
-      <link>https://bdiezlab.com/publication/mandakovic_et_al_2016/</link>
+      <link>https://bdiezlab.netlify.app/publication/mandakovic_et_al_2016/</link>
       <pubDate>Wed, 10 Feb 2016 00:00:00 +0000</pubDate>
-      <guid>https://bdiezlab.com/publication/mandakovic_et_al_2016/</guid>
+      <guid>https://bdiezlab.netlify.app/publication/mandakovic_et_al_2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Characterization of bacterial, archaeal and eukaryote symbionts from antarctic sponges reveals a high diversity at a three-domain level and a particular signature for this ecosystem</title>
-      <link>https://bdiezlab.com/publication/rodriguez-marconi_et_al_2015/</link>
+      <link>https://bdiezlab.netlify.app/publication/rodriguez-marconi_et_al_2015/</link>
       <pubDate>Wed, 30 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://bdiezlab.com/publication/rodriguez-marconi_et_al_2015/</guid>
+      <guid>https://bdiezlab.netlify.app/publication/rodriguez-marconi_et_al_2015/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The cyanobacterium Mastigocladus fulfills the nitrogen demand of a terrestrial hot spring microbial mat</title>
-      <link>https://bdiezlab.com/publication/alcaman_arias_et_al_2015/</link>
+      <link>https://bdiezlab.netlify.app/publication/alcaman_arias_et_al_2015/</link>
       <pubDate>Fri, 31 Jul 2015 00:00:00 +0000</pubDate>
-      <guid>https://bdiezlab.com/publication/alcaman_arias_et_al_2015/</guid>
+      <guid>https://bdiezlab.netlify.app/publication/alcaman_arias_et_al_2015/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Diazotrophy in Alluvial Meadows of Subarctic River Systems</title>
-      <link>https://bdiezlab.com/publication/deluca_et_al-_2013/</link>
+      <link>https://bdiezlab.netlify.app/publication/deluca_et_al-_2013/</link>
       <pubDate>Wed, 06 Nov 2013 00:00:00 +0000</pubDate>
-      <guid>https://bdiezlab.com/publication/deluca_et_al-_2013/</guid>
+      <guid>https://bdiezlab.netlify.app/publication/deluca_et_al-_2013/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Water nutrient stoichiometry modifies the nutritional quality of phytoplankton and somatic growth of crustacean mesozooplankton</title>
-      <link>https://bdiezlab.com/publication/diez_et_al_2013/</link>
+      <link>https://bdiezlab.netlify.app/publication/diez_et_al_2013/</link>
       <pubDate>Wed, 28 Aug 2013 00:00:00 +0000</pubDate>
-      <guid>https://bdiezlab.com/publication/diez_et_al_2013/</guid>
+      <guid>https://bdiezlab.netlify.app/publication/diez_et_al_2013/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Epiphytic cyanobacteria of the seagrass Cymodocea rotundata: Diversity, diel nifH expression and nitrogenase activity</title>
-      <link>https://bdiezlab.com/publication/hamisi_et_al_2013/</link>
+      <link>https://bdiezlab.netlify.app/publication/hamisi_et_al_2013/</link>
       <pubDate>Thu, 10 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://bdiezlab.com/publication/hamisi_et_al_2013/</guid>
+      <guid>https://bdiezlab.netlify.app/publication/hamisi_et_al_2013/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bacterial composition of microbial mats in hot springs in Northern Patagonia: variations with seasons and temperature</title>
-      <link>https://bdiezlab.com/publication/mackenzie_et_al_2013/</link>
+      <link>https://bdiezlab.netlify.app/publication/mackenzie_et_al_2013/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://bdiezlab.com/publication/mackenzie_et_al_2013/</guid>
+      <guid>https://bdiezlab.netlify.app/publication/mackenzie_et_al_2013/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Metagenomes of Mediterranean Coastal Lagoons</title>
-      <link>https://bdiezlab.com/publication/ghai_et_al_2012/</link>
+      <link>https://bdiezlab.netlify.app/publication/ghai_et_al_2012/</link>
       <pubDate>Tue, 03 Jul 2012 00:00:00 +0000</pubDate>
-      <guid>https://bdiezlab.com/publication/ghai_et_al_2012/</guid>
+      <guid>https://bdiezlab.netlify.app/publication/ghai_et_al_2012/</guid>
       <description></description>
     </item>
     
     <item>
       <title>High cyanobacterial nifH gene diversity in Arctic seawater and sea ice brine</title>
-      <link>https://bdiezlab.com/publication/diez_et_al_2012/</link>
+      <link>https://bdiezlab.netlify.app/publication/diez_et_al_2012/</link>
       <pubDate>Thu, 12 Apr 2012 00:00:00 +0000</pubDate>
-      <guid>https://bdiezlab.com/publication/diez_et_al_2012/</guid>
+      <guid>https://bdiezlab.netlify.app/publication/diez_et_al_2012/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Functional convergence of microbes associated with temperate marine sponges</title>
-      <link>https://bdiezlab.com/publication/ribes_et_al_2012/</link>
+      <link>https://bdiezlab.netlify.app/publication/ribes_et_al_2012/</link>
       <pubDate>Wed, 15 Feb 2012 00:00:00 +0000</pubDate>
-      <guid>https://bdiezlab.com/publication/ribes_et_al_2012/</guid>
+      <guid>https://bdiezlab.netlify.app/publication/ribes_et_al_2012/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Phylogenetic and molecular clock inferences of cyanobacterial strains within Rivulariaceae from distant environments</title>
-      <link>https://bdiezlab.com/publication/dominguez-escobar_et_al_2011/</link>
+      <link>https://bdiezlab.netlify.app/publication/dominguez-escobar_et_al_2011/</link>
       <pubDate>Tue, 01 Mar 2011 00:00:00 +0000</pubDate>
-      <guid>https://bdiezlab.com/publication/dominguez-escobar_et_al_2011/</guid>
+      <guid>https://bdiezlab.netlify.app/publication/dominguez-escobar_et_al_2011/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multifaceted approach for the analysis of the phototrophic microbial community in a freshwater recreational area of Xochimilco, México</title>
-      <link>https://bdiezlab.com/publication/tavera_diez_2009/</link>
+      <link>https://bdiezlab.netlify.app/publication/tavera_diez_2009/</link>
       <pubDate>Fri, 30 Oct 2009 00:00:00 +0000</pubDate>
-      <guid>https://bdiezlab.com/publication/tavera_diez_2009/</guid>
+      <guid>https://bdiezlab.netlify.app/publication/tavera_diez_2009/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Temporal separation of cell division and diazotrophy in the marine diazotrophic cyanobacterium Trichodesmium erythraeum IMS101</title>
-      <link>https://bdiezlab.com/publication/sandh_et_al_2009/</link>
+      <link>https://bdiezlab.netlify.app/publication/sandh_et_al_2009/</link>
       <pubDate>Mon, 01 Jun 2009 00:00:00 +0000</pubDate>
-      <guid>https://bdiezlab.com/publication/sandh_et_al_2009/</guid>
+      <guid>https://bdiezlab.netlify.app/publication/sandh_et_al_2009/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Diazotrophic diversity, nifH gene expression and nitrogenase activity in a rice paddy field in Fujian, China</title>
-      <link>https://bdiezlab.com/publication/martensson_et_al_2009/</link>
+      <link>https://bdiezlab.netlify.app/publication/martensson_et_al_2009/</link>
       <pubDate>Wed, 29 Apr 2009 00:00:00 +0000</pubDate>
-      <guid>https://bdiezlab.com/publication/martensson_et_al_2009/</guid>
+      <guid>https://bdiezlab.netlify.app/publication/martensson_et_al_2009/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Diversity of hepatotoxic cyanobacteria in the Nile Delta, Egypt</title>
-      <link>https://bdiezlab.com/publication/amer_et_al_2009/</link>
+      <link>https://bdiezlab.netlify.app/publication/amer_et_al_2009/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>https://bdiezlab.com/publication/amer_et_al_2009/</guid>
+      <guid>https://bdiezlab.netlify.app/publication/amer_et_al_2009/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Marine diazotrophic cyanobacteria: Out of the blue</title>
-      <link>https://bdiezlab.com/publication/diez_et_al_2008/</link>
+      <link>https://bdiezlab.netlify.app/publication/diez_et_al_2008/</link>
       <pubDate>Thu, 06 Mar 2008 00:00:00 +0000</pubDate>
-      <guid>https://bdiezlab.com/publication/diez_et_al_2008/</guid>
+      <guid>https://bdiezlab.netlify.app/publication/diez_et_al_2008/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Variability in benthic diazotrophy and cyanobacterial diversity in a tropical intertidal lagoon</title>
-      <link>https://bdiezlab.com/publication/bauer_et_al_2008/</link>
+      <link>https://bdiezlab.netlify.app/publication/bauer_et_al_2008/</link>
       <pubDate>Thu, 10 Jan 2008 00:00:00 +0000</pubDate>
-      <guid>https://bdiezlab.com/publication/bauer_et_al_2008/</guid>
+      <guid>https://bdiezlab.netlify.app/publication/bauer_et_al_2008/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Characterization And Comparison Of Prokaryotic Epiphytes Associated With Three East African Seagrasses 1</title>
-      <link>https://bdiezlab.com/publication/uku_et_al_2007/</link>
+      <link>https://bdiezlab.netlify.app/publication/uku_et_al_2007/</link>
       <pubDate>Sat, 30 Jun 2007 00:00:00 +0000</pubDate>
-      <guid>https://bdiezlab.com/publication/uku_et_al_2007/</guid>
+      <guid>https://bdiezlab.netlify.app/publication/uku_et_al_2007/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Epilithic Cyanobacterial Communities of a Marine Tropical Beach Rock (Heron Island, Great Barrier Reef): Diversity and Diazotrophy</title>
-      <link>https://bdiezlab.com/publication/diez_et_al_2007/</link>
+      <link>https://bdiezlab.netlify.app/publication/diez_et_al_2007/</link>
       <pubDate>Mon, 28 May 2007 00:00:00 +0000</pubDate>
-      <guid>https://bdiezlab.com/publication/diez_et_al_2007/</guid>
+      <guid>https://bdiezlab.netlify.app/publication/diez_et_al_2007/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Watering, Fertilization, and Slurry Inoculation Promote Recovery of Biological Crust Function in Degraded Soils</title>
-      <link>https://bdiezlab.com/publication/maestre_et_al_2006/</link>
+      <link>https://bdiezlab.netlify.app/publication/maestre_et_al_2006/</link>
       <pubDate>Fri, 19 May 2006 00:00:00 +0000</pubDate>
-      <guid>https://bdiezlab.com/publication/maestre_et_al_2006/</guid>
+      <guid>https://bdiezlab.netlify.app/publication/maestre_et_al_2006/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Control of heterotrophic prokaryotic abundance and growth rate in hypersaline planktonic environments</title>
-      <link>https://bdiezlab.com/publication/gasol_et_al_2004/</link>
+      <link>https://bdiezlab.netlify.app/publication/gasol_et_al_2004/</link>
       <pubDate>Mon, 19 Jul 2004 00:00:00 +0000</pubDate>
-      <guid>https://bdiezlab.com/publication/gasol_et_al_2004/</guid>
+      <guid>https://bdiezlab.netlify.app/publication/gasol_et_al_2004/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Distribution of eukaryotic picoplankton assemblages across hydrographic fronts in the Southern Ocean, studied by denaturing gradient gel electrophoresis</title>
-      <link>https://bdiezlab.com/publication/diez_et_al_2004/</link>
+      <link>https://bdiezlab.netlify.app/publication/diez_et_al_2004/</link>
       <pubDate>Mon, 19 Jul 2004 00:00:00 +0000</pubDate>
-      <guid>https://bdiezlab.com/publication/diez_et_al_2004/</guid>
+      <guid>https://bdiezlab.netlify.app/publication/diez_et_al_2004/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Unveiling the Organisms behind Novel Eukaryotic Ribosomal DNA Sequences from the Ocean</title>
-      <link>https://bdiezlab.com/publication/massana_et_al_2002/</link>
+      <link>https://bdiezlab.netlify.app/publication/massana_et_al_2002/</link>
       <pubDate>Sun, 01 Sep 2002 00:00:00 +0000</pubDate>
-      <guid>https://bdiezlab.com/publication/massana_et_al_2002/</guid>
+      <guid>https://bdiezlab.netlify.app/publication/massana_et_al_2002/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Changes in archaeal, bacterial and eukaryal assemblages along a salinity gradient by comparison of genetic fingerprinting methods in a multipond solar saltern</title>
-      <link>https://bdiezlab.com/publication/casamayor_et_al_2002/</link>
+      <link>https://bdiezlab.netlify.app/publication/casamayor_et_al_2002/</link>
       <pubDate>Tue, 18 Jun 2002 00:00:00 +0000</pubDate>
-      <guid>https://bdiezlab.com/publication/casamayor_et_al_2002/</guid>
+      <guid>https://bdiezlab.netlify.app/publication/casamayor_et_al_2002/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Application of Denaturing Gradient Gel Electrophoresis (DGGE) To Study the Diversity of Marine Picoeukaryotic Assemblages and Comparison of DGGE with Other Molecular Techniques</title>
-      <link>https://bdiezlab.com/publication/diez_et_al_2001b/</link>
+      <link>https://bdiezlab.netlify.app/publication/diez_et_al_2001b/</link>
       <pubDate>Sun, 01 Jul 2001 00:00:00 +0000</pubDate>
-      <guid>https://bdiezlab.com/publication/diez_et_al_2001b/</guid>
+      <guid>https://bdiezlab.netlify.app/publication/diez_et_al_2001b/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Study of Genetic Diversity of Eukaryotic Picoplankton in Different Oceanic Regions by Small-Subunit rRNA Gene Cloning and Sequencing</title>
-      <link>https://bdiezlab.com/publication/diez_et_al_2001/</link>
+      <link>https://bdiezlab.netlify.app/publication/diez_et_al_2001/</link>
       <pubDate>Sun, 01 Jul 2001 00:00:00 +0000</pubDate>
-      <guid>https://bdiezlab.com/publication/diez_et_al_2001/</guid>
+      <guid>https://bdiezlab.netlify.app/publication/diez_et_al_2001/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pulsed-field gel electrophoresis analysis of virus assemblages present in a hypersaline environment.</title>
-      <link>https://bdiezlab.com/publication/diez_et_al_2000/</link>
+      <link>https://bdiezlab.netlify.app/publication/diez_et_al_2000/</link>
       <pubDate>Fri, 01 Sep 2000 00:00:00 +0000</pubDate>
-      <guid>https://bdiezlab.com/publication/diez_et_al_2000/</guid>
+      <guid>https://bdiezlab.netlify.app/publication/diez_et_al_2000/</guid>
       <description></description>
     </item>
     

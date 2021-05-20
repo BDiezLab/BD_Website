@@ -2,26 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Geyser del Tatio | Beatriz Díez Lab</title>
-    <link>https://bdiezlab.com/tag/geyser-del-tatio/</link>
-      <atom:link href="https://bdiezlab.com/tag/geyser-del-tatio/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://bdiezlab.netlify.app/tag/geyser-del-tatio/</link>
+      <atom:link href="https://bdiezlab.netlify.app/tag/geyser-del-tatio/index.xml" rel="self" type="application/rss+xml" />
     <description>Geyser del Tatio</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Beatriz Díez Lab</copyright><lastBuildDate>Mon, 17 May 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://bdiezlab.com/media/icon.png</url>
+      <url>https://bdiezlab.netlify.app/media/icon.png</url>
       <title>Geyser del Tatio</title>
-      <link>https://bdiezlab.com/tag/geyser-del-tatio/</link>
+      <link>https://bdiezlab.netlify.app/tag/geyser-del-tatio/</link>
     </image>
     
     <item>
       <title>Tatio geysers field as a model system</title>
-      <link>https://bdiezlab.com/project/1190998/</link>
+      <link>https://bdiezlab.netlify.app/project/1190998/</link>
       <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://bdiezlab.com/project/1190998/</guid>
+      <guid>https://bdiezlab.netlify.app/project/1190998/</guid>
       <description>&lt;p&gt;El Tatio geysers field as a model system to study virus-host interactions and local adaptations. &lt;br&gt;&lt;br&gt;&lt;/p&gt;
 &lt;p&gt;Proyecto: CONICYT, Fondecyt 1190998 (2019-2023)&lt;/p&gt;
 &lt;div class=&#34;container&#34;&gt;
 &lt;h3 id=&#34;gallery&#34;&gt;Gallery&lt;/h3&gt;
   &lt;center&gt;
+
 
 
 
@@ -44,8 +45,8 @@
     
     
     
-    &lt;a data-fancybox=&#34;gallery-1190998_g&#34; href=&#34;https://bdiezlab.com/project/1190998/1190998_g/img1.jpg&#34; &gt;
-      &lt;img data-src=&#34;https://bdiezlab.com/project/1190998/1190998_g/img1_hu52f632ff377cf5b4af2ecb970b4f44f8_1395975_0x190_resize_q75_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;img1.jpg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-1190998_g&#34; href=&#34;https://bdiezlab.netlify.app/project/1190998/1190998_g/img1.jpg&#34; &gt;
+      &lt;img data-src=&#34;https://bdiezlab.netlify.app/project/1190998/1190998_g/img1_hu52f632ff377cf5b4af2ecb970b4f44f8_1395975_0x190_resize_q75_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;img1.jpg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -53,8 +54,8 @@
     
     
     
-    &lt;a data-fancybox=&#34;gallery-1190998_g&#34; href=&#34;https://bdiezlab.com/project/1190998/1190998_g/img2.jpg&#34; &gt;
-      &lt;img data-src=&#34;https://bdiezlab.com/project/1190998/1190998_g/img2_hu52f632ff377cf5b4af2ecb970b4f44f8_1180322_0x190_resize_q75_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;img2.jpg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-1190998_g&#34; href=&#34;https://bdiezlab.netlify.app/project/1190998/1190998_g/img2.jpg&#34; &gt;
+      &lt;img data-src=&#34;https://bdiezlab.netlify.app/project/1190998/1190998_g/img2_hu52f632ff377cf5b4af2ecb970b4f44f8_1180322_0x190_resize_q75_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;img2.jpg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -62,8 +63,8 @@
     
     
     
-    &lt;a data-fancybox=&#34;gallery-1190998_g&#34; href=&#34;https://bdiezlab.com/project/1190998/1190998_g/img3.jpg&#34; &gt;
-      &lt;img data-src=&#34;https://bdiezlab.com/project/1190998/1190998_g/img3_hu52f632ff377cf5b4af2ecb970b4f44f8_1275142_0x190_resize_q75_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;img3.jpg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-1190998_g&#34; href=&#34;https://bdiezlab.netlify.app/project/1190998/1190998_g/img3.jpg&#34; &gt;
+      &lt;img data-src=&#34;https://bdiezlab.netlify.app/project/1190998/1190998_g/img3_hu52f632ff377cf5b4af2ecb970b4f44f8_1275142_0x190_resize_q75_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;img3.jpg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -71,8 +72,8 @@
     
     
     
-    &lt;a data-fancybox=&#34;gallery-1190998_g&#34; href=&#34;https://bdiezlab.com/project/1190998/1190998_g/img4.jpg&#34; &gt;
-      &lt;img data-src=&#34;https://bdiezlab.com/project/1190998/1190998_g/img4_hu52f632ff377cf5b4af2ecb970b4f44f8_1211000_0x190_resize_q75_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;img4.jpg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-1190998_g&#34; href=&#34;https://bdiezlab.netlify.app/project/1190998/1190998_g/img4.jpg&#34; &gt;
+      &lt;img data-src=&#34;https://bdiezlab.netlify.app/project/1190998/1190998_g/img4_hu52f632ff377cf5b4af2ecb970b4f44f8_1211000_0x190_resize_q75_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;img4.jpg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -80,13 +81,17 @@
     
     
     
-    &lt;a data-fancybox=&#34;gallery-1190998_g&#34; href=&#34;https://bdiezlab.com/project/1190998/1190998_g/img5.jpg&#34; &gt;
-      &lt;img data-src=&#34;https://bdiezlab.com/project/1190998/1190998_g/img5_hu52f632ff377cf5b4af2ecb970b4f44f8_1534977_0x190_resize_q75_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;img5.jpg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-1190998_g&#34; href=&#34;https://bdiezlab.netlify.app/project/1190998/1190998_g/img5.jpg&#34; &gt;
+      &lt;img data-src=&#34;https://bdiezlab.netlify.app/project/1190998/1190998_g/img5_hu52f632ff377cf5b4af2ecb970b4f44f8_1534977_0x190_resize_q75_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;img5.jpg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
 
   
-&lt;/div&gt;&lt;/center&gt;
+&lt;/div&gt;
+  &lt;video width=&#34;320&#34; height=&#34;240&#34; controls&gt;
+  &lt;source src=&#34;./Tatio.mp4&#34; type=video/mp4&gt;
+  &lt;/video&gt;
+  &lt;/center&gt;
 &lt;/div&gt;
 </description>
     </item>

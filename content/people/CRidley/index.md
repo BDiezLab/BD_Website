@@ -53,24 +53,26 @@ With climate change expected to intensify, the frequency of marine upwelling eve
   width: 50%;
   text-align: left;
 }
+
 .column-right{
   float: right;
   width: 50%;
   text-align: left;
 }
+
 </style>
 
-<div class="column-left">
-
-<h3> Interests </h3>
+<div class="row">
+ <div class="column-left">
+<h3>&nbsp;&nbsp;&nbsp;&nbsp;Interests</h3>
 
 - Microbial genomics <br>
 - Marine microbiology <br>
 - Microbial methane cycling <br>
-<br><br><br><br><br>
-</div>
 
-<div class="column-right">
+ </div>
+ 
+ <div class="column-right">
 
 <h3> Education </h3>
 {{< icon name="graduation-cap" pack="fas" >}} PhD. Environmental Microbiology
@@ -80,9 +82,8 @@ With climate change expected to intensify, the frequency of marine upwelling eve
 {{< icon name="graduation-cap" pack="fas" >}} BSc. Microbiology & Immunology
 <p style="color:grey; font-size:15px;"> Dalhousie University, Halifax, Canada </p>
 
+ </div>
 </div>
-
-<br><br><br><br><br><br><br><br>
 
 <h3> Contact </h3>
 

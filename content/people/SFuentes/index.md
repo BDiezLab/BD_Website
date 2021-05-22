@@ -47,10 +47,10 @@ summary: Scientific Collaborator
 <h3> Contact </h3>
 
 {{< icon name="envelope" pack="fas" >}} sebastian.fuentes@ubo.cl<br>
-<a href="mailto:sebastian.fuentes.a@gmail.com"><i class="fas fa-envelope"></i></a>
-<a href="https://orcid.org/0000-0001-8855-4400"><i class="fab fa-orcid"></i></a>
-<a href="https://scholar.google.cl/citations?user=nRaFayMAAAAJ&hl=es"><i class="ai ai-google-scholar-square ai"></i></a>
-<a href="https://www.researchgate.net/profile/Sebastian-Fuentes-Alburquenque"><i class="fab fa-researchgate"></i></a>
+<a href="mailto:sebastian.fuentes.a@gmail.com"><i class="fas fa-envelope"></i></a> &nbsp;
+<a href="https://orcid.org/0000-0001-8855-4400"><i class="fab fa-orcid"></i></a> &nbsp;
+<a href="https://scholar.google.cl/citations?user=nRaFayMAAAAJ&hl=es"><i class="ai ai-google-scholar-square ai"></i></a> &nbsp;
+<a href="https://www.researchgate.net/profile/Sebastian-Fuentes-Alburquenque"><i class="fab fa-researchgate"></i></a> &nbsp;
 <a href="http://www.cirenys.cl"><i class="fas fa-link"></i> CIRENYS (UBO)</a>
 
 

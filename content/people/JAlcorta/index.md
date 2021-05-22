@@ -99,8 +99,8 @@ Estos genomas nos ayudarán a comprender el funcionamiento y la composición de 
 
 <h3> Contact </h3>
 {{< icon name="envelope" pack="fas" >}} alcorta.jaime@gmail.com<br>
-<a href="mailto:alcorta.jaime@gmail.com"><i class="fas fa-envelope"></i></a>
-<a href="https://scholar.google.es/citations?user=4pTKG00AAAAJ&hl=es"><i class="ai ai-google-scholar-square ai"></i></a>
-<a href="https://www.researchgate.net/profile/Jaime-Alcorta"><i class="fab fa-researchgate"></i></a>
-<a href="https://orcid.org/0000-0001-7662-239X"><i class="fab fa-orcid"></i></a>
+<a href="mailto:alcorta.jaime@gmail.com"><i class="fas fa-envelope"></i></a> &nbsp;
+<a href="https://scholar.google.es/citations?user=4pTKG00AAAAJ&hl=es"><i class="ai ai-google-scholar-square ai"></i></a> &nbsp;
+<a href="https://www.researchgate.net/profile/Jaime-Alcorta"><i class="fab fa-researchgate"></i></a> &nbsp;
+<a href="https://orcid.org/0000-0001-7662-239X"><i class="fab fa-orcid"></i></a> &nbsp;
 <a href="https://github.com/jaalcort"><i class="fab fa-github"></i></a><br>

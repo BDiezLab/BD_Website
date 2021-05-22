@@ -81,5 +81,5 @@ Utilizando como modelo Bahía Chile, buscamos dilucidar las comunidades de fagos
 <h3> Contact </h3>
 
 {{< icon name="envelope" pack="fas" >}} wilson.castillo@ug.uchile.cl <br>
-<a href="mailto:wilson.castillo@ug.uchile.cl"><i class="fas fa-envelope"></i></a>
+<a href="mailto:wilson.castillo@ug.uchile.cl"><i class="fas fa-envelope"></i></a> &nbsp;
 <a href="https://www.linkedin.com/in/wilson-elias-castillo-inaipil-7a3437205/"><i class="fab fa-linkedin"></i></a> 

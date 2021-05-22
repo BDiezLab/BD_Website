@@ -84,10 +84,10 @@ date: "2021-04-16"
 
 <h3> Contact </h3>
 
-{{< icon name="envelope" pack="fas" >}} diego.segura@ug.uchile.cl<br>
+{{< icon name="envelope" pack="fas" >}} diego.segura@ug.uchile.cl<br> 
 {{< icon name="envelope" pack="fas" >}} dsegurc@gmail.com<br>
-<a href="mailto:diego.segura@ug.uchile.cl"><i class="fas fa-envelope"></i></a>
-<a href="mailto:dsegurc@gmail.com"><i class="fas fa-envelope"></i></a>
+<a href="mailto:diego.segura@ug.uchile.cl"><i class="fas fa-envelope"></i></a> &nbsp;
+<a href="mailto:dsegurc@gmail.com"><i class="fas fa-envelope"></i></a> &nbsp;
 <a href="https://www.linkedin.com/in/diego-segura-cáceres-578a25168"><i class="fab fa-linkedin"></i></a><br> 
 
 

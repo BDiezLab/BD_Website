@@ -95,7 +95,7 @@ I describe myself as a self-taught Bioinformatician with experience in Molecular
 <h3> Contact </h3>
 
 {{< icon name="envelope" pack="fas" >}} jeronimo.cifuentes@ug.uchile.cl<br>
-<a href="mailto:jeronimo.cifuentes@ug.uchile.cl"><i class="fas fa-envelope"></i></a>
-<a href="https://orcid.org/0000-0002-8099-4994"><i class="fab fa-orcid"></i></a>
-<a href="https://scholar.google.com/citations?user=Rr1RVHEAAAAJ&hl=en"><i class="ai ai-google-scholar-square ai"></i></a>
+<a href="mailto:jeronimo.cifuentes@ug.uchile.cl"><i class="fas fa-envelope"></i></a> &nbsp;
+<a href="https://orcid.org/0000-0002-8099-4994"><i class="fab fa-orcid"></i></a> &nbsp;
+<a href="https://scholar.google.com/citations?user=Rr1RVHEAAAAJ&hl=en"><i class="ai ai-google-scholar-square ai"></i></a> &nbsp;
 <a href="https://twitter.com/cifuentesjero"><i class="fab fa-twitter"></i></a> <br>

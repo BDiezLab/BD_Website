@@ -44,10 +44,10 @@ summary: Scientific Collaborator
 <h3> Contact </h3>
 
 {{< icon name="envelope" pack="fas" >}} jonachoarroyo@gmail.com<br>
-<a href="mailto:jonachoarroyo@gmail.com"><i class="fas fa-envelope"></i></a>
-<a href="https://scholar.google.com/citations?user=vbgJPgkAAAAJ&hl=en"><i class="ai ai-google-scholar-square ai"></i></a>
-<a href="https://www.researchgate.net/profile/Jose-Arroyo-22"><i class="fab fa-researchgate"></i></a>
-<a href="https://www.santafe.edu/people/profile/jose-ignacio-arroyo"><i class="fas fa-link"></i> Santa Fe Institute, USA</a>
+<a href="mailto:jonachoarroyo@gmail.com"><i class="fas fa-envelope"></i></a> &nbsp;
+<a href="https://scholar.google.com/citations?user=vbgJPgkAAAAJ&hl=en"><i class="ai ai-google-scholar-square ai"></i></a> &nbsp;
+<a href="https://www.researchgate.net/profile/Jose-Arroyo-22"><i class="fab fa-researchgate"></i></a> &nbsp;
+<a href="https://www.santafe.edu/people/profile/jose-ignacio-arroyo"><i class="fas fa-link"></i> Santa Fe Institute, USA</a> &nbsp;
 <a href="http://www.cmm.uchile.cl/?cmm_people=jose-ignacio-arroyo"><i class="fas fa-link"></i> CMM, Universidad de Chile, Chile</a>
 
 

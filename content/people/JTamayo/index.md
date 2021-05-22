@@ -107,11 +107,11 @@ Los microorganismos han adquirido diversos mecanismos adaptativos a nuevos ambie
 <h3> Contact </h3>
 
 {{< icon name="envelope" pack="fas" >}} jatamayo@uc.cl<br>
-<a href="mailto:jatamayo@uc.cl"><i class="fas fa-envelope"></i></a>
-<a href="https://orcid.org/0000-0003-2610-6957"><i class="fab fa-orcid"></i></a>
-<a href="https://scholar.google.com/citations?user=Rr-4cmQwXX4C&hl=es"><i class="ai ai-google-scholar-square ai"></i></a>
-<a href="https://www.researchgate.net/profile/Javier-Tamayo"><i class="fab fa-researchgate"></i></a>
-<a href="https://www.linkedin.com/in/javier-ignacio-tamayo-leiva-94613267"><i class="fab fa-linkedin"></i></a>
-<a href="https://twitter.com/TamayoLeiva_J"><i class="fab fa-twitter"></i></a>
-<a href="https://www.kaggle.com/jtamayo"><i class="fab fa-kaggle"></i></a>
+<a href="mailto:jatamayo@uc.cl"><i class="fas fa-envelope"></i></a> &nbsp;
+<a href="https://orcid.org/0000-0003-2610-6957"><i class="fab fa-orcid"></i></a> &nbsp;
+<a href="https://scholar.google.com/citations?user=Rr-4cmQwXX4C&hl=es"><i class="ai ai-google-scholar-square ai"></i></a> &nbsp;
+<a href="https://www.researchgate.net/profile/Javier-Tamayo"><i class="fab fa-researchgate"></i></a> &nbsp;
+<a href="https://www.linkedin.com/in/javier-ignacio-tamayo-leiva-94613267"><i class="fab fa-linkedin"></i></a> &nbsp;
+<a href="https://twitter.com/TamayoLeiva_J"><i class="fab fa-twitter"></i></a> &nbsp;
+<a href="https://www.kaggle.com/jtamayo"><i class="fab fa-kaggle"></i></a> &nbsp;
 <a href="https://github.com/JTamayo-Leiva"><i class="fab fa-github"></i></a><br>

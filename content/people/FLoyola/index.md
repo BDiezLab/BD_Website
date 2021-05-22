@@ -84,5 +84,5 @@ El objetivo de este proyecto es dilucidar las comunidades de fagos presentes en 
 <h3> Contact </h3>
 
 {{< icon name="envelope" pack="fas" >}} felipe.loyola@ug.uchile.cl <br>
-<a href="mailto:felipe.loyola@ug.uchile.cl"><i class="fas fa-envelope"></i></a>
+<a href="mailto:felipe.loyola@ug.uchile.cl"><i class="fas fa-envelope"></i></a> &nbsp;
 <a href="https://www.linkedin.com/in/peteete"><i class="fab fa-linkedin"></i></a><br>

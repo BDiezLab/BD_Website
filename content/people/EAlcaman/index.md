@@ -49,8 +49,8 @@ Mi línea de investigación se enfoca en la Ecología microbiana y ciclos biogeo
 
 {{< icon name="envelope" pack="fas" >}} mealcaman@uc.cl <br>
 {{< icon name="envelope" pack="fas" >}} marialcaman@udec.cl <br>
-<a href="mailto:mealcaman@uc.cl"><i class="fas fa-envelope"></i></a>
-<a href="mailto:marialcaman@udec.cl"><i class="fas fa-envelope"></i></a>
-<a href="https://scholar.google.com/citations?user=zKgYaIQAAAAJ&hl=es"><i class="ai ai-google-scholar-square ai"></i></a>
-<a href="http://apecschile.cl/"><i class="fas fa-link"></i>apecschile</a>
+<a href="mailto:mealcaman@uc.cl"><i class="fas fa-envelope"></i></a> &nbsp;
+<a href="mailto:marialcaman@udec.cl"><i class="fas fa-envelope"></i></a> &nbsp;
+<a href="https://scholar.google.com/citations?user=zKgYaIQAAAAJ&hl=es"><i class="ai ai-google-scholar-square ai"></i></a> &nbsp;
+<a href="http://apecschile.cl/"><i class="fas fa-link"></i>apecschile</a> &nbsp;
 <a href="http://www.cr2.cl/zona-costera/"><i class="fas fa-link"></i>CR2</a><br>

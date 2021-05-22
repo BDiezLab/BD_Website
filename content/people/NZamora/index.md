@@ -92,7 +92,7 @@ Finalmente, con el fin de determinar los efectos de la temperatura y la desecaci
 <h3> Contact </h3>
 
 {{< icon name="envelope" pack="fas" >}} natali.zamora@gmail.com <br>
-<a href="mailto: natali.zamora@gmail.com"><i class="fas fa-envelope"></i></a>
-<a href="https://www.orcid.org/0000-0002-0224-0812"><i class="fab fa-orcid"></i></a>
+<a href="mailto: natali.zamora@gmail.com"><i class="fas fa-envelope"></i></a> &nbsp;
+<a href="https://www.orcid.org/0000-0002-0224-0812"><i class="fab fa-orcid"></i></a> &nbsp;
 <a href="https://www.linkedin.com/in/natali-zamora-bugue%C3%B1o-b71743167"><i class="fab fa-linkedin"></i></a><br>
 

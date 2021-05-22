@@ -97,8 +97,8 @@ Sergio currently holds a postdoctoral position at <a href="http://www.castrolab.
 <h3> Contact </h3>
 
 {{< icon name="envelope" pack="fas" >}} guajardo.sergio@gmail.com <br>
-<a href="mailto:guajardo.sergio@gmail.com"><i class="fas fa-envelope"></i></a>
-<a href="https://scholar.google.com/citations?user=LRVm2cUAAAAJ&hl=en"><i class="ai ai-google-scholar-square ai"></i></a>
-<a href="https://twitter.com/phageattack"><i class="fab fa-twitter"></i></a>
-<a href="http://www.castrolab.org/"><i class="fas fa-link"></i> Castro Lab</a>
+<a href="mailto:guajardo.sergio@gmail.com"><i class="fas fa-envelope"></i></a> &nbsp;
+<a href="https://scholar.google.com/citations?user=LRVm2cUAAAAJ&hl=en"><i class="ai ai-google-scholar-square ai"></i></a> &nbsp;
+<a href="https://twitter.com/phageattack"><i class="fab fa-twitter"></i></a> &nbsp;
+<a href="http://www.castrolab.org/"><i class="fas fa-link"></i> Castro Lab</a> &nbsp;
 <a href="https://www.polarix.org/"><i class="fas fa-link"></i> Polarix</a> <br>

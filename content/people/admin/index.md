@@ -115,9 +115,9 @@ This research could also be applied to studies linked to climate change, given t
 
 <h3> Contact </h3>
 
-{{< icon name="envelope" pack="fas" >}} bdiez@bio.puc.cl<br>
-<a href="mailto: bdiez@bio.puc.cl"><i class="fas fa-envelope"></i></a>
-<a href="https://orcid.org/0000-0002-9371-8083"><i class="fab fa-orcid"></i></a>
-<a href="https://scholar.google.es/citations?user=NXrEAO4AAAAJ&hl=es"><i class="ai ai-google-scholar-square ai"></i></a>
-<a href="https://www.researchgate.net/profile/Beatriz-Diez"><i class="fab fa-researchgate"></i></a>
+{{< icon name="envelope" pack="fas" >}} bdiez@bio.puc.cl<br> 
+<a href="mailto: bdiez@bio.puc.cl"><i class="fas fa-envelope"></i></a> &nbsp;
+<a href="https://orcid.org/0000-0002-9371-8083"><i class="fab fa-orcid"></i></a> &nbsp;
+<a href="https://scholar.google.es/citations?user=NXrEAO4AAAAJ&hl=es"><i class="ai ai-google-scholar-square ai"></i></a> &nbsp;
+<a href="https://www.researchgate.net/profile/Beatriz-Diez"><i class="fab fa-researchgate"></i></a> &nbsp;
 <a href="https://postgrado.bio.uc.cl/facultad/profesores/beatriz-diez/"><i class="fas fa-link"></i></a>

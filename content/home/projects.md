@@ -26,17 +26,15 @@ content:
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
   - name: All
+    tag: "*"
+  - name: Current Project
     tag: "Current Project"
-  - name: Diazospring
-    tag: "Diazospring"
-  - name: Extreme Systems
-    tag: "Extreme Systems"  
+  - name: Extreme Systems Microbiology
+    tag: "Extreme Systems Microbiology"  
   - name: Climate Change
     tag: "Climate Change"
-  - name: Microbiology
-    tag: "Microbiology"
-  - name: Virology
-    tag: "Virology"
+  - name: Extreme Systems Virology
+    tag: "Extreme Systems Virology"
   - name: Other
     tag: 'Other'
 

@@ -28,7 +28,7 @@ links:
   url: https://twitter.com/BDiezLab
 slides: 
 summary: Antarctic Peninsula
-tags: ["Current Project", "Extreme Systems", "Antarctic", "Microbiology", "Virology"]
+tags: ["Current Project", "Extreme Systems Microbiology", "Extreme Systems Virology"]
 title: ANILLO Antártico-Long-range transport of xenobiotics and microorganisms
 url_code: ""
 url_pdf: ""

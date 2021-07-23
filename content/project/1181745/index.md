@@ -20,7 +20,7 @@ links:
   url: https://twitter.com/BDiezLab
 slides: 
 summary: Antarctic Peninsula
-tags: ["Current Project", "Extreme Systems", "Antarctic", "Microbiology", "Virology"]
+tags: ["Current Project", "Extreme Systems Microbiology"]
 title: Penguin colonies and microbial communities
 url_code: ""
 url_pdf: ""

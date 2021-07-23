@@ -14,7 +14,7 @@ interests:
 - Microbial Ecology
 - Computational Biology
 - Data Analytics
-user_groups: ["Researchers Network", "Current Members"]
+user_groups: ["Researchers Network", "Former Lab Members"]
 organizations:
 - name: P. Universidad Católica de Chile
   url: "https://www.uc.cl"

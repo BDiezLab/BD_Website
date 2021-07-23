@@ -20,7 +20,7 @@ links:
   url: https://twitter.com/BDiezLab
 slides: 
 summary: Coastal upwelling system 
-tags: ["Current Project", "Climate Change", "Atacama","Microbiology"]
+tags: ["Current Project", "Climate Change"]
 title: CH4 cycling in the seasonal upwelling system
 url_code: ""
 url_pdf: ""

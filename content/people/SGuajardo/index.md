@@ -15,7 +15,7 @@ interests:
 - Microbial Ecology
 - Computational Biology
 - Data Analytics
-user_groups: ["Researchers Network", "Current Members", "Staff", "Former Lab Members"]
+user_groups: ["Researchers Network", "Former Lab Members"]
 organizations:
 - name: P. Universidad Católica de Chile
   url: "https://www.uc.cl"
@@ -34,7 +34,7 @@ superuser: false
 authors:
 - SGuajardo
 title: Sergio Guajardo-Leiva
-tags: ["Researchers Network", "Current Members", "Staff", "Former Lab Members"]
+tags: ["Researchers Network", "Former Lab Members"]
 summary: Scientific Collaborator
 ---
 

@@ -22,7 +22,7 @@ links:
   url: https://twitter.com/BDiezLab
 slides: 
 summary: (CR)2
-tags: ["Current Project", "Climate Change", "Microbiology", "Virology"]
+tags: ["Current Project", "Climate Change", "Extreme Systems Microbiology", "Extreme Systems Virology"]
 title: Center for Climate and Resilience Research (CR)2
 url_code: ""
 url_pdf: ""

@@ -20,7 +20,7 @@ links:
   url: https://twitter.com/BDiezLab
 slides: 
 summary: Atacama desert
-tags: ["Current Project", "Extreme Systems", "Atacama","Microbiology", "Virology"]
+tags: ["Current Project", "Extreme Systems Virology"]
 title: Soil phage ecology in the Atacama desert
 url_code: ""
 url_pdf: ""

@@ -11,8 +11,8 @@ links:
   url: https://twitter.com/BDiezLab
 slides: 
 summary: Ecology of diazotrophic cyanobacteria 
-tags: ["Diazospring", "Microbiology", "Extreme Systems"]
-title: Diazospring
+tags: ["Other"]
+title: Ecology of diazotrophic cyanobacteria in hot springs
 url_code: ""
 url_pdf: ""
 url_slides: ""

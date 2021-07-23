@@ -18,7 +18,7 @@ links:
   url: https://twitter.com/BDiezLab
 slides: 
 summary: Antarctic Peninsula
-tags: ["Current Project", "Extreme Systems", "Antarctic", "Microbiology", "Virology"]
+tags: ["Current Project", "Extreme Systems Microbiology", "Extreme Systems Virology"]
 title: Efecto viral sobre bacterio- y fitoplancton
 url_code: ""
 url_pdf: ""

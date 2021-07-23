@@ -20,7 +20,7 @@ links:
   url: https://twitter.com/BDiezLab
 slides: 
 summary: Wastewater virome
-tags: ["Current Project", "Other", "Microbiology", "Virology"]
+tags: ["Current Project", "Other"]
 title: Metagenomic analysis of the wastewater virome
 url_code: ""
 url_pdf: ""

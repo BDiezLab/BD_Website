@@ -20,7 +20,7 @@ links:
   url: https://twitter.com/BDiezLab
 slides: 
 summary: CGR
-tags: ["Current Project", "Extreme Systems", "Microbiology", "Virology"]
+tags: ["Current Project", "Extreme Systems Microbiology", "Extreme Systems Virology"]
 title: Center for Genome Regulation
 url_code: ""
 url_pdf: ""

@@ -20,7 +20,7 @@ links:
   url: https://twitter.com/BDiezLab
 slides: 
 summary: Comunidades microbianas y virales del permafrost
-tags: ["Current Project", "Extreme Systems Microbiology", "Extreme Systems Virology"]
+tags: ["Current Projects", "Extreme Systems Microbiology", "Extreme Systems Virology"]
 title: Comunidades microbianas y virales del permafrost en la cuenca del Rio Aconcagua
 url_code: ""
 url_pdf: ""

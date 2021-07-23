@@ -27,8 +27,8 @@ content:
   filter_button:
   - name: All
     tag: "*"
-  - name: Current Project
-    tag: "Current Project"
+  - name: Current Projects
+    tag: "Current Projects"
   - name: Extreme Systems Microbiology
     tag: "Extreme Systems Microbiology"  
   - name: Climate Change

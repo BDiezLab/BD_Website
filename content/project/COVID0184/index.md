@@ -20,7 +20,7 @@ links:
   url: https://twitter.com/BDiezLab
 slides: 
 summary: COVID-19 disease
-tags: ["Current Project", "Other"]
+tags: ["Current Projects", "Other"]
 title: COV-SARS-2 in atmospheric aerosols
 url_code: ""
 url_pdf: ""

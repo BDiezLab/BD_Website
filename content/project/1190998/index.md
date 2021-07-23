@@ -24,7 +24,7 @@ links:
   url: https://twitter.com/BDiezLab
 slides: 
 summary: Tatio Geysers
-tags: ["Current Project", "Extreme Systems Microbiology", "Extreme Systems Virology"]
+tags: ["Current Projects", "Extreme Systems Microbiology", "Extreme Systems Virology"]
 title: Tatio geysers field as a model system 
 url_code: ""
 url_pdf: ""

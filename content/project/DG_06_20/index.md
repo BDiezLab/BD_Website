@@ -20,7 +20,7 @@ links:
   url: https://twitter.com/BDiezLab
 slides: 
 summary: Antarctic Peninsula
-tags: ["Current Project", "Extreme Systems Virology"]
+tags: ["Current Projects", "Extreme Systems Virology"]
 title: Caracterización de comunidades de virus gigantes 
 url_code: ""
 url_pdf: ""

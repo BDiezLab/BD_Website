@@ -20,7 +20,7 @@ links:
   url: https://twitter.com/BDiezLab
 slides: 
 summary: Atacama Desert
-tags: ["Current Project", "Extreme Systems Microbiology"]
+tags: ["Current Projects", "Extreme Systems Microbiology"]
 title: Microbiomics in a Changing World 
 url_code: ""
 url_pdf: ""

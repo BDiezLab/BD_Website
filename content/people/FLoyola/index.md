@@ -39,10 +39,8 @@ summary: MSc. Student
 
 <h3> About </h3>
 
-(Tesista de) Magíster en Bioquímica Ambiental. Trabajamos en la búsqueda de nueva información sobre la estructura, diversidad y actividad de las comunidades virales presentes en ambientes termales, utilizando como modelo de estudio los tapetes microbianos presentes en los géiseres de El Tatio, Chile. Para esto, se analizan metagenomas y metatranscriptomas de muestras obtenidas en distintas expediciones a las termas de El Tatio, donde se escogen distintos puntos estratégicos para representar los cambios que pueden sufrir estas comunidades a lo largo de gradientes de temperatura y distancia geográfica.<br>
-De esta manera, podemos obtener mayor información respecto de la manera en la que factores bióticos (en este caso, fagos) pueden estar modulando estos microambientes.
-Además, se trabaja también con muestras de distintas termas del mundo (Estados unidos, China, Canadá, entre otros) que presenten condiciones abióticas similares y así comparar la abundancia y diversidad que presentan estas comunidades de microorganismos a lo largo del mundo.<br>
-El objetivo de este proyecto es dilucidar las comunidades de fagos presentes en los géiseres de El Tatio y sus interacciones virus-hospedador, esperando comprender sus patrones de ocurrencia e interacción, así como el efecto que generan factores como la temperatura y geografía en ellos, vislumbrando su posible endemismo. <br>
+Trabajamos en la búsqueda de nueva información sobre la estructura, diversidad y actividad de las comunidades virales presentes en ambientes termales, utilizando como modelo de estudio los tapetes microbianos presentes en los géiseres de El Tatio (Chile). Esto se logra mediante análisis meta-ómicos que nos permiten dilucidar las comunidades de fagos presentes y cómo pueden variar según los factores abióticos y distancia geográfica, para finalmente ayudar a comprender de qué manera pueden estar modulando estos microambientes.<br>  
+Además, se analizan termas de otras partes del mundo (Estados unidos, China, Canadá, entre otros) que presenten condiciones abióticas similares y así comparar la abundancia y diversidad que presentan estas comunidades de microorganismos a lo largo del mundo. <br>
 
 </div>
 

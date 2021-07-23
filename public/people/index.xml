@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Peoples | Beatriz Díez Lab</title>
-    <link>https://bdiezlab.netlify.app/people/</link>
-      <atom:link href="https://bdiezlab.netlify.app/people/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://bdiezlab.com/people/</link>
+      <atom:link href="https://bdiezlab.com/people/index.xml" rel="self" type="application/rss+xml" />
     <description>Peoples</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Beatriz Díez Lab</copyright><lastBuildDate>Tue, 18 May 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://bdiezlab.netlify.app/media/icon.png</url>
+      <url>https://bdiezlab.com/media/icon.png</url>
       <title>Peoples</title>
-      <link>https://bdiezlab.netlify.app/people/</link>
+      <link>https://bdiezlab.com/people/</link>
     </image>
     
     <item>
       <title>Beatriz Díez Moreno</title>
-      <link>https://bdiezlab.netlify.app/people/admin/</link>
+      <link>https://bdiezlab.com/people/admin/</link>
       <pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://bdiezlab.netlify.app/people/admin/</guid>
+      <guid>https://bdiezlab.com/people/admin/</guid>
       <description>&lt;p style=&#34;color:grey; font-size:20px; text-align:center;&#34;&gt;Principal Investigator&lt;br&gt;
 Associate Professor &lt;br&gt; P. Universidad Católica de Chile.&lt;/p&gt;
 &lt;div style=&#34;text-align:justify;&#34;&gt;
@@ -28,7 +28,7 @@ Associate Professor &lt;br&gt; P. Universidad Católica de Chile.&lt;/p&gt;
 &lt;p&gt;This research could also be applied to studies linked to climate change, given that extremophilic organisms have already developed adaptations to extreme temperatures. Today, Beatriz Díez is convinced that understanding how survival is possible under these kinds of conditions will help to characterize the biochemistry that defines the limits of cellular life, and in turn illuminate what could happen in an environment that may not be extremophilic today, but with the effects of climate change, could become so tomorrow. &lt;br&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;p&gt;
-  &lt;i class=&#34;fas fa-download  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Download my &lt;a href=&#34;https://bdiezlab.netlify.app/docs/cv-bd.pdf&#34; target=&#34;_blank&#34;&gt;resumé&lt;/a&gt;.&lt;/p&gt;
+  &lt;i class=&#34;fas fa-download  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Download my &lt;a href=&#34;https://bdiezlab.com/docs/cv-bd.pdf&#34; target=&#34;_blank&#34;&gt;resumé&lt;/a&gt;.&lt;/p&gt;
 &lt;br&gt;
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
@@ -71,19 +71,19 @@ Associate Professor &lt;br&gt; P. Universidad Católica de Chile.&lt;/p&gt;
 &lt;h3&gt; Contact &lt;/h3&gt;
 &lt;p&gt;
   &lt;i class=&#34;fas fa-envelope  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;a href=&#34;mailto:bdiez@bio.puc.cl&#34;&gt;bdiez@bio.puc.cl&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;mailto: bdiez@bio.puc.cl&#34;&gt;&lt;i class=&#34;fas fa-envelope&#34;&gt;&lt;/i&gt;&lt;/a&gt;
-&lt;a href=&#34;https://orcid.org/0000-0002-9371-8083&#34;&gt;&lt;i class=&#34;fab fa-orcid&#34;&gt;&lt;/i&gt;&lt;/a&gt;
-&lt;a href=&#34;https://scholar.google.es/citations?user=NXrEAO4AAAAJ&amp;hl=es&#34;&gt;&lt;i class=&#34;ai ai-google-scholar-square ai&#34;&gt;&lt;/i&gt;&lt;/a&gt;
-&lt;a href=&#34;https://www.researchgate.net/profile/Beatriz-Diez&#34;&gt;&lt;i class=&#34;fab fa-researchgate&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+&lt;a href=&#34;mailto: bdiez@bio.puc.cl&#34;&gt;&lt;i class=&#34;fas fa-envelope&#34;&gt;&lt;/i&gt;&lt;/a&gt;  
+&lt;a href=&#34;https://orcid.org/0000-0002-9371-8083&#34;&gt;&lt;i class=&#34;fab fa-orcid&#34;&gt;&lt;/i&gt;&lt;/a&gt;  
+&lt;a href=&#34;https://scholar.google.es/citations?user=NXrEAO4AAAAJ&amp;hl=es&#34;&gt;&lt;i class=&#34;ai ai-google-scholar-square ai&#34;&gt;&lt;/i&gt;&lt;/a&gt;  
+&lt;a href=&#34;https://www.researchgate.net/profile/Beatriz-Diez&#34;&gt;&lt;i class=&#34;fab fa-researchgate&#34;&gt;&lt;/i&gt;&lt;/a&gt;  
 &lt;a href=&#34;https://postgrado.bio.uc.cl/facultad/profesores/beatriz-diez/&#34;&gt;&lt;i class=&#34;fas fa-link&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Carla Barbosa</title>
-      <link>https://bdiezlab.netlify.app/people/cbarbosa/</link>
+      <link>https://bdiezlab.com/people/cbarbosa/</link>
       <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://bdiezlab.netlify.app/people/cbarbosa/</guid>
+      <guid>https://bdiezlab.com/people/cbarbosa/</guid>
       <description>&lt;p style=&#34;color:grey; font-size:20px; text-align:center;&#34;&gt; MSc. Students &lt;/p&gt;
 &lt;div style=&#34;text-align:justify;&#34;&gt;
 &lt;p&gt;&lt;strong&gt;About&lt;/strong&gt;&lt;/p&gt;
@@ -128,9 +128,9 @@ Associate Professor &lt;br&gt; P. Universidad Católica de Chile.&lt;/p&gt;
     
     <item>
       <title>Christina Ridley</title>
-      <link>https://bdiezlab.netlify.app/people/cridley/</link>
+      <link>https://bdiezlab.com/people/cridley/</link>
       <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://bdiezlab.netlify.app/people/cridley/</guid>
+      <guid>https://bdiezlab.com/people/cridley/</guid>
       <description>&lt;p style=&#34;color:grey; font-size:20px; text-align:center;&#34;&gt; Postdoctoral fellow &lt;/p&gt;
 &lt;div style=&#34;text-align:justify;&#34;&gt;
 &lt;h3&gt; About &lt;/h3&gt;
@@ -142,21 +142,24 @@ Associate Professor &lt;br&gt; P. Universidad Católica de Chile.&lt;/p&gt;
   width: 50%;
   text-align: left;
 }
+
 .column-right{
   float: right;
   width: 50%;
   text-align: left;
 }
+
 &lt;/style&gt;
-&lt;div class=&#34;column-left&#34;&gt;
-&lt;h3&gt; Interests &lt;/h3&gt;
+&lt;div class=&#34;row&#34;&gt;
+ &lt;div class=&#34;column-left&#34;&gt;
+&lt;h3&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Interests&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Microbial genomics &lt;br&gt;&lt;/li&gt;
 &lt;li&gt;Marine microbiology &lt;br&gt;&lt;/li&gt;
 &lt;li&gt;Microbial methane cycling &lt;br&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;/div&gt;
-&lt;div class=&#34;column-right&#34;&gt;
+ &lt;/div&gt;
+ &lt;div class=&#34;column-right&#34;&gt;
 &lt;h3&gt; Education &lt;/h3&gt;
 
   &lt;i class=&#34;fas fa-graduation-cap  pr-1 fa-fw&#34;&gt;&lt;/i&gt; PhD. Environmental Microbiology
@@ -167,8 +170,8 @@ Associate Professor &lt;br&gt; P. Universidad Católica de Chile.&lt;/p&gt;
 
   &lt;i class=&#34;fas fa-graduation-cap  pr-1 fa-fw&#34;&gt;&lt;/i&gt; BSc. Microbiology &amp; Immunology
 &lt;p style=&#34;color:grey; font-size:15px;&#34;&gt; Dalhousie University, Halifax, Canada &lt;/p&gt;
+ &lt;/div&gt;
 &lt;/div&gt;
-&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
 &lt;h3&gt; Contact &lt;/h3&gt;
 &lt;p&gt;
   &lt;i class=&#34;fas fa-envelope  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;a href=&#34;mailto:christina.m.ridley@gmail.com&#34;&gt;christina.m.ridley@gmail.com&lt;/a&gt;&lt;/p&gt;
@@ -177,9 +180,9 @@ Associate Professor &lt;br&gt; P. Universidad Católica de Chile.&lt;/p&gt;
     
     <item>
       <title>Dominique Jara</title>
-      <link>https://bdiezlab.netlify.app/people/djara/</link>
+      <link>https://bdiezlab.com/people/djara/</link>
       <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://bdiezlab.netlify.app/people/djara/</guid>
+      <guid>https://bdiezlab.com/people/djara/</guid>
       <description>&lt;p style=&#34;color:grey; font-size:20px; text-align:center;&#34;&gt; Undergraduate Student &lt;/p&gt;
 &lt;div style=&#34;text-align:justify;&#34;&gt;
 &lt;p&gt;&lt;strong&gt;About&lt;/strong&gt;&lt;/p&gt;
@@ -225,16 +228,14 @@ Associate Professor &lt;br&gt; P. Universidad Católica de Chile.&lt;/p&gt;
     
     <item>
       <title>Felipe Loyola</title>
-      <link>https://bdiezlab.netlify.app/people/floyola/</link>
+      <link>https://bdiezlab.com/people/floyola/</link>
       <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://bdiezlab.netlify.app/people/floyola/</guid>
+      <guid>https://bdiezlab.com/people/floyola/</guid>
       <description>&lt;p style=&#34;color:grey; font-size:20px; text-align:center;&#34;&gt; MSc. Student &lt;/p&gt;
 &lt;div style=&#34;text-align:justify;&#34;&gt;
 &lt;h3&gt; About &lt;/h3&gt;
-&lt;p&gt;(Tesista de) Magíster en Bioquímica Ambiental. Trabajamos en la búsqueda de nueva información sobre la estructura, diversidad y actividad de las comunidades virales presentes en ambientes termales, utilizando como modelo de estudio los tapetes microbianos presentes en los géiseres de El Tatio, Chile. Para esto, se analizan metagenomas y metatranscriptomas de muestras obtenidas en distintas expediciones a las termas de El Tatio, donde se escogen distintos puntos estratégicos para representar los cambios que pueden sufrir estas comunidades a lo largo de gradientes de temperatura y distancia geográfica.&lt;br&gt;
-De esta manera, podemos obtener mayor información respecto de la manera en la que factores bióticos (en este caso, fagos) pueden estar modulando estos microambientes.
-Además, se trabaja también con muestras de distintas termas del mundo (Estados unidos, China, Canadá, entre otros) que presenten condiciones abióticas similares y así comparar la abundancia y diversidad que presentan estas comunidades de microorganismos a lo largo del mundo.&lt;br&gt;
-El objetivo de este proyecto es dilucidar las comunidades de fagos presentes en los géiseres de El Tatio y sus interacciones virus-hospedador, esperando comprender sus patrones de ocurrencia e interacción, así como el efecto que generan factores como la temperatura y geografía en ellos, vislumbrando su posible endemismo. &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Trabajamos en la búsqueda de nueva información sobre la estructura, diversidad y actividad de las comunidades virales presentes en ambientes termales, utilizando como modelo de estudio los tapetes microbianos presentes en los géiseres de El Tatio (Chile). Esto se logra mediante análisis meta-ómicos que nos permiten dilucidar las comunidades de fagos presentes y cómo pueden variar según los factores abióticos y distancia geográfica, para finalmente ayudar a comprender de qué manera pueden estar modulando estos microambientes.&lt;br&gt;&lt;br&gt;
+Además, se analizan termas de otras partes del mundo (Estados unidos, China, Canadá, entre otros) que presenten condiciones abióticas similares y así comparar la abundancia y diversidad que presentan estas comunidades de microorganismos a lo largo del mundo. &lt;br&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;style&gt;
 .column-left{
@@ -270,16 +271,16 @@ El objetivo de este proyecto es dilucidar las comunidades de fagos presentes en 
 &lt;h3&gt; Contact &lt;/h3&gt;
 &lt;p&gt;
   &lt;i class=&#34;fas fa-envelope  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;a href=&#34;mailto:felipe.loyola@ug.uchile.cl&#34;&gt;felipe.loyola@ug.uchile.cl&lt;/a&gt; &lt;br&gt;
-&lt;a href=&#34;mailto:felipe.loyola@ug.uchile.cl&#34;&gt;&lt;i class=&#34;fas fa-envelope&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+&lt;a href=&#34;mailto:felipe.loyola@ug.uchile.cl&#34;&gt;&lt;i class=&#34;fas fa-envelope&#34;&gt;&lt;/i&gt;&lt;/a&gt;  
 &lt;a href=&#34;https://www.linkedin.com/in/peteete&#34;&gt;&lt;i class=&#34;fab fa-linkedin&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Jaime Alcorta</title>
-      <link>https://bdiezlab.netlify.app/people/jalcorta/</link>
+      <link>https://bdiezlab.com/people/jalcorta/</link>
       <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://bdiezlab.netlify.app/people/jalcorta/</guid>
+      <guid>https://bdiezlab.com/people/jalcorta/</guid>
       <description>&lt;p style=&#34;color:grey; font-size:20px; text-align:center;&#34;&gt; PhD. Student &lt;/p&gt;
 &lt;div style=&#34;text-align:justify;&#34;&gt;
 &lt;h3&gt; About &lt;/h3&gt;
@@ -326,18 +327,18 @@ Estos genomas nos ayudarán a comprender el funcionamiento y la composición de 
 &lt;h3&gt; Contact &lt;/h3&gt;
 
   &lt;i class=&#34;fas fa-envelope  pr-1 fa-fw&#34;&gt;&lt;/i&gt; alcorta.jaime@gmail.com&lt;br&gt;
-&lt;a href=&#34;mailto:alcorta.jaime@gmail.com&#34;&gt;&lt;i class=&#34;fas fa-envelope&#34;&gt;&lt;/i&gt;&lt;/a&gt;
-&lt;a href=&#34;https://scholar.google.es/citations?user=4pTKG00AAAAJ&amp;hl=es&#34;&gt;&lt;i class=&#34;ai ai-google-scholar-square ai&#34;&gt;&lt;/i&gt;&lt;/a&gt;
-&lt;a href=&#34;https://www.researchgate.net/profile/Jaime-Alcorta&#34;&gt;&lt;i class=&#34;fab fa-researchgate&#34;&gt;&lt;/i&gt;&lt;/a&gt;
-&lt;a href=&#34;https://orcid.org/0000-0001-7662-239X&#34;&gt;&lt;i class=&#34;fab fa-orcid&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+&lt;a href=&#34;mailto:alcorta.jaime@gmail.com&#34;&gt;&lt;i class=&#34;fas fa-envelope&#34;&gt;&lt;/i&gt;&lt;/a&gt; &amp;nbsp;
+&lt;a href=&#34;https://scholar.google.es/citations?user=4pTKG00AAAAJ&amp;hl=es&#34;&gt;&lt;i class=&#34;ai ai-google-scholar-square ai&#34;&gt;&lt;/i&gt;&lt;/a&gt; &amp;nbsp;
+&lt;a href=&#34;https://www.researchgate.net/profile/Jaime-Alcorta&#34;&gt;&lt;i class=&#34;fab fa-researchgate&#34;&gt;&lt;/i&gt;&lt;/a&gt; &amp;nbsp;
+&lt;a href=&#34;https://orcid.org/0000-0001-7662-239X&#34;&gt;&lt;i class=&#34;fab fa-orcid&#34;&gt;&lt;/i&gt;&lt;/a&gt; &amp;nbsp;
 &lt;a href=&#34;https://github.com/jaalcort&#34;&gt;&lt;i class=&#34;fab fa-github&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;</description>
     </item>
     
     <item>
       <title>Javier Tamayo-Leiva</title>
-      <link>https://bdiezlab.netlify.app/people/jtamayo/</link>
+      <link>https://bdiezlab.com/people/jtamayo/</link>
       <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://bdiezlab.netlify.app/people/jtamayo/</guid>
+      <guid>https://bdiezlab.com/people/jtamayo/</guid>
       <description>&lt;p style=&#34;color:grey; font-size:20px; text-align:center;&#34;&gt; PhD. Student &lt;/p&gt;
 &lt;div style=&#34;text-align:justify;&#34;&gt;
 &lt;h3&gt; About &lt;/h3&gt;
@@ -380,22 +381,22 @@ Estos genomas nos ayudarán a comprender el funcionamiento y la composición de 
 &lt;h3&gt; Contact &lt;/h3&gt;
 &lt;p&gt;
   &lt;i class=&#34;fas fa-envelope  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;a href=&#34;mailto:jatamayo@uc.cl&#34;&gt;jatamayo@uc.cl&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;mailto:jatamayo@uc.cl&#34;&gt;&lt;i class=&#34;fas fa-envelope&#34;&gt;&lt;/i&gt;&lt;/a&gt;
-&lt;a href=&#34;https://orcid.org/0000-0003-2610-6957&#34;&gt;&lt;i class=&#34;fab fa-orcid&#34;&gt;&lt;/i&gt;&lt;/a&gt;
-&lt;a href=&#34;https://scholar.google.com/citations?user=Rr-4cmQwXX4C&amp;hl=es&#34;&gt;&lt;i class=&#34;ai ai-google-scholar-square ai&#34;&gt;&lt;/i&gt;&lt;/a&gt;
-&lt;a href=&#34;https://www.researchgate.net/profile/Javier-Tamayo&#34;&gt;&lt;i class=&#34;fab fa-researchgate&#34;&gt;&lt;/i&gt;&lt;/a&gt;
-&lt;a href=&#34;https://www.linkedin.com/in/javier-ignacio-tamayo-leiva-94613267&#34;&gt;&lt;i class=&#34;fab fa-linkedin&#34;&gt;&lt;/i&gt;&lt;/a&gt;
-&lt;a href=&#34;https://twitter.com/TamayoLeiva_J&#34;&gt;&lt;i class=&#34;fab fa-twitter&#34;&gt;&lt;/i&gt;&lt;/a&gt;
-&lt;a href=&#34;https://www.kaggle.com/jtamayo&#34;&gt;&lt;i class=&#34;fab fa-kaggle&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+&lt;a href=&#34;mailto:jatamayo@uc.cl&#34;&gt;&lt;i class=&#34;fas fa-envelope&#34;&gt;&lt;/i&gt;&lt;/a&gt;  
+&lt;a href=&#34;https://orcid.org/0000-0003-2610-6957&#34;&gt;&lt;i class=&#34;fab fa-orcid&#34;&gt;&lt;/i&gt;&lt;/a&gt;  
+&lt;a href=&#34;https://scholar.google.com/citations?user=Rr-4cmQwXX4C&amp;hl=es&#34;&gt;&lt;i class=&#34;ai ai-google-scholar-square ai&#34;&gt;&lt;/i&gt;&lt;/a&gt;  
+&lt;a href=&#34;https://www.researchgate.net/profile/Javier-Tamayo&#34;&gt;&lt;i class=&#34;fab fa-researchgate&#34;&gt;&lt;/i&gt;&lt;/a&gt;  
+&lt;a href=&#34;https://www.linkedin.com/in/javier-ignacio-tamayo-leiva-94613267&#34;&gt;&lt;i class=&#34;fab fa-linkedin&#34;&gt;&lt;/i&gt;&lt;/a&gt;  
+&lt;a href=&#34;https://twitter.com/TamayoLeiva_J&#34;&gt;&lt;i class=&#34;fab fa-twitter&#34;&gt;&lt;/i&gt;&lt;/a&gt;  
+&lt;a href=&#34;https://www.kaggle.com/jtamayo&#34;&gt;&lt;i class=&#34;fab fa-kaggle&#34;&gt;&lt;/i&gt;&lt;/a&gt;  
 &lt;a href=&#34;https://github.com/JTamayo-Leiva&#34;&gt;&lt;i class=&#34;fab fa-github&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Jerónimo Cifuentes-Anticevic</title>
-      <link>https://bdiezlab.netlify.app/people/jcifuentes/</link>
+      <link>https://bdiezlab.com/people/jcifuentes/</link>
       <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://bdiezlab.netlify.app/people/jcifuentes/</guid>
+      <guid>https://bdiezlab.com/people/jcifuentes/</guid>
       <description>&lt;p style=&#34;color:grey; font-size:20px; text-align:center;&#34;&gt; Scientific Collaborator &lt;/p&gt;
 &lt;div style=&#34;text-align:justify;&#34;&gt;
 &lt;h3&gt; About &lt;/h3&gt;
@@ -438,18 +439,18 @@ I describe myself as a self-taught Bioinformatician with experience in Molecular
 &lt;h3&gt; Contact &lt;/h3&gt;
 &lt;p&gt;
   &lt;i class=&#34;fas fa-envelope  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;a href=&#34;mailto:jeronimo.cifuentes@ug.uchile.cl&#34;&gt;jeronimo.cifuentes@ug.uchile.cl&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;mailto:jeronimo.cifuentes@ug.uchile.cl&#34;&gt;&lt;i class=&#34;fas fa-envelope&#34;&gt;&lt;/i&gt;&lt;/a&gt;
-&lt;a href=&#34;https://orcid.org/0000-0002-8099-4994&#34;&gt;&lt;i class=&#34;fab fa-orcid&#34;&gt;&lt;/i&gt;&lt;/a&gt;
-&lt;a href=&#34;https://scholar.google.com/citations?user=Rr1RVHEAAAAJ&amp;hl=en&#34;&gt;&lt;i class=&#34;ai ai-google-scholar-square ai&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+&lt;a href=&#34;mailto:jeronimo.cifuentes@ug.uchile.cl&#34;&gt;&lt;i class=&#34;fas fa-envelope&#34;&gt;&lt;/i&gt;&lt;/a&gt;  
+&lt;a href=&#34;https://orcid.org/0000-0002-8099-4994&#34;&gt;&lt;i class=&#34;fab fa-orcid&#34;&gt;&lt;/i&gt;&lt;/a&gt;  
+&lt;a href=&#34;https://scholar.google.com/citations?user=Rr1RVHEAAAAJ&amp;hl=en&#34;&gt;&lt;i class=&#34;ai ai-google-scholar-square ai&#34;&gt;&lt;/i&gt;&lt;/a&gt;  
 &lt;a href=&#34;https://twitter.com/cifuentesjero&#34;&gt;&lt;i class=&#34;fab fa-twitter&#34;&gt;&lt;/i&gt;&lt;/a&gt; &lt;br&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Johanna Saldias</title>
-      <link>https://bdiezlab.netlify.app/people/jsaldias/</link>
+      <link>https://bdiezlab.com/people/jsaldias/</link>
       <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://bdiezlab.netlify.app/people/jsaldias/</guid>
+      <guid>https://bdiezlab.com/people/jsaldias/</guid>
       <description>&lt;p style=&#34;color:grey; font-size:20px; text-align:center;&#34;&gt; Lab Manager &lt;/p&gt;
 &lt;div style=&#34;text-align:justify;&#34;&gt;
 &lt;h3&gt; About &lt;/h3&gt;
@@ -494,26 +495,26 @@ I describe myself as a self-taught Bioinformatician with experience in Molecular
     
     <item>
       <title>José Ignacio Arroyo</title>
-      <link>https://bdiezlab.netlify.app/people/jarroyo/</link>
+      <link>https://bdiezlab.com/people/jarroyo/</link>
       <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://bdiezlab.netlify.app/people/jarroyo/</guid>
+      <guid>https://bdiezlab.com/people/jarroyo/</guid>
       <description>&lt;p style=&#34;color:grey; font-size:20px; text-align:center;&#34;&gt; Scientific Collaborator &lt;br&gt; Former Member &lt;/p&gt;
 &lt;h3&gt; Contact &lt;/h3&gt;
 &lt;p&gt;
   &lt;i class=&#34;fas fa-envelope  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;a href=&#34;mailto:jonachoarroyo@gmail.com&#34;&gt;jonachoarroyo@gmail.com&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;mailto:jonachoarroyo@gmail.com&#34;&gt;&lt;i class=&#34;fas fa-envelope&#34;&gt;&lt;/i&gt;&lt;/a&gt;
-&lt;a href=&#34;https://scholar.google.com/citations?user=vbgJPgkAAAAJ&amp;hl=en&#34;&gt;&lt;i class=&#34;ai ai-google-scholar-square ai&#34;&gt;&lt;/i&gt;&lt;/a&gt;
-&lt;a href=&#34;https://www.researchgate.net/profile/Jose-Arroyo-22&#34;&gt;&lt;i class=&#34;fab fa-researchgate&#34;&gt;&lt;/i&gt;&lt;/a&gt;
-&lt;a href=&#34;https://www.santafe.edu/people/profile/jose-ignacio-arroyo&#34;&gt;&lt;i class=&#34;fas fa-link&#34;&gt;&lt;/i&gt; Santa Fe Institute, USA&lt;/a&gt;
+&lt;a href=&#34;mailto:jonachoarroyo@gmail.com&#34;&gt;&lt;i class=&#34;fas fa-envelope&#34;&gt;&lt;/i&gt;&lt;/a&gt;  
+&lt;a href=&#34;https://scholar.google.com/citations?user=vbgJPgkAAAAJ&amp;hl=en&#34;&gt;&lt;i class=&#34;ai ai-google-scholar-square ai&#34;&gt;&lt;/i&gt;&lt;/a&gt;  
+&lt;a href=&#34;https://www.researchgate.net/profile/Jose-Arroyo-22&#34;&gt;&lt;i class=&#34;fab fa-researchgate&#34;&gt;&lt;/i&gt;&lt;/a&gt;  
+&lt;a href=&#34;https://www.santafe.edu/people/profile/jose-ignacio-arroyo&#34;&gt;&lt;i class=&#34;fas fa-link&#34;&gt;&lt;/i&gt; Santa Fe Institute, USA&lt;/a&gt;  
 &lt;a href=&#34;http://www.cmm.uchile.cl/?cmm_people=jose-ignacio-arroyo&#34;&gt;&lt;i class=&#34;fas fa-link&#34;&gt;&lt;/i&gt; CMM, Universidad de Chile, Chile&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Karen Jordaan</title>
-      <link>https://bdiezlab.netlify.app/people/kjordaan/</link>
+      <link>https://bdiezlab.com/people/kjordaan/</link>
       <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://bdiezlab.netlify.app/people/kjordaan/</guid>
+      <guid>https://bdiezlab.com/people/kjordaan/</guid>
       <description>&lt;p style=&#34;color:grey; font-size:20px; text-align:center;&#34;&gt; Postdoctoral fellow &lt;/p&gt;
 &lt;div style=&#34;text-align:justify;&#34;&gt;
 &lt;h3&gt; About &lt;/h3&gt;
@@ -558,9 +559,9 @@ Deserts are magical, yet harsh, environments that flourish with all kinds of lif
     
     <item>
       <title>Marianne Buscaglia</title>
-      <link>https://bdiezlab.netlify.app/people/mbuscaglia/</link>
+      <link>https://bdiezlab.com/people/mbuscaglia/</link>
       <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://bdiezlab.netlify.app/people/mbuscaglia/</guid>
+      <guid>https://bdiezlab.com/people/mbuscaglia/</guid>
       <description>&lt;p style=&#34;color:grey; font-size:20px; text-align:center;&#34;&gt; PhD. Student &lt;/p&gt;
 &lt;div style=&#34;text-align:justify;&#34;&gt;
 &lt;p&gt;&lt;strong&gt;About&lt;/strong&gt;&lt;/p&gt;
@@ -605,9 +606,9 @@ Deserts are magical, yet harsh, environments that flourish with all kinds of lif
     
     <item>
       <title>María Estrella Alcamán</title>
-      <link>https://bdiezlab.netlify.app/people/ealcaman/</link>
+      <link>https://bdiezlab.com/people/ealcaman/</link>
       <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://bdiezlab.netlify.app/people/ealcaman/</guid>
+      <guid>https://bdiezlab.com/people/ealcaman/</guid>
       <description>&lt;p style=&#34;color:grey; font-size:20px; text-align:center;&#34;&gt; Scientific Collaborator &lt;br&gt; Former Member &lt;/p&gt;
 &lt;div style=&#34;text-align:justify;&#34;&gt;
 &lt;h3&gt; About &lt;/h3&gt;
@@ -619,19 +620,19 @@ Deserts are magical, yet harsh, environments that flourish with all kinds of lif
   &lt;i class=&#34;fas fa-envelope  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;a href=&#34;mailto:mealcaman@uc.cl&#34;&gt;mealcaman@uc.cl&lt;/a&gt; &lt;br&gt;
 
   &lt;i class=&#34;fas fa-envelope  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;a href=&#34;mailto:marialcaman@udec.cl&#34;&gt;marialcaman@udec.cl&lt;/a&gt; &lt;br&gt;
-&lt;a href=&#34;mailto:mealcaman@uc.cl&#34;&gt;&lt;i class=&#34;fas fa-envelope&#34;&gt;&lt;/i&gt;&lt;/a&gt;
-&lt;a href=&#34;mailto:marialcaman@udec.cl&#34;&gt;&lt;i class=&#34;fas fa-envelope&#34;&gt;&lt;/i&gt;&lt;/a&gt;
-&lt;a href=&#34;https://scholar.google.com/citations?user=zKgYaIQAAAAJ&amp;hl=es&#34;&gt;&lt;i class=&#34;ai ai-google-scholar-square ai&#34;&gt;&lt;/i&gt;&lt;/a&gt;
-&lt;a href=&#34;http://apecschile.cl/&#34;&gt;&lt;i class=&#34;fas fa-link&#34;&gt;&lt;/i&gt;apecschile&lt;/a&gt;
+&lt;a href=&#34;mailto:mealcaman@uc.cl&#34;&gt;&lt;i class=&#34;fas fa-envelope&#34;&gt;&lt;/i&gt;&lt;/a&gt;  
+&lt;a href=&#34;mailto:marialcaman@udec.cl&#34;&gt;&lt;i class=&#34;fas fa-envelope&#34;&gt;&lt;/i&gt;&lt;/a&gt;  
+&lt;a href=&#34;https://scholar.google.com/citations?user=zKgYaIQAAAAJ&amp;hl=es&#34;&gt;&lt;i class=&#34;ai ai-google-scholar-square ai&#34;&gt;&lt;/i&gt;&lt;/a&gt;  
+&lt;a href=&#34;http://apecschile.cl/&#34;&gt;&lt;i class=&#34;fas fa-link&#34;&gt;&lt;/i&gt;apecschile&lt;/a&gt;  
 &lt;a href=&#34;http://www.cr2.cl/zona-costera/&#34;&gt;&lt;i class=&#34;fas fa-link&#34;&gt;&lt;/i&gt;CR2&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Natali Zamora Bugueño</title>
-      <link>https://bdiezlab.netlify.app/people/nzamora/</link>
+      <link>https://bdiezlab.com/people/nzamora/</link>
       <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://bdiezlab.netlify.app/people/nzamora/</guid>
+      <guid>https://bdiezlab.com/people/nzamora/</guid>
       <description>&lt;p style=&#34;color:grey; font-size:20px; text-align:center;&#34;&gt; PhD. Student &lt;/p&gt;
 &lt;div style=&#34;text-align:justify;&#34;&gt;
 &lt;h3&gt; About &lt;/h3&gt;
@@ -675,17 +676,17 @@ Finalmente, con el fin de determinar los efectos de la temperatura y la desecaci
 &lt;h3&gt; Contact &lt;/h3&gt;
 &lt;p&gt;
   &lt;i class=&#34;fas fa-envelope  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;a href=&#34;mailto:natali.zamora@gmail.com&#34;&gt;natali.zamora@gmail.com&lt;/a&gt; &lt;br&gt;
-&lt;a href=&#34;mailto: natali.zamora@gmail.com&#34;&gt;&lt;i class=&#34;fas fa-envelope&#34;&gt;&lt;/i&gt;&lt;/a&gt;
-&lt;a href=&#34;https://www.orcid.org/0000-0002-0224-0812&#34;&gt;&lt;i class=&#34;fab fa-orcid&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+&lt;a href=&#34;mailto: natali.zamora@gmail.com&#34;&gt;&lt;i class=&#34;fas fa-envelope&#34;&gt;&lt;/i&gt;&lt;/a&gt;  
+&lt;a href=&#34;https://www.orcid.org/0000-0002-0224-0812&#34;&gt;&lt;i class=&#34;fab fa-orcid&#34;&gt;&lt;/i&gt;&lt;/a&gt;  
 &lt;a href=&#34;https://www.linkedin.com/in/natali-zamora-bugue%C3%B1o-b71743167&#34;&gt;&lt;i class=&#34;fab fa-linkedin&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Oscar Salgado</title>
-      <link>https://bdiezlab.netlify.app/people/osalgado/</link>
+      <link>https://bdiezlab.com/people/osalgado/</link>
       <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://bdiezlab.netlify.app/people/osalgado/</guid>
+      <guid>https://bdiezlab.com/people/osalgado/</guid>
       <description>&lt;p style=&#34;color:grey; font-size:20px; text-align:center;&#34;&gt; PhD. Student &lt;/p&gt;
 &lt;div style=&#34;text-align:justify;&#34;&gt;
 &lt;p&gt;&lt;strong&gt;About&lt;/strong&gt;&lt;/p&gt;
@@ -730,9 +731,9 @@ Finalmente, con el fin de determinar los efectos de la temperatura y la desecaci
     
     <item>
       <title>Pablo Vergara</title>
-      <link>https://bdiezlab.netlify.app/people/pvergara/</link>
+      <link>https://bdiezlab.com/people/pvergara/</link>
       <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://bdiezlab.netlify.app/people/pvergara/</guid>
+      <guid>https://bdiezlab.com/people/pvergara/</guid>
       <description>&lt;p style=&#34;color:grey; font-size:20px; text-align:center;&#34;&gt; PhD. Student &lt;/p&gt;
 &lt;div style=&#34;text-align:justify;&#34;&gt;
 &lt;h3&gt; About &lt;/h3&gt;
@@ -780,30 +781,30 @@ En lo personal, me aburre abordar los problemas científicos siempre desde la mi
     
     <item>
       <title>Sebastian Fuentes Alburquenque</title>
-      <link>https://bdiezlab.netlify.app/people/sfuentes/</link>
+      <link>https://bdiezlab.com/people/sfuentes/</link>
       <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://bdiezlab.netlify.app/people/sfuentes/</guid>
+      <guid>https://bdiezlab.com/people/sfuentes/</guid>
       <description>&lt;p style=&#34;color:grey; font-size:20px; text-align:center;&#34;&gt; Scientific Collaborator &lt;br&gt; Former Member &lt;/p&gt;
 &lt;h3&gt; Contact &lt;/h3&gt;
 &lt;p&gt;
   &lt;i class=&#34;fas fa-envelope  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;a href=&#34;mailto:sebastian.fuentes@ubo.cl&#34;&gt;sebastian.fuentes@ubo.cl&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;mailto:sebastian.fuentes.a@gmail.com&#34;&gt;&lt;i class=&#34;fas fa-envelope&#34;&gt;&lt;/i&gt;&lt;/a&gt;
-&lt;a href=&#34;https://orcid.org/0000-0001-8855-4400&#34;&gt;&lt;i class=&#34;fab fa-orcid&#34;&gt;&lt;/i&gt;&lt;/a&gt;
-&lt;a href=&#34;https://scholar.google.cl/citations?user=nRaFayMAAAAJ&amp;hl=es&#34;&gt;&lt;i class=&#34;ai ai-google-scholar-square ai&#34;&gt;&lt;/i&gt;&lt;/a&gt;
-&lt;a href=&#34;https://www.researchgate.net/profile/Sebastian-Fuentes-Alburquenque&#34;&gt;&lt;i class=&#34;fab fa-researchgate&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+&lt;a href=&#34;mailto:sebastian.fuentes.a@gmail.com&#34;&gt;&lt;i class=&#34;fas fa-envelope&#34;&gt;&lt;/i&gt;&lt;/a&gt;  
+&lt;a href=&#34;https://orcid.org/0000-0001-8855-4400&#34;&gt;&lt;i class=&#34;fab fa-orcid&#34;&gt;&lt;/i&gt;&lt;/a&gt;  
+&lt;a href=&#34;https://scholar.google.cl/citations?user=nRaFayMAAAAJ&amp;hl=es&#34;&gt;&lt;i class=&#34;ai ai-google-scholar-square ai&#34;&gt;&lt;/i&gt;&lt;/a&gt;  
+&lt;a href=&#34;https://www.researchgate.net/profile/Sebastian-Fuentes-Alburquenque&#34;&gt;&lt;i class=&#34;fab fa-researchgate&#34;&gt;&lt;/i&gt;&lt;/a&gt;  
 &lt;a href=&#34;http://www.cirenys.cl&#34;&gt;&lt;i class=&#34;fas fa-link&#34;&gt;&lt;/i&gt; CIRENYS (UBO)&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Sergio Guajardo-Leiva</title>
-      <link>https://bdiezlab.netlify.app/people/sguajardo/</link>
+      <link>https://bdiezlab.com/people/sguajardo/</link>
       <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://bdiezlab.netlify.app/people/sguajardo/</guid>
+      <guid>https://bdiezlab.com/people/sguajardo/</guid>
       <description>&lt;p style=&#34;color:grey; font-size:20px; text-align:center;&#34;&gt; Scientific Collaborator &lt;/p&gt;
 &lt;div style=&#34;text-align:justify;&#34;&gt;
 &lt;h3&gt; About &lt;/h3&gt;
-&lt;p&gt;Viruses are ubiquitous, and viral infections may well affect all bacteria in all environments on Earth at some point in time. If we consider the well-documented information on marine habitats, viruses lyse approximately one-third of the ocean microorganisms per day, liberating carbon and nutrients globally. However, our current knowledge of viral diversity in other environments and their effects on bacterial populations is rudimentary at best. Whit this aim, I study viral genomics and metagenomics to understand the interaction of viruses with biotic and abiotic factors in different environments.
+&lt;p&gt;Viruses are ubiquitous, and viral infections may well affect all bacteria in all environments on Earth at some point in time. If we consider the well-documented information on marine habitats, viruses lyse approximately one-third of the ocean microorganisms per day, liberating carbon and nutrients globally. However, our current knowledge of viral diversity in other environments and their effects on bacterial populations is rudimentary at best. With this aim, I study viral genomics and metagenomics to understand the interaction of viruses with biotic and abiotic factors in different environments.
 Specifically, I am studying viral communities&#39; role in the biogeochemical cycles of plants&#39; rhizosphere and their interaction with rhizospheric microorganisms and soil&amp;rsquo;s physicochemical factors. I also study viral diversity and viral dark matter in urban environments such as sewage treatment plants and the urban aerobiome. Finally, I am interested in deciphering aquaculture&amp;rsquo;s impact on the fjords&#39; viral communities in Chilean Patagonia. &lt;br&gt;&lt;/p&gt;
 &lt;p&gt;Sergio currently holds a postdoctoral position at &lt;a href=&#34;http://www.castrolab.org/&#34;&gt;Castro Lab&lt;/a&gt;, from Universidad Andrés Bello, Chile. And is member of &lt;a href=&#34;https://www.polarix.org/&#34;&gt;Polarix&lt;/a&gt;.&lt;br&gt;&lt;/p&gt;
 &lt;/div&gt;
@@ -850,19 +851,19 @@ viromics.&lt;/li&gt;
 &lt;h3&gt; Contact &lt;/h3&gt;
 &lt;p&gt;
   &lt;i class=&#34;fas fa-envelope  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;a href=&#34;mailto:guajardo.sergio@gmail.com&#34;&gt;guajardo.sergio@gmail.com&lt;/a&gt; &lt;br&gt;
-&lt;a href=&#34;mailto:guajardo.sergio@gmail.com&#34;&gt;&lt;i class=&#34;fas fa-envelope&#34;&gt;&lt;/i&gt;&lt;/a&gt;
-&lt;a href=&#34;https://scholar.google.com/citations?user=LRVm2cUAAAAJ&amp;hl=en&#34;&gt;&lt;i class=&#34;ai ai-google-scholar-square ai&#34;&gt;&lt;/i&gt;&lt;/a&gt;
-&lt;a href=&#34;https://twitter.com/phageattack&#34;&gt;&lt;i class=&#34;fab fa-twitter&#34;&gt;&lt;/i&gt;&lt;/a&gt;
-&lt;a href=&#34;http://www.castrolab.org/&#34;&gt;&lt;i class=&#34;fas fa-link&#34;&gt;&lt;/i&gt; Castro Lab&lt;/a&gt;
+&lt;a href=&#34;mailto:guajardo.sergio@gmail.com&#34;&gt;&lt;i class=&#34;fas fa-envelope&#34;&gt;&lt;/i&gt;&lt;/a&gt;  
+&lt;a href=&#34;https://scholar.google.com/citations?user=LRVm2cUAAAAJ&amp;hl=en&#34;&gt;&lt;i class=&#34;ai ai-google-scholar-square ai&#34;&gt;&lt;/i&gt;&lt;/a&gt;  
+&lt;a href=&#34;https://twitter.com/phageattack&#34;&gt;&lt;i class=&#34;fab fa-twitter&#34;&gt;&lt;/i&gt;&lt;/a&gt;  
+&lt;a href=&#34;http://www.castrolab.org/&#34;&gt;&lt;i class=&#34;fas fa-link&#34;&gt;&lt;/i&gt; Castro Lab&lt;/a&gt;  
 &lt;a href=&#34;https://www.polarix.org/&#34;&gt;&lt;i class=&#34;fas fa-link&#34;&gt;&lt;/i&gt; Polarix&lt;/a&gt; &lt;br&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Tomás Sauma</title>
-      <link>https://bdiezlab.netlify.app/people/tsauma/</link>
+      <link>https://bdiezlab.com/people/tsauma/</link>
       <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://bdiezlab.netlify.app/people/tsauma/</guid>
+      <guid>https://bdiezlab.com/people/tsauma/</guid>
       <description>&lt;p style=&#34;color:grey; font-size:20px; text-align:center;&#34;&gt; Undergraduate Student &lt;/p&gt;
 &lt;div style=&#34;text-align:justify;&#34;&gt;
 &lt;p&gt;&lt;strong&gt;About&lt;/strong&gt;&lt;/p&gt;
@@ -904,9 +905,9 @@ viromics.&lt;/li&gt;
     
     <item>
       <title>Wilson Castillo-Inaipil</title>
-      <link>https://bdiezlab.netlify.app/people/wcastillo/</link>
+      <link>https://bdiezlab.com/people/wcastillo/</link>
       <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://bdiezlab.netlify.app/people/wcastillo/</guid>
+      <guid>https://bdiezlab.com/people/wcastillo/</guid>
       <description>&lt;p style=&#34;color:grey; font-size:20px; text-align:center;&#34;&gt; Undergraduate Student &lt;/p&gt;
 &lt;div style=&#34;text-align:justify;&#34;&gt;
 &lt;p&gt;&lt;strong&gt;About&lt;/strong&gt;&lt;/p&gt;
@@ -943,16 +944,16 @@ viromics.&lt;/li&gt;
 &lt;h3&gt; Contact &lt;/h3&gt;
 &lt;p&gt;
   &lt;i class=&#34;fas fa-envelope  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;a href=&#34;mailto:wilson.castillo@ug.uchile.cl&#34;&gt;wilson.castillo@ug.uchile.cl&lt;/a&gt; &lt;br&gt;
-&lt;a href=&#34;mailto:wilson.castillo@ug.uchile.cl&#34;&gt;&lt;i class=&#34;fas fa-envelope&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+&lt;a href=&#34;mailto:wilson.castillo@ug.uchile.cl&#34;&gt;&lt;i class=&#34;fas fa-envelope&#34;&gt;&lt;/i&gt;&lt;/a&gt;  
 &lt;a href=&#34;https://www.linkedin.com/in/wilson-elias-castillo-inaipil-7a3437205/&#34;&gt;&lt;i class=&#34;fab fa-linkedin&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Diego Segura</title>
-      <link>https://bdiezlab.netlify.app/people/dsegura/</link>
+      <link>https://bdiezlab.com/people/dsegura/</link>
       <pubDate>Fri, 16 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://bdiezlab.netlify.app/people/dsegura/</guid>
+      <guid>https://bdiezlab.com/people/dsegura/</guid>
       <description>&lt;p style=&#34;color:grey; font-size:20px; text-align:center;&#34;&gt; Scientific Collaborator &lt;/p&gt;
 &lt;div style=&#34;text-align:justify;&#34;&gt;
 &lt;h3&gt; About &lt;/h3&gt;
@@ -994,8 +995,8 @@ viromics.&lt;/li&gt;
   &lt;i class=&#34;fas fa-envelope  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;a href=&#34;mailto:diego.segura@ug.uchile.cl&#34;&gt;diego.segura@ug.uchile.cl&lt;/a&gt;&lt;br&gt;
 
   &lt;i class=&#34;fas fa-envelope  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;a href=&#34;mailto:dsegurc@gmail.com&#34;&gt;dsegurc@gmail.com&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;mailto:diego.segura@ug.uchile.cl&#34;&gt;&lt;i class=&#34;fas fa-envelope&#34;&gt;&lt;/i&gt;&lt;/a&gt;
-&lt;a href=&#34;mailto:dsegurc@gmail.com&#34;&gt;&lt;i class=&#34;fas fa-envelope&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+&lt;a href=&#34;mailto:diego.segura@ug.uchile.cl&#34;&gt;&lt;i class=&#34;fas fa-envelope&#34;&gt;&lt;/i&gt;&lt;/a&gt;  
+&lt;a href=&#34;mailto:dsegurc@gmail.com&#34;&gt;&lt;i class=&#34;fas fa-envelope&#34;&gt;&lt;/i&gt;&lt;/a&gt;  
 &lt;a href=&#34;https://www.linkedin.com/in/diego-segura-cáceres-578a25168&#34;&gt;&lt;i class=&#34;fab fa-linkedin&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
 </description>
     </item>

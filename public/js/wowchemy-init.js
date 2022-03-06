@@ -1,5 +1,5 @@
 (() => {
-  // ns-hugo:/Users/javierignaciotamayoleiva/Dropbox/Documentos/R/Blogdown/BD_Lab/BD_Website/themes/github.com/wowchemy/wowchemy-hugo-modules/wowchemy/assets/js/wowchemy-theming.js
+  // ns-hugo:/Users/javierignaciotamayoleiva/Dropbox/Documents/DataScience/GitHub/Blogdown/BD_Lab/BD_Website/themes/github.com/wowchemy/wowchemy-hugo-modules/wowchemy/assets/js/wowchemy-theming.js
   var body = document.body;
   function getThemeMode() {
     return parseInt(localStorage.getItem("wcTheme") || 2);
@@ -50,7 +50,7 @@
   var wcDarkLightEnabled = false;
   var wcIsSiteThemeDark = false;
 
-  // js/wowchemy-init.js
+  // <stdin>
   window.wc = {
     darkLightEnabled: wcDarkLightEnabled,
     isSiteThemeDark: wcIsSiteThemeDark

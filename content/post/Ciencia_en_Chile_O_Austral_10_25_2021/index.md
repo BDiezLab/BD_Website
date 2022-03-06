@@ -20,7 +20,7 @@ projects: []
 summary: "Entrevista Dra. Beatriz Díez - Ciencia en Chile (Diciembre 10, 2021)"
 title: "Los virus que se ocultan en el agua termal del Tatio comienzan a ser identificados"
 subtitle: "Entrevista Dra. Beatriz Díez para Ciencia en Chile"
-tags: ["Women in Sciences", "El Tatio", "Ciencia en Chile"]
+tags: ["Women in Sciences", "Océano Austral", "Ciencia en Chile"]
 ---
 
 <div style="text-align:justify;">

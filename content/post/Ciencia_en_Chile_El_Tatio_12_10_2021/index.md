@@ -1,8 +1,6 @@
 ---
 authors:
 - admin
-- OSalgado
-- CBarbosa
 categories:
 - Interview
 - Sciences
@@ -79,6 +77,6 @@ Los investigadores dicen que quieren aportar para formar un repositorio de conoc
 
 <br>
 
-También puedes leer la entrevista en su formato original en [Ciencia en Chile]https://www.cienciaenchile.cl/los-virus-que-se-ocultan-en-el-agua-termal-del-tatio-comienzan-a-ser-identificados/)
+También puedes leer la entrevista en su formato original en [Ciencia en Chile](https://www.cienciaenchile.cl/los-virus-que-se-ocultan-en-el-agua-termal-del-tatio-comienzan-a-ser-identificados/)
 
 </div>

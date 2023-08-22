@@ -11,11 +11,11 @@ author_notes:
 - ""
 - Corresponding
 authors:
-- Óscar Salgado
-- Sergio Guajardo-Leiva
+- OSalgado
+- SGuajardo
 - Ana Moya-Beltrán
-- Carla Barbosa
-- Christina Ridley
+- CBarbosa
+- CRidley
 - JTamayo
 - Raquel Quatrini
 - Francisco J. M. Mojica

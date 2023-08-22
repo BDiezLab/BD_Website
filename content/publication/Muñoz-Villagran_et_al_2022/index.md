@@ -6,6 +6,7 @@ author_notes:
 - ""
 - ""
 - ""
+- ""
 - Corresponding
 authors:
 - Claudia Muños-Villagrán
@@ -13,9 +14,9 @@ authors:
 - Javiera Acevedo-Arbunic
 - Ximena Valenzuela
 - Alonso Ferrer
-- Beatriz Díez
-- Gloria Levicán 
 - admin
+- Gloria Levicán 
+
 
 date: "2022-08-24"
 doi: "https://doi.org/10.3389/fmicb.2022.960324"

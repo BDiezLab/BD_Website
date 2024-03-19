@@ -23,7 +23,7 @@ social:
   link: /#contact
 superuser: false
 authors:
-- DBeecher
+- Diego Beecher
 title: Diego Beecher
 tags: ["Grad Students", "Current Members"]
 summary: PhD. Student
@@ -66,7 +66,7 @@ Mi línea de investigación se enfoca en la ecología de los ambientes marinos, 
 <div class="column-right">
 
 <h3> Education </h3>
-{{< icon name="graduation-cap" pack="fas" >}} ioquímica
+{{< icon name="graduation-cap" pack="fas" >}} Bioquímica
 <p style="color:grey; font-size:15px; padding-left:32px;"> Pontificia Universidad Católica de Chile, Chile  </p>
 {{< icon name="graduation-cap" pack="fas" >}} Biología Marina, 2020
 <p style="color:grey; font-size:15px; padding-left:32px;"> Universidad Católica del Norte, Chile </p>

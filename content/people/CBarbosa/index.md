@@ -14,7 +14,7 @@ interests:
 - Geothermal exploration
 - Hidrogeochemistry
 - Geomicrobiology
-user_groups: ["Grad Students"]
+user_groups: ["Former Lab Members"]
 organizations:
 - name: P. Universidad Católica de Chile
   url: "https://www.uc.cl"

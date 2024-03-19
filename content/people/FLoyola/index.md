@@ -31,6 +31,7 @@ authors:
 - FLoyola
 title: Felipe Loyola
 tags: ["Current Members", "Grad Students"]
+tags: ["Former Lab Members", "Grad Students"]
 summary: MSc. Student
 ---
 <p style="color:grey; font-size:20px; text-align:center;"> MSc. Student </p>

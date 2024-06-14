@@ -1,6 +1,7 @@
 ---
 date: "2021-10-16"
 bio: ''
+weight: 3
 education:
   courses:
   - course: MSc Biochemistry  

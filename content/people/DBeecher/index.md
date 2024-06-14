@@ -1,7 +1,7 @@
 ---
 date: "2023-12-01"
 
-weight: 60
+weight: 6
 
 bio: ''
 education:

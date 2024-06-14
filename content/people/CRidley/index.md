@@ -31,7 +31,7 @@ interests:
 organizations:
 - name: P. Universidad Católica de Chile
   url: "https://www.uc.cl"
-role: Postdoc
+role: Postdoctoral fellow
 
 social:
 - icon: envelope

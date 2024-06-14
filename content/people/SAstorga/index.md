@@ -29,14 +29,14 @@ social:
   link: https://www.linkedin.com/in/peteete
 superuser: false
 authors:
-- FLoyola
-title: Felipe Loyola
+- SAstorga
+title: Sebastián Astorga
 
-tags: ["Current Members", "Grad Students"]
+tags: ["Current Members"]
 
-summary: MSc. Student
+summary: Undergraduate
 ---
-<p style="color:grey; font-size:20px; text-align:center;"> MSc. Student </p>
+<p style="color:grey; font-size:20px; text-align:center;"> Undergraduate </p>
 
 <div style="text-align:justify;">
 

@@ -6,7 +6,7 @@ superuser: false
 authors: ["CRidley"]
 tags: ["Postdoctoral Fellow", "Current Members"]
 user_groups: ["Postdoctoral Fellow"]
-
+tags: ["Former Lab Members", "Researchers Network"]
 summary: Postdoctoral Fellow
 
 education:

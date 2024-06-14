@@ -7,7 +7,7 @@ authors: ["CRidley"]
 
 user_groups: ["Postdoctoral Fellow"]
 
-tags: ["Former Lab Members", "Researchers Network"]
+tags: ["Postdoctoral Fellow", "Former Lab Members", "Researchers Network"]
 
 summary: Postdoctoral Fellow
 

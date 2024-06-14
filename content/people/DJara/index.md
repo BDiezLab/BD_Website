@@ -26,8 +26,9 @@ superuser: false
 authors:
 - DJara
 title: Dominique Jara
-tags: ["Undergraduate", "Current Members"]
+
 tags: ["Former Lab Members", "Researchers Network"]
+
 summary: Undergraduate Student
 ---
 <p style="color:grey; font-size:20px; text-align:center;"> Undergraduate Student </p>

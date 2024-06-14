@@ -26,7 +26,7 @@ superuser: false
 authors:
 - KJordaan
 title: Karen Jordaan
-tags: ["Postdoctoral Fellow", "Current Members"]
+tags: ["Postdoctoral Fellow", "Former Lab Members"]
 summary: Postdoctoral fellow
 ---
 <p style="color:grey; font-size:20px; text-align:center;"> Postdoctoral fellow </p>

@@ -27,7 +27,7 @@ superuser: false
 authors:
 - OSalgado
 title: Oscar Salgado
-tags: ["Grad Students", "Current Members"]
+tags: ["Grad Students", "Former Lab Members"]
 summary: PhD. Student
 ---
 <p style="color:grey; font-size:20px; text-align:center;"> PhD. Student </p>

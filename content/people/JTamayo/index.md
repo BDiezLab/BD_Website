@@ -51,7 +51,7 @@ superuser: false
 authors:
 - JTamayo
 title: Javier Tamayo-Leiva
-tags: ["Current Members", "Grad Students"]
+tags: ["Former Lab Members", "Grad Students"]
 summary: PhD. Student
 ---
 <p style="color:grey; font-size:20px; text-align:center;"> PhD. Student </p>

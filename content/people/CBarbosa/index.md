@@ -27,8 +27,9 @@ superuser: false
 authors:
 - CBarbosa
 title: Carla Barbosa
-tags: ["Grad Students", "Current Members"]
+
 tags: ["Former Lab Members", "Researchers Network"]
+
 summary: MSc. Students
 ---
 <p style="color:grey; font-size:20px; text-align:center;"> MSc. Students </p>

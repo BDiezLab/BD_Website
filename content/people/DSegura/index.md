@@ -33,8 +33,9 @@ superuser: false
 authors:
 - DSegura
 title: Diego Segura
-tags: ["Grad Students", "Current Members"]
+
 tags: ["Former Lab Members", "Researchers Network"]
+
 summary: Scientific Collaborator
 date: "2021-04-16"
 ---

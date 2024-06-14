@@ -11,7 +11,7 @@ education:
     year: 20..
 email: "jonachoarroyo@gmail.com"
 interests:
-user_groups: ["Former Lab Members"]
+user_groups: ["Former Lab Members", "Former Lab Members"]
 organizations:
 - name: Santa Fe Institute, USA
   url: "www.santafe.edu"

@@ -30,7 +30,8 @@ superuser: false
 authors:
 - WCastillo
 title: Wilson Castillo-Inaipil
-tags: ["Undergraduate", "Current Members"]
+tags: ["Undergraduate", "Former Lab Members"]
+
 summary: Undergraduate Student
 ---
 <p style="color:grey; font-size:20px; text-align:center;"> Undergraduate Student </p>

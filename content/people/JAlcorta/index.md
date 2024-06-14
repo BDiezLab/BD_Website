@@ -44,8 +44,9 @@ superuser: false
 authors:
 - JAlcorta
 title: Jaime Alcorta
-tags: ["Grad Students", "Current Members"]
+
 tags: ["Former Lab Members", "Researchers Network"]
+
 summary: PhD. Student
 ---
 <p style="color:grey; font-size:20px; text-align:center;"> PhD. Student </p>

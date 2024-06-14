@@ -24,7 +24,7 @@ superuser: false
 authors:
 - TSauma
 title: Tomás Sauma
-tags: ["Undergraduate", "Current Members"]
+tags: ["Undergraduate", "Former Lab Members"]
 summary: Undergraduate Student
 ---
 <p style="color:grey; font-size:20px; text-align:center;"> Undergraduate Student </p>

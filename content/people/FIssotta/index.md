@@ -28,14 +28,14 @@ social:
   link: https://www.linkedin.com/in/peteete
 superuser: false
 authors:
-- FLoyola
-title: Felipe Loyola
+- FIssotta
+title: Francisco Issotta
 
-tags: ["Current Members", "Grad Students"]
+tags: ["Current Members"]
 
-summary: MSc. Student
+summary: Posdoc
 ---
-<p style="color:grey; font-size:20px; text-align:center;"> MSc. Student </p>
+<p style="color:grey; font-size:20px; text-align:center;"> Posdoc </p>
 
 <div style="text-align:justify;">
 

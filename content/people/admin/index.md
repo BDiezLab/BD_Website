@@ -2,9 +2,15 @@
 date: "2021-05-18"
 
 title: Beatriz Díez Moreno
+
+weight: 1
+
 superuser: true
+
 highlight_name: true
-user_groups: ["Principal Investigator", ""]
+
+user_groups: ["Principal Investigator"]
+
 tags: ["Current Members", "Principal Investigator"]
 
 summary: Associate Professor.<br> 
